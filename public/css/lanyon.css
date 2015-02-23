@@ -41,7 +41,7 @@ body {
 }
 
 html {
-  font-family: "PT Serif", Georgia, "Times New Roman", serif;
+  font-family: "PT Sans", Helvetica, Arial, sans-serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -275,17 +275,17 @@ a.sidebar-nav-item:focus {
           perspective: 1000;
 }
 .sidebar {
-  -webkit-transition: all .3s ease-in-out;
-     -moz-transition: all .3s ease-in-out;
-      -ms-transition: all .3s ease-in-out;
-          transition: all .3s ease-in-out;
+  -webkit-transition: all .4s ease-in-out;
+     -moz-transition: all .4s ease-in-out;
+      -ms-transition: all .4s ease-in-out;
+          transition: all .4s ease-in-out;
 }
 .wrap,
 .sidebar-toggle {
-  -webkit-transition: left .3s ease-in-out;
-     -moz-transition: left .3s ease-in-out;
-      -ms-transition: left .3s ease-in-out;
-          transition: left .3s ease-in-out;
+  -webkit-transition: left .4s ease-in-out;
+     -moz-transition: left .4s ease-in-out;
+      -ms-transition: left .4s ease-in-out;
+          transition: left .4s ease-in-out;
 }
 
 #sidebar-checkbox:checked + .sidebar {
