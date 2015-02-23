@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+  <head>
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  <!-- Enable responsiveness on mobile devices-->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title>
+    
+      Elisabeth Gray &middot; a repository of personal and academic work
+    
+  </title>
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="/public/css/poole.css">
+  <link rel="stylesheet" href="/public/css/syntax.css">
+  <link rel="stylesheet" href="/public/css/lanyon.css">
+  <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700|PT+Sans:400">
+
+  <!-- Icons -->
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/public/apple-touch-icon-144-precomposed.png">
+  <link rel="shortcut icon" href="/public/favicon.ico">
+
+  <!-- RSS -->
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
+
+  <!-- meta robots -->
+  
+</head>
+
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-59093032-1', 'auto');
+  ga('send', 'pageview');
+</script>
+
+
+  <body class="theme-base-22">
+
+    <!-- Target for toggling the sidebar `.sidebar-checkbox` is for regular
+styles, `#sidebar-checkbox` for behavior. -->
+<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
+
+<!-- Toggleable sidebar -->
+<div class="sidebar" id="sidebar">
+  <div class="sidebar-item">
+  </div>
+
+  <nav class="sidebar-nav">
+    <a class="sidebar-nav-item" href="/">Home</a>
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <a class="sidebar-nav-item" href="/archive/">Blog Posts</a>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <a class="sidebar-nav-item" href="/cv/">Curriculum Vitae</a>
+    
+    
+    
+    
+    
+    
+    
+    <a class="sidebar-nav-item" href="/papers/">Academic Papers</a>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <a class="sidebar-nav-item" href="/projects/">Academic Projects</a>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    <a class="sidebar-nav-item" href="https://github.com/elcgray">GitHub</a>
+
+    <a class="sidebar-nav-item" href="https://twitter.com/elcgray" class="twitter-follow-button" data-show-count="false">Twitter</a>
+
+  <div class="sidebar-item">
+    <p>
+      &copy; 2015. All rights reserved.<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a>
+
+    </p>
+  </div>
+</div>
+
+
+    <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
+         content to avoid any CSS collisions with our real content. -->
+    <div class="wrap">
+      <div class="masthead">
+        <div class="container">
+          <label for="sidebar-checkbox" class="sidebar-toggle"></label>
+
+          <h3 class="masthead-title">
+            <a href="/" title="Home">Elisabeth Gray</a>
+            <small>a repository of personal and academic work</small>
+          </h3>
+        </div>
+      </div>
+
+      <div class="container content">
+        <?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Elisabeth Gray</title>
+ <link href="http://www.elisabethgray.me/atom.xml" rel="self"/>
+ <link href="http://www.elisabethgray.me/"/>
+ <updated>2015-02-22T18:19:42-06:00</updated>
+ <id>http://www.elisabethgray.me</id>
+ <author>
+   <name></name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>It's Almost Time</title>
+   <link href="http://www.elisabethgray.me/2015/02/12/almost-time/"/>
+   <updated>2015-02-12T00:00:00-06:00</updated>
+   <id>http://www.elisabethgray.me/2015/02/12/almost-time</id>
+   <content type="html">&lt;p&gt;I&amp;#39;m nearly finished compiling the preliminary list of sources for my &lt;a href=&quot;/projects/arab-spring/outline&quot;&gt;research project outline&lt;/a&gt;, so I&amp;#39;ll write more interesting posts here soon. In the meantime, take a look at some of the past &lt;a href=&quot;/papers&quot;&gt;papers&lt;/a&gt; I&amp;#39;ve written and let me know what you think in the comments section.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Academic Papers and Comment Functionality Added</title>
+   <link href="http://www.elisabethgray.me/2015/01/31/papers-and-comment-functionality-added/"/>
+   <updated>2015-01-31T00:00:00-06:00</updated>
+   <id>http://www.elisabethgray.me/2015/01/31/papers-and-comment-functionality-added</id>
+   <content type="html">&lt;p&gt;Most of my academic papers from graduate school are posted, and you can now leave comments, as well. Please feel free to peruse what&amp;#39;s available and leave feedback!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Introduction</title>
+   <link href="http://www.elisabethgray.me/2015/01/06/introduction/"/>
+   <updated>2015-01-06T00:00:00-06:00</updated>
+   <id>http://www.elisabethgray.me/2015/01/06/introduction</id>
+   <content type="html">&lt;p&gt;Welcome! I&amp;#39;m just starting to put together a collection of my academic &lt;a href=&quot;/papers&quot;&gt;papers&lt;/a&gt;, and &lt;a href=&quot;/projects&quot;&gt;projects&lt;/a&gt; will follow shortly after. Over the course of the next several months, I&amp;#39;ll begin to use this site as the base of my work toward a final research project. Check back for more information soon.&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
+
+        <div class="container">
+          
+
+        </div>
+        <hr>
+          <div class="message">
+<center>
+  <small>
+    <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Personal and academic work</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://elisabethgray.me/" property="cc:attributionName" rel="cc:attributionURL">Elisabeth Gray</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+  </small>
+</center>
+</div>
+
+        <br />
+        <br />
+      </div>
+    </div>
+  </body>
+
+</html>

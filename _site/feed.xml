@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Elisabeth Gray</title>
+    <description>A repository of personal and academic work created by Elisabeth Gray</description>
+    <link>http://www.elisabethgray.me//</link>
+    <atom:link href="http://www.elisabethgray.me//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 22 Feb 2015 18:19:42 -0600</pubDate>
+    <lastBuildDate>Sun, 22 Feb 2015 18:19:42 -0600</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>It&#39;s Almost Time</title>
+        <description>&lt;p&gt;I&amp;#39;m nearly finished compiling the preliminary list of sources for my &lt;a href=&quot;/projects/arab-spring/outline&quot;&gt;research project outline&lt;/a&gt;, so I&amp;#39;ll write more interesting posts here soon. In the meantime, take a look at some of the past &lt;a href=&quot;/papers&quot;&gt;papers&lt;/a&gt; I&amp;#39;ve written and let me know what you think in the comments section.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 12 Feb 2015 00:00:00 -0600</pubDate>
+        <link>http://www.elisabethgray.me//2015/02/12/almost-time/</link>
+        <guid isPermaLink="true">http://www.elisabethgray.me//2015/02/12/almost-time/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Academic Papers and Comment Functionality Added</title>
+        <description>&lt;p&gt;Most of my academic papers from graduate school are posted, and you can now leave comments, as well. Please feel free to peruse what&amp;#39;s available and leave feedback!&lt;/p&gt;
+</description>
+        <pubDate>Sat, 31 Jan 2015 00:00:00 -0600</pubDate>
+        <link>http://www.elisabethgray.me//2015/01/31/papers-and-comment-functionality-added/</link>
+        <guid isPermaLink="true">http://www.elisabethgray.me//2015/01/31/papers-and-comment-functionality-added/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Introduction</title>
+        <description>&lt;p&gt;Welcome! I&amp;#39;m just starting to put together a collection of my academic &lt;a href=&quot;/papers&quot;&gt;papers&lt;/a&gt;, and &lt;a href=&quot;/projects&quot;&gt;projects&lt;/a&gt; will follow shortly after. Over the course of the next several months, I&amp;#39;ll begin to use this site as the base of my work toward a final research project. Check back for more information soon.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 06 Jan 2015 00:00:00 -0600</pubDate>
+        <link>http://www.elisabethgray.me//2015/01/06/introduction/</link>
+        <guid isPermaLink="true">http://www.elisabethgray.me//2015/01/06/introduction/</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
