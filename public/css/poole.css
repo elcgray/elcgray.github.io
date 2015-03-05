@@ -95,9 +95,17 @@ h3 {
   margin-top: 1.5rem;
   font-size: 1.2rem;
 }
-h4, h5, h6 {
+h4 {
   margin-top: 1rem;
   font-size: 1.1rem;
+}
+h5 {
+  margin-top: 1rem;
+  font-size: .9rem;
+}
+h6 {
+  margin-top: 1rem;
+  font-size: .7rem;
 }
 
 /* Body text */
