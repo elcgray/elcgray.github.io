@@ -69,6 +69,8 @@ styles, `#sidebar-checkbox` for behavior. -->
     
     
     
+    
+    
     <a class="sidebar-nav-item" href="/archive/">Blog Posts</a>
     
     
@@ -80,6 +82,14 @@ styles, `#sidebar-checkbox` for behavior. -->
     
     
     <a class="sidebar-nav-item" href="/cv/">Curriculum Vitae</a>
+    
+    
+    
+    
+    
+    
+    
+    
     
     
     
@@ -169,26 +179,6 @@ styles, `#sidebar-checkbox` for behavior. -->
     
     
     
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
 
     <a class="sidebar-nav-item" href="https://github.com/elcgray">GitHub</a>
 
@@ -224,7 +214,7 @@ styles, `#sidebar-checkbox` for behavior. -->
  <title>Elisabeth Gray</title>
  <link href="http://www.elisabethgray.me/atom.xml" rel="self"/>
  <link href="http://www.elisabethgray.me/"/>
- <updated>2015-03-18T10:28:03-05:00</updated>
+ <updated>2015-03-22T20:08:12-05:00</updated>
  <id>http://www.elisabethgray.me</id>
  <author>
    <name></name>
@@ -237,7 +227,7 @@ styles, `#sidebar-checkbox` for behavior. -->
    <link href="http://www.elisabethgray.me/2015/02/12/almost-time/"/>
    <updated>2015-02-12T00:00:00-06:00</updated>
    <id>http://www.elisabethgray.me/2015/02/12/almost-time</id>
-   <content type="html">&lt;p&gt;I&amp;#39;m nearly finished compiling the preliminary list of sources for my &lt;a href=&quot;/projects/arab-spring/outline&quot;&gt;research project outline&lt;/a&gt;, so I&amp;#39;ll write more interesting posts here soon. In the meantime, take a look at some of the past &lt;a href=&quot;/papers&quot;&gt;papers&lt;/a&gt; I&amp;#39;ve written and let me know what you think in the comments section.&lt;/p&gt;
+   <content type="html">&lt;p&gt;I&amp;#39;m nearly finished compiling the preliminary list of sources for my &lt;a href=&quot;/projects/arab-uprisings/outline&quot;&gt;research project outline&lt;/a&gt;, so I&amp;#39;ll write more interesting posts here soon. In the meantime, take a look at some of the past &lt;a href=&quot;/papers&quot;&gt;papers&lt;/a&gt; I&amp;#39;ve written and let me know what you think in the comments section.&lt;/p&gt;
 </content>
  </entry>
  
