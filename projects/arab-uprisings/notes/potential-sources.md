@@ -1,3 +1,8 @@
+http://www.aeinstein.org/
+http://www.bbc.com/news/world-africa-13754897
+http://www.bbc.com/news/world-middle-east-12522848
+http://www.bbc.com/news/world-africa-31521282
+http://andrewgavinmarshall.com/2013/02/11/tunisias-unfinished-revolution-from-dictatorship-to-democracy/
 http://thaqafamagazine.com/2015/02/28/revolution-egypt-2015-middle-east/
 https://www.facebook.com/ElShaheeed
 https://twitter.com/search?q=Ash-shab%20yurid%20isqat%20an-nizam&src=typd
@@ -288,45 +293,4 @@ Fuchs, C. (2012). Social media, riots, and revolutions. Capital & Class, 36(3), 
 Murthy, D. (2011). Twitter: Microphone for the masses? Media Culture Society, 22(5), 779-789. doi:10.1177/0163443711404744
 
 Lynch, Marc. (2014). Arab Uprisings Explained. Columbia University Press. Retrieved 8 February 2015, from <http://www.myilibrary.com.ezproxy1.lib.asu.edu?ID=686256>
--->
-
-
-
-
-<!-------------------------------------------------------------------------------------------------- Read, could be used
-
-@article{georgia-institute-tech,
-  contributor   = {Georgia Institute of Technology},
-  title         = {Drug war violence in Mexico connected with desensitization in social media},
-  journal       = {ScienceDaily},
-  year          = 2014,
-  month         = 3,
-  url           = {<http://www.sciencedaily.com/releases/2014/03/140304154525.htm>}
-}
-@article{hui,
-  author  = {Hui, J.Y.},
-  title   = {The Internet in Indonesia Development and Impact of Radical Websites},
-  journal = {Studies in Conflict and Terrorism},
-  year    = 2010,
-  number  = 2,
-  pages   = {171-191},
-  volume  = 33,
-  url     = {<http://dx.doi.org/10.1080/10576100903400605>}
-}
-@article{kirchner,
-  author  = {Kirchner, L},
-  title   = {Media as Both Weapon and Defense in the Mexican Drug War},
-  journal = {Pacific Standard: The Science of Society},
-  year    = 2014,
-  month   = 3,
-  url     = {<http://www.psmag.com/navigation/health-and-behavior/media-weapon-defense-mexican-drug-war-76243/>}
-}
-@article{fritsch,
-  title     = {Technology and Global Affairs},
-  author    = {Fritsch, S},
-  year      = {2011},
-  journal   = {International Studies Perspectives},
-  number    = {12},
-  pages     = {27-45}
-}
 -->
