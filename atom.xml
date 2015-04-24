@@ -143,6 +143,10 @@ styles, `#sidebar-checkbox` for behavior. -->
     
     
     
+    
+    
+    
+    
     <a class="sidebar-nav-item" href="/papers/">Academic Papers</a>
     
     
@@ -278,13 +282,201 @@ styles, `#sidebar-checkbox` for behavior. -->
  <title>Elisabeth Gray</title>
  <link href="http://www.elisabethgray.me/atom.xml" rel="self"/>
  <link href="http://www.elisabethgray.me/"/>
- <updated>2015-04-23T20:44:42-05:00</updated>
+ <updated>2015-04-23T20:54:08-05:00</updated>
  <id>http://www.elisabethgray.me</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Social Media and the Arab Uprisings: Libya's Status Today</title>
+   <link href="http://www.elisabethgray.me/2015/04/23/smau-libya-today/"/>
+   <updated>2015-04-23T00:00:00-05:00</updated>
+   <id>http://www.elisabethgray.me/2015/04/23/smau-libya-today</id>
+   <content type="html">&lt;h2&gt;Summary of events&lt;/h2&gt;
+
+&lt;table&gt;
+&lt;tr&gt;
+  &lt;td&gt;&lt;b&gt;2011&lt;/b&gt;&lt;/td&gt;
+  &lt;td&gt;October&lt;/td&gt;
+  &lt;td&gt;&lt;a href=&quot;/2015/04/02/smau-background-libya#oct20&quot;&gt;Gaddafi is killed&lt;/a&gt;. The National Transitional Congress (NTC) announces Libya&#39;s liberation and plans to hold elections within eight months.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td&gt;&lt;b&gt;2012&lt;/b&gt;&lt;/td&gt;
+  &lt;td&gt;January&lt;/td&gt;
+  &lt;td&gt;Former rebel forces clash in Benghazi, and Abdel Hafiz Ghoga, the deputy head of the NTC, &lt;a href=&quot;http://www.bbc.com/news/world-africa-16671590&quot;&gt;resigns&lt;/a&gt;.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td&gt;&lt;/td&gt;
+  &lt;td&gt;February&lt;/td&gt;
+  &lt;td&gt;Clashes between rival ethnic groups in the southeast of Libya kill many.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td&gt;&lt;/td&gt;
+  &lt;td&gt;March&lt;/td&gt;
+  &lt;td&gt;NTC officials in Benghazi conflict with those in Tripoli.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td&gt;&lt;/td&gt;
+  &lt;td&gt;June&lt;/td&gt;
+  &lt;td&gt;Government forces struggle to suppress local militias; Tripoli&#39;s airport is temporarily &lt;a href=&quot;http://www.reuters.com/article/2012/06/04/us-libya-airport-idUSBRE8530H720120604&quot;&gt;commandeered&lt;/a&gt;. &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td&gt;&lt;/td&gt;
+  &lt;td&gt;July&lt;/td&gt;
+  &lt;td&gt;Elections are held.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td&gt;&lt;/td&gt;
+  &lt;td&gt;August&lt;/td&gt;
+  &lt;td&gt;Power is transferred from the TNC to the General National Congress (GNC). Mohammed Magarief is elected to be the &lt;a href=&quot;http://www.reuters.com/article/2012/08/10/us-libya-assembly-idUSBRE8781ID20120810&quot;&gt;interim president&lt;/a&gt;.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td&gt;&lt;/td&gt;
+  &lt;td&gt;September&lt;/td&gt;
+  &lt;td&gt;Islamist militants &lt;a href=&quot;http://www.cnn.com/2012/09/12/world/africa/libya-consulate-attack-scene/&quot;&gt;attack the American consulate&lt;/a&gt; in Benghazi, leaving a US ambassador and three other Americans dead.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td&gt;&lt;/td&gt;
+  &lt;td&gt;October&lt;/td&gt;
+  &lt;td&gt;Ali Zeidan replaces Abdul Raheem Al-Keeb as prime minister.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td&gt;&lt;b&gt;2013&lt;/b&gt;&lt;/td&gt;
+  &lt;td&gt;May&lt;/td&gt;
+  &lt;td&gt;A law which prohibits Gaddafi-era officials from holding public office is passed. The Chairman of the GNC, Muhammad al-Magarief, &lt;a href=&quot;http://www.bbc.com/news/world-africa-22693963&quot;&gt;resigns&lt;/a&gt; in compliance.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td&gt;&lt;/td&gt;
+  &lt;td&gt;June&lt;/td&gt;
+  &lt;td&gt;Nuri Abu Sahmein is elected as GNC chairman.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td&gt;&lt;/td&gt;
+  &lt;td&gt;August&lt;/td&gt;
+  &lt;td&gt;Militia forces &lt;a href=&quot;http://www.bbc.com/news/world-africa-24051371&quot;&gt;blockade oil export terminals&lt;/a&gt;.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td&gt;&lt;/td&gt;
+  &lt;td&gt;October&lt;/td&gt;
+  &lt;td&gt;An armed militia &lt;a href=&quot;http://www.npr.org/blogs/thetwo-way/2013/10/10/231321768/libyan-pm-freed-after-gunmen-demand-his-resignation&quot;&gt;abducts Prime Minister Ali Zeidan&lt;/a&gt;, albeit briefly.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td&gt;&lt;/td&gt;
+  &lt;td&gt;November&lt;/td&gt;
+  &lt;td&gt;The army clashes with armed Islamists in Benghazi, and nine people are killed.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td&gt;&lt;/td&gt;
+  &lt;td&gt;December&lt;/td&gt;
+  &lt;td&gt;A &lt;a href=&quot;http://www.cnn.com/2013/12/22/world/africa/libya-blast/&quot;&gt;suicide attack&lt;/a&gt; occurs in Benghazi.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td&gt;&lt;b&gt;2014&lt;/b&gt;&lt;/td&gt;
+  &lt;td&gt;February&lt;/td&gt;
+  &lt;td&gt;Protests erupt in response to the GNC&#39;s refusal to step down after their term expired.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td&gt;&lt;/td&gt;
+  &lt;td&gt;March&lt;/td&gt;
+  &lt;td&gt;Prime Minister Ali Zeidan is removed from office after the Libyan navy fails to stop a &lt;a href=&quot;http://www.aljazeera.com/news/africa/2014/03/us-navy-seals-board-rouge-libya-oil-tanker-201431710529805169.html&quot;&gt;rogue oil tanker&lt;/a&gt; from escaping. Abdullah al-Thani takes over in Zeidan&#39;s stead. &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td&gt;&lt;/td&gt;
+  &lt;td&gt;April&lt;/td&gt;
+  &lt;td&gt;Al-Thani negotiates with militia forces to remove blockades for two oil export terminals and, later in the month, submits his resignation. &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td&gt;&lt;/td&gt;
+  &lt;td&gt;May&lt;/td&gt;
+  &lt;td&gt;Ahmed Maiteeq is elected prime minister in al-Thani&#39;s place. Army general Khalifa Haftar defects and &lt;a href=&quot;http://stream.aljazeera.com/story/201405262200-0023759&quot;&gt;launches airstrikes&lt;/a&gt; against militant Islamist groups in Benghazi. Haftar also accuses Prime Minister Maiteeq of being tied to Islamists and attempts to storm the parliament building.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td&gt;&lt;/td&gt;
+  &lt;td&gt;June&lt;/td&gt;
+  &lt;td&gt;Prime Minister Maiteeq&#39;s appointment is &lt;a href=&quot;http://www.nytimes.com/2014/06/10/world/middleeast/libya-court-rejects-disputed-vote-to-replace-interim-prime-minister.html&quot;&gt;deemed illegal&lt;/a&gt;; he resigns. Elections have a low turn out due to security concerns and protests. Conflicts arise between supporters of the outbound GNC and the newly elected parliament.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td&gt;&lt;/td&gt;
+  &lt;td&gt;July&lt;/td&gt;
+  &lt;td&gt;Militant Islamist groups overtake most of Benghazi. Foreigners flee the country.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td&gt;&lt;/td&gt;
+  &lt;td&gt;October&lt;/td&gt;
+  &lt;td&gt;UN reports that hundreds of thousands of people were displaced by civil war. Talks are brokered between rival governments in Tobruk and Tripoli. ISIL &lt;a href=&quot;http://www.cnn.com/2014/11/18/world/isis-libya/&quot;&gt;takes over the port of Derna&lt;/a&gt; in eastern Libya. The Libyan army regains control of most of Benghazi.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;center&gt;
+&lt;img src=&quot;/images/free-libya.jpg&quot; alt=&quot;free-libya&quot;&gt;
+&lt;small&gt; &lt;a href=&quot;#damron&quot;&gt;(Damron, 2011)&lt;/a&gt; &lt;/small&gt;
+&lt;/center&gt;&lt;/p&gt;
+
+&lt;h2&gt;2015&lt;/h2&gt;
+
+&lt;p&gt;The Libyan army and militia forces in Tripoli agreed to a partial ceasefire in January, but Islamist militants continued their violent attacks, killing nine people in an attack on the Corinthia Hotel in Tripoli.&lt;/p&gt;
+
+&lt;p&gt;In February, ISIL released a video of 21 Egyptian Coptic Christians being killed; Egypt bombed ISIL targets within Libya in response. Violence continued to escalate, so the Italian government closed its embassy in Tripoli and withdrew all citizens. The law barring Gaddafi-era officials from public office was also lifted this month.&lt;/p&gt;
+
+&lt;p&gt;In late March, the UN released a &lt;a href=&quot;http://www.aljazeera.com/news/middleeast/2015/04/deaths-reported-fighting-libya-capital-150418074151426.html&quot;&gt;plan&lt;/a&gt; to end the Libyan conflict, proposing the creation of a transitional unity government that would run the country until a new constitution was approved and elections were held.&lt;/p&gt;
+
+&lt;p&gt;April thus far has echoed much of the calamity of the previous few months:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Thousands of migrants have fled the country&amp;#39;s violence by sea. Italian authorities estimate that over &lt;a href=&quot;http://www.bbc.com/news/world-africa-32360586&quot;&gt;10,000 migrants&lt;/a&gt; have been picked up within the past several &lt;em&gt;days&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Hundreds &lt;a href=&quot;http://www.nytimes.com/2015/04/22/world/europe/italy-libya-migrant-boat-capsize.html&quot;&gt;died tragically&lt;/a&gt; on the route from Libya to Italy just a few days ago.&lt;/li&gt;
+&lt;li&gt;ISIL has released video from their base in Libya of the killing of &lt;a href=&quot;http://www.theguardian.com/world/2015/apr/19/isis-video-purports-to-show-massacre-of-two-groups-of-ethiopian-christians&quot;&gt;30 Ethiopian Christians&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;&lt;em&gt;Ongoing issues&lt;/em&gt;&lt;/h3&gt;
+
+&lt;p&gt;Prime Minister of Italy Matteo Renzi spoke of recent tragedies: &amp;quot;I think the Mediterranean is a sea and not a cemetery. The problem at this moment is the situation on the ground in Libya&amp;quot; &lt;a href=&quot;#bbc-libya-crisis&quot;&gt;(“Libya crisis: Obama appeals to Gulf states,” 2015)&lt;/a&gt;. The &lt;a href=&quot;/2015/04/02/smau-background-libya#triggers&quot;&gt;triggers&lt;/a&gt; attributed to the start of Libya&amp;#39;s revolution—volatility, corruption, and repression—have &lt;a href=&quot;/2015/04/16/smau-sm-today-libya#freedom-house&quot;&gt;remained the same or increased slightly&lt;/a&gt; in the past four years.&lt;/p&gt;
+
+&lt;p&gt;In 2012, Zahra Langhi spoke about why Libya&amp;#39;s revolution didn&amp;#39;t work, pointing out that:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Gaddafi left behind a heavy burden, a legacy of tyranny, corruption and seeds of diversions. For four decades Gaddafi&amp;#39;s tyrannical regime destroyed the infrastructure as well as the culture and the moral fabric of Libyan society...Our society, shaped by a revolutionary mindset, became more polarized and has driven away from the ideals and the principles -- freedom, dignity, social justice -- that we first held. Intolerance, exclusion and revenge became the icons of the [aftermath] of the revolution &lt;a href=&quot;#langhi&quot;&gt;(Langhi, 2012)&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Today, President Obama is trying to encourage &lt;a href=&quot;http://www.bbc.com/news/world-africa-32360586&quot;&gt;Gulf countries&lt;/a&gt; to help with the restoration of stability in Libya. It&amp;#39;s expected that the European Union will also become more involved as they encounter greater numbers of migrants seeking refuge at their borders.&lt;/p&gt;
+
+&lt;h3&gt;Why this matters&lt;/h3&gt;
+
+&lt;p&gt;In 2011 Ed Husain, a senior fellow for Middle Eastern Studies at the Council on Foreign Relations, asserted that &amp;quot;democracy is about much more than removal of dictators and elections&amp;quot; and then noted that &amp;quot;the lack of Arab outcry, for example, about the public manhandling and mobile-phone recording of his [Gaddafi&amp;#39;s] blood-stained corpse by his killers is an indication that yesterday’s rebels are not necessarily prepared to embrace democratic culture&amp;quot; &lt;a href=&quot;#husain&quot;&gt;(Husain, 2011)&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Tunisia still experiences challenges but has had the most success establishing a democracy thus far. Egypt is back under severe military rule, though demands for democracy can still be seen and heard. In Libya, the struggle isn&amp;#39;t a clear battle with &amp;quot;the people&amp;quot; on one side and &amp;quot;the regime&amp;quot; on the other; citizens are stuck in the middle of a war between the government and armed militias or armed militias fighting other militias.&lt;/p&gt;
+
+&lt;p&gt;Libya&amp;#39;s diffuse population, isolated from the concept of civil and political institutions for over 40 years, likely plays a part in the unique struggle we&amp;#39;re witnessing. The country&amp;#39;s oil wealth also likely plays a role. When comparing Tunisia, Egypt, and Libya&amp;#39;s current statuses, what stands out most is the fact that the international community only intervened in Libya&amp;#39;s uprisings. Had there been no intervention, it&amp;#39;s possible that rebel forces would have been defeated, and the bloodshed in the country could have been far worse, like in Syria. But even after international intervention, ISIL has taken advantage of the power vacuum and established a foothold in Libya. So perhaps the question of intervention&amp;#39;s role shouldn&amp;#39;t be a binary comparison between intervention and non-intervention, but rather one of the approach and commitment of the intervenors. &lt;/p&gt;
+
+&lt;p&gt;Rory Stewart, a British diplomat and politician said:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Intervention is far more uncertain than any conceivable domestic policy. You are charging into a dark room, unsure whether there is even a floor beneath your feet. There is no magic plan, nor quantity of resources, that can guarantee success...If there is a lesson from all these countries, it is that there is no substitute for detailed experience in a particular place. The best the west can do is to rely on more people who are focused on the specific history and culture of Libya, more attentive to the realities of rural life &lt;a href=&quot;#stewart&quot;&gt;(Stewart, 2011)&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3&gt;Next up&lt;/h3&gt;
+
+&lt;p&gt;I&amp;#39;ll offer my conclusion on the role of social media in the Arab uprisings. See &lt;a href=&quot;/projects/arab-uprisings/summary&quot;&gt;the project summary&lt;/a&gt; for more details.&lt;/p&gt;
+
+&lt;h3&gt;References&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;span id=&quot;chandler&quot;&gt;Chandler, D. (2015). The R2P Is Dead, Long Live the R2P: The Successful Separation of Military Intervention from the Responsibility to Protect. &lt;i&gt;International Peacekeeping&lt;/i&gt;, &lt;i&gt;22&lt;/i&gt;(1), 1–5. doi:10.1080/13533312.2014.992572&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;bbc-libya-now&quot;&gt;Libya profile - Timeline. (2015, February). BBC. Retrieved from &lt;a href=&quot;http://www.bbc.com/news/world-africa-13755445&quot;&gt;http://www.bbc.com/news/world-africa-13755445&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;damron&quot;&gt;Damron, S. (2011). &lt;i&gt;free libya graffiti&lt;/i&gt;. Retrieved from &lt;a href=&quot;https://www.flickr.com/photos/sadsnaps/5718768635/in/photolist-9HmbFe-j3gC6e-9moxrU&quot;&gt;https://www.flickr.com/photos/sadsnaps/5718768635/in/photolist-9HmbFe-j3gC6e-9moxrU&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;bbc-libya-crisis&quot;&gt;Libya crisis: Obama appeals to Gulf states. (2015, April). BBC. Retrieved from &lt;a href=&quot;http://www.bbc.com/news/world-africa-32360586&quot;&gt;http://www.bbc.com/news/world-africa-32360586&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;langhi&quot;&gt;Langhi, Z. (2012, December). Why Libya’s revolution didn’t work — and what might. Retrieved from &lt;a href=&quot;https://www.ted.com/talks/zahra_langhi_why_libya_s_revolution_didn_t_work_and_what_might/transcript?language=en&quot;&gt;https://www.ted.com/talks/zahra_langhi_why_libya_s_revolution_didn_t_work_and_what_might/transcript?language=en&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;stewart&quot;&gt;Stewart, R. (2011, October). What can Afghanistan and Bosnia teach us about Libya? The Guardian. Retrieved from &lt;a href=&quot;http://www.theguardian.com/world/2011/oct/08/libya-intervention-rory-stewart&quot;&gt;http://www.theguardian.com/world/2011/oct/08/libya-intervention-rory-stewart&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;greenemeier&quot;&gt;Greenemeier, L. (2011, October). What Impact Could Gaddafi’s Death Have on Arab Spring Unrest? Scientific American: Observations. Retrieved from &lt;http://blogs.scientificamerican.com/observations/2011/10/21/what-impact-could-gaddafis-death-have-on-arab-spring-unrest/ &amp;gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;husain&quot;&gt;Husain, E. (2011). The Real Risks of Chaos. The New York Times: Room for Debate. Retrieved from &lt;a href=&quot;http://www.nytimes.com/roomfordebate/2011/10/20/qaddafis-end-the-mideasts-future/the-real-risks-of-chaos&quot;&gt;http://www.nytimes.com/roomfordebate/2011/10/20/qaddafis-end-the-mideasts-future/the-real-risks-of-chaos&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Social Media and the Arab Uprisings: Egypt's Status Today</title>
