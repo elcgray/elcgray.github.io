@@ -256,12 +256,8 @@ styles, `#sidebar-checkbox` for behavior. -->
 
     <a class="sidebar-nav-item" href="https://twitter.com/elcgray" class="twitter-follow-button" data-show-count="false">Twitter</a>
 
-  <div class="sidebar-item">
-    <p>
-      &copy; 2015. All rights reserved.<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a>
+    <a class="sidebar-nav-item" href="https://linkedin.com/in/elcgray">LinkedIn</a>
 
-    </p>
-  </div>
 </div>
 
 
@@ -286,7 +282,7 @@ styles, `#sidebar-checkbox` for behavior. -->
  <title>Elisabeth Gray</title>
  <link href="http://www.elisabethgray.me/atom.xml" rel="self"/>
  <link href="http://www.elisabethgray.me/"/>
- <updated>2015-04-26T21:18:45-05:00</updated>
+ <updated>2015-04-28T22:03:42-05:00</updated>
  <id>http://www.elisabethgray.me</id>
  <author>
    <name></name>
