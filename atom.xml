@@ -151,6 +151,10 @@ styles, `#sidebar-checkbox` for behavior. -->
     
     
     
+    
+    
+    
+    
     <a class="sidebar-nav-item" href="/papers/">Academic Papers</a>
     
     
@@ -282,13 +286,43 @@ styles, `#sidebar-checkbox` for behavior. -->
  <title>Elisabeth Gray</title>
  <link href="http://www.elisabethgray.me/atom.xml" rel="self"/>
  <link href="http://www.elisabethgray.me/"/>
- <updated>2015-04-28T22:03:42-05:00</updated>
+ <updated>2015-05-01T16:47:03-05:00</updated>
  <id>http://www.elisabethgray.me</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Social Media and the Arab Uprisings: Analysis</title>
+   <link href="http://www.elisabethgray.me/2015/05/01/smau-analysis/"/>
+   <updated>2015-05-01T00:00:00-05:00</updated>
+   <id>http://www.elisabethgray.me/2015/05/01/smau-analysis</id>
+   <content type="html">&lt;p&gt;This project is the culmination point of my Master of Science in Global Technology and Development at Arizona State University. As such, I&amp;#39;ve been asked to analyze what this all means in terms of social media and social movements beyond the Arab uprisings.&lt;/p&gt;
+
+&lt;p&gt;Among its many uses, social media has acted as a platform for individuals to vocalize their opposition toward repressive political structures. It has afforded them a voice of dissent toward mainstream media sources—in many places considered to be controlled or manipulated by the state government—and toward government leaders themselves. As such, social media has acted as a democratizing agent by allowing the dissatisfied or disenfranchised to bypass sometimes elaborate barriers of censorship or bureaucracy in order to be heard by a broader audience. It will continue to be used in this manner.&lt;/p&gt;
+
+&lt;p&gt;Earlier this week I learned that a Baltimore activist, Joseph Kent, had been &lt;a href=&quot;http://www.cnn.com/videos/us/2015/04/29/ctn-live-cuomo-baltimore-joseph-kent-arrested.cnn&quot;&gt;taken by police&lt;/a&gt; while trying to get people out after curfew to disperse. The reaction on Twitter was &lt;a href=&quot;http://www.salon.com/2015/04/29/where_is_joseph_kent_social_media_erupts_after_cameras_capture_activists_suspicious_looking_arrest/&quot;&gt;immediate and intense&lt;/a&gt;; tweets referencing #JosephKent demanded answers for his apprehension and his wellbeing. On April 30th, he was &lt;a href=&quot;http://www.cbsnews.com/news/joseph-kent-keep-protesting-but-positively/&quot;&gt;released&lt;/a&gt;. The attention drawn to his arrest on social media is attributed to his swift release. This illustrates the speed of accountability that social media offers. This is where efforts toward long-lasting change &lt;a href=&quot;http://www.theatlantic.com/politics/archive/2015/05/beyond-hashtag-activism/391988/&quot;&gt;begin&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Social media is being taken seriously by political institutions; the Pentagon has &lt;a href=&quot;http://www.theguardian.com/environment/earth-insight/2014/jun/12/pentagon-mass-civil-breakdown&quot;&gt;invested in research&lt;/a&gt; on the dynamics of social movements, and Egyptian police are looking to improve their &lt;a href=&quot;http://mashable.com/2014/06/21/egyptian-social-media-monitoring-first/&quot;&gt;social media-monitoring software&lt;/a&gt;. The ease with which oppressive governments can and have used technology to monitor and/or oppress citizens presents another angle which needs to be considered when anticipating the future of social media and social movements. The tactics used in the Arab uprisings and elsewhere may not be as effective now that governments know better what to expect and are better prepared.&lt;/p&gt;
+
+&lt;p&gt;Social media is an invaluable resource for coordinated efforts, spreading messages quickly and efficiently among individuals, but once a synchronization of opinion is accomplished, organized actions must follow. The speed at which social media facilitated a global conversation about freedom and dignity in the MENA region left many youth with the expectation of equally quick changes to their political institutions. That has been a disappointment across all three countries that I studied, but it shouldn&amp;#39;t discourage continued efforts toward more inclusive institutions. Social media&amp;#39;s structure is agile in a way that most government structures are not. Efforts to engage communities where they live—virtually and physically—will need to be made.&lt;/p&gt;
+
+&lt;p&gt;Social media in the general sense has been a part of human history for far longer than Facebook and Twitter have existed; it&amp;#39;s unlikely that it will go away anytime soon. I can&amp;#39;t predict the outcome of the Arab uprisings any more effectively than I can predict the outcome of the protests occurring in Baltimore today. What I can assert with a reasonable amount of certainty is that change will be enacted by those who can motivate others to actively and personally engage—to build community groups, to unite in protest, to speak out in solidarity, to petition representatives, and to engage in what has become a global dialogue about inequality and government corruption. These are common factors for many of the uprisings following those in the MENA region:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.theguardian.com/commentisfree/2011/nov/15/lessons-from-iceland-people-power&quot;&gt;Iceland&amp;#39;s  revolution&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;The &lt;a href=&quot;http://www.occupytogether.org/&quot;&gt;Occupy movements&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;The &lt;a href=&quot;http://www.bbc.com/news/world-europe-22924886&quot;&gt;Gezi Park protests&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;The &lt;a href=&quot;http://www.nytimes.com/interactive/2014/08/13/us/ferguson-missouri-town-under-siege-after-police-shooting.html?_r=0&quot;&gt;Ferguson protests&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;The &lt;a href=&quot;http://blacklivesmatter.com/&quot;&gt;Black Lives Matter Movement&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.vox.com/2014/9/29/6865681/one-chart-that-explains-the-protests-in-hong-kong&quot;&gt;Hong Kong&amp;#39;s protests&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Social media is but one component of revolutionary change. What determines the fate of a people is determined in the streets, in the courthouses, in the classrooms, in the workplaces. Change occurs in the places where we meet each other eye to eye.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Social Media and the Arab Uprisings: Conclusion</title>
