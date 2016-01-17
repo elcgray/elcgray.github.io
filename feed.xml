@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 <title type="text">Elisabeth Gray</title>
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="/feed.xml" />
-<link rel="alternate" type="text/html" href="" />
-<updated>2016-01-16T15:15:23-06:00</updated>
-<id>/</id>
+<link rel="self" type="application/atom+xml" href="http://elisabethgray.me/feed.xml" />
+<link rel="alternate" type="text/html" href="http://elisabethgray.me" />
+<updated>2016-01-16T19:11:56-06:00</updated>
+<id>http://elisabethgray.me/</id>
 <author>
   <name>Liz</name>
-  <uri>/</uri>
+  <uri>http://elisabethgray.me/</uri>
   <email>elcgray@gmail.com</email>
 </author>
 
@@ -17,13 +17,13 @@
 
 <entry>
   <title type="html"><![CDATA[Social Media and the Arab Uprisings: Analysis]]></title>
-  <link rel="alternate" type="text/html" href="/smau-analysis/" />
-  <id>/smau-analysis</id>
+  <link rel="alternate" type="text/html" href="http://elisabethgray.me/smau-analysis/" />
+  <id>http://elisabethgray.me/smau-analysis</id>
   <published>2015-05-01T00:00:00-05:00</published>
   <updated>2015-05-01T00:00:00-05:00</updated>
   <author>
     <name>Liz</name>
-    <uri></uri>
+    <uri>http://elisabethgray.me</uri>
     <email>elcgray@gmail.com</email>
   </author>
   <content type="html">
@@ -50,7 +50,7 @@
 
 &lt;p&gt;Social media is but one component of revolutionary change. What determines the fate of a people is determined in the streets, in the courthouses, in the classrooms, in the workplaces. Change occurs in the places where we meet each other eye to eye.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;/smau-analysis/&quot;&gt;Social Media and the Arab Uprisings: Analysis&lt;/a&gt; was originally published by Liz at &lt;a href=&quot;&quot;&gt;Elisabeth Gray&lt;/a&gt; on May 01, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://elisabethgray.me/smau-analysis/&quot;&gt;Social Media and the Arab Uprisings: Analysis&lt;/a&gt; was originally published by Liz at &lt;a href=&quot;http://elisabethgray.me&quot;&gt;Elisabeth Gray&lt;/a&gt; on May 01, 2015.&lt;/p&gt;
   </content>
 </entry>
 
@@ -59,13 +59,13 @@
 
 <entry>
   <title type="html"><![CDATA[Social Media and the Arab Uprisings: Conclusion]]></title>
-  <link rel="alternate" type="text/html" href="/smau-conclusion/" />
-  <id>/smau-conclusion</id>
+  <link rel="alternate" type="text/html" href="http://elisabethgray.me/smau-conclusion/" />
+  <id>http://elisabethgray.me/smau-conclusion</id>
   <published>2015-04-26T00:00:00-05:00</published>
   <updated>2015-04-26T00:00:00-05:00</updated>
   <author>
     <name>Liz</name>
-    <uri></uri>
+    <uri>http://elisabethgray.me</uri>
     <email>elcgray@gmail.com</email>
   </author>
   <content type="html">
@@ -174,7 +174,7 @@ System dynamics scientist Donella Meadows said that “self-organization is such
   &lt;li&gt;&lt;span id=&quot;al-khawaja&quot;&gt;Al Khawaja, M. (2012). Another Flight. In M. Alhassen &amp;amp; A. Shihab-Eldin (Eds.), &lt;i&gt;Demanding Dignity: Young Voices from the Front Lines of the Arab Revolutions (I SPEAK FOR MYSELF)&lt;/i&gt; (Kindle). White Cloud Press.&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-    &lt;p&gt;&lt;a href=&quot;/smau-conclusion/&quot;&gt;Social Media and the Arab Uprisings: Conclusion&lt;/a&gt; was originally published by Liz at &lt;a href=&quot;&quot;&gt;Elisabeth Gray&lt;/a&gt; on April 26, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://elisabethgray.me/smau-conclusion/&quot;&gt;Social Media and the Arab Uprisings: Conclusion&lt;/a&gt; was originally published by Liz at &lt;a href=&quot;http://elisabethgray.me&quot;&gt;Elisabeth Gray&lt;/a&gt; on April 26, 2015.&lt;/p&gt;
   </content>
 </entry>
 
@@ -183,13 +183,13 @@ System dynamics scientist Donella Meadows said that “self-organization is such
 
 <entry>
   <title type="html"><![CDATA[Social Media and the Arab Uprisings: Libya's Status Today]]></title>
-  <link rel="alternate" type="text/html" href="/smau-libya-today/" />
-  <id>/smau-libya-today</id>
+  <link rel="alternate" type="text/html" href="http://elisabethgray.me/smau-libya-today/" />
+  <id>http://elisabethgray.me/smau-libya-today</id>
   <published>2015-04-23T00:00:00-05:00</published>
   <updated>2015-04-23T00:00:00-05:00</updated>
   <author>
     <name>Liz</name>
-    <uri></uri>
+    <uri>http://elisabethgray.me</uri>
     <email>elcgray@gmail.com</email>
   </author>
   <content type="html">
@@ -389,7 +389,7 @@ System dynamics scientist Donella Meadows said that “self-organization is such
   &lt;li&gt;&lt;span id=&quot;husain&quot;&gt;Husain, E. (2011). The Real Risks of Chaos. The New York Times: Room for Debate. Retrieved from &lt;a href=&quot;http://www.nytimes.com/roomfordebate/2011/10/20/qaddafis-end-the-mideasts-future/the-real-risks-of-chaos&quot;&gt;http://www.nytimes.com/roomfordebate/2011/10/20/qaddafis-end-the-mideasts-future/the-real-risks-of-chaos&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-    &lt;p&gt;&lt;a href=&quot;/smau-libya-today/&quot;&gt;Social Media and the Arab Uprisings: Libya&#39;s Status Today&lt;/a&gt; was originally published by Liz at &lt;a href=&quot;&quot;&gt;Elisabeth Gray&lt;/a&gt; on April 23, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://elisabethgray.me/smau-libya-today/&quot;&gt;Social Media and the Arab Uprisings: Libya&#39;s Status Today&lt;/a&gt; was originally published by Liz at &lt;a href=&quot;http://elisabethgray.me&quot;&gt;Elisabeth Gray&lt;/a&gt; on April 23, 2015.&lt;/p&gt;
   </content>
 </entry>
 
@@ -398,14 +398,14 @@ System dynamics scientist Donella Meadows said that “self-organization is such
 
 <entry>
   <title type="html"><![CDATA[Social Media and the Arab Uprisings: Egypt's Status Today]]></title>
-  <link rel="alternate" type="text/html" href="/smau-egypt-today/" />
-  <id>/smau-egypt-today</id>
+  <link rel="alternate" type="text/html" href="http://elisabethgray.me/smau-egypt-today/" />
+  <id>http://elisabethgray.me/smau-egypt-today</id>
   <updated>2015-05-02T00:00:00-00:00</updated>
   <published>2015-04-21T00:00:00-05:00</published>
   
   <author>
     <name>Liz</name>
-    <uri></uri>
+    <uri>http://elisabethgray.me</uri>
     <email>elcgray@gmail.com</email>
   </author>
   <content type="html">
@@ -639,7 +639,7 @@ System dynamics scientist Donella Meadows said that “self-organization is such
   &lt;li&gt;&lt;span id=&quot;wolfers&quot;&gt;Wolfers, J., Leonhardt, D., &amp;amp; Quealy, K. (2015, April). 1.5 Million Missing Black Men. Retrieved from &lt;a href=&quot;http://www.nytimes.com/interactive/2015/04/20/upshot/missing-black-men.html?abt=0002&amp;amp;abg=0&quot;&gt;http://www.nytimes.com/interactive/2015/04/20/upshot/missing-black-men.html?abt=0002&amp;amp;abg=0&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-    &lt;p&gt;&lt;a href=&quot;/smau-egypt-today/&quot;&gt;Social Media and the Arab Uprisings: Egypt&#39;s Status Today&lt;/a&gt; was originally published by Liz at &lt;a href=&quot;&quot;&gt;Elisabeth Gray&lt;/a&gt; on April 21, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://elisabethgray.me/smau-egypt-today/&quot;&gt;Social Media and the Arab Uprisings: Egypt&#39;s Status Today&lt;/a&gt; was originally published by Liz at &lt;a href=&quot;http://elisabethgray.me&quot;&gt;Elisabeth Gray&lt;/a&gt; on April 21, 2015.&lt;/p&gt;
   </content>
 </entry>
 
@@ -648,13 +648,13 @@ System dynamics scientist Donella Meadows said that “self-organization is such
 
 <entry>
   <title type="html"><![CDATA[Social Media and the Arab Uprisings: Tunisia's Status Today]]></title>
-  <link rel="alternate" type="text/html" href="/smau-tunisia-today/" />
-  <id>/smau-tunisia-today</id>
+  <link rel="alternate" type="text/html" href="http://elisabethgray.me/smau-tunisia-today/" />
+  <id>http://elisabethgray.me/smau-tunisia-today</id>
   <published>2015-04-19T00:00:00-05:00</published>
   <updated>2015-04-19T00:00:00-05:00</updated>
   <author>
     <name>Liz</name>
-    <uri></uri>
+    <uri>http://elisabethgray.me</uri>
     <email>elcgray@gmail.com</email>
   </author>
   <content type="html">
@@ -842,7 +842,7 @@ System dynamics scientist Donella Meadows said that “self-organization is such
   &lt;li&gt;&lt;span id=&quot;marcusa&quot;&gt;Marcusa, M. (2014). Potholes in the Road to Revolution. Middle East Research and Information Project. Retrieved from &lt;a href=&quot;http://www.merip.org.ezproxy1.lib.asu.edu/mer/mer272/potholes-road-revolution&quot;&gt;http://www.merip.org.ezproxy1.lib.asu.edu/mer/mer272/potholes-road-revolution&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-    &lt;p&gt;&lt;a href=&quot;/smau-tunisia-today/&quot;&gt;Social Media and the Arab Uprisings: Tunisia&#39;s Status Today&lt;/a&gt; was originally published by Liz at &lt;a href=&quot;&quot;&gt;Elisabeth Gray&lt;/a&gt; on April 19, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://elisabethgray.me/smau-tunisia-today/&quot;&gt;Social Media and the Arab Uprisings: Tunisia&#39;s Status Today&lt;/a&gt; was originally published by Liz at &lt;a href=&quot;http://elisabethgray.me&quot;&gt;Elisabeth Gray&lt;/a&gt; on April 19, 2015.&lt;/p&gt;
   </content>
 </entry>
 
@@ -851,13 +851,13 @@ System dynamics scientist Donella Meadows said that “self-organization is such
 
 <entry>
   <title type="html"><![CDATA[Social Media and the Arab Uprisings: Social Media in Libya Today]]></title>
-  <link rel="alternate" type="text/html" href="/smau-sm-today-libya/" />
-  <id>/smau-sm-today-libya</id>
+  <link rel="alternate" type="text/html" href="http://elisabethgray.me/smau-sm-today-libya/" />
+  <id>http://elisabethgray.me/smau-sm-today-libya</id>
   <published>2015-04-16T00:00:00-05:00</published>
   <updated>2015-04-16T00:00:00-05:00</updated>
   <author>
     <name>Liz</name>
-    <uri></uri>
+    <uri>http://elisabethgray.me</uri>
     <email>elcgray@gmail.com</email>
   </author>
   <content type="html">
@@ -1051,7 +1051,7 @@ System dynamics scientist Donella Meadows said that “self-organization is such
   &lt;li&gt;&lt;span id=&quot;langhi&quot;&gt;Langhi, Z. (2012, December). Why Libya’s revolution didn’t work — and what might. Retrieved from &lt;a href=&quot;https://www.ted.com/talks/zahra_langhi_why_libya_s_revolution_didn_t_work_and_what_might/transcript?language=en&quot;&gt;https://www.ted.com/talks/zahra_langhi_why_libya_s_revolution_didn_t_work_and_what_might/transcript?language=en&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-    &lt;p&gt;&lt;a href=&quot;/smau-sm-today-libya/&quot;&gt;Social Media and the Arab Uprisings: Social Media in Libya Today&lt;/a&gt; was originally published by Liz at &lt;a href=&quot;&quot;&gt;Elisabeth Gray&lt;/a&gt; on April 16, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://elisabethgray.me/smau-sm-today-libya/&quot;&gt;Social Media and the Arab Uprisings: Social Media in Libya Today&lt;/a&gt; was originally published by Liz at &lt;a href=&quot;http://elisabethgray.me&quot;&gt;Elisabeth Gray&lt;/a&gt; on April 16, 2015.&lt;/p&gt;
   </content>
 </entry>
 
@@ -1060,13 +1060,13 @@ System dynamics scientist Donella Meadows said that “self-organization is such
 
 <entry>
   <title type="html"><![CDATA[Social Media and the Arab Uprisings: Social Media in Egypt Today]]></title>
-  <link rel="alternate" type="text/html" href="/smau-sm-today-egypt/" />
-  <id>/smau-sm-today-egypt</id>
+  <link rel="alternate" type="text/html" href="http://elisabethgray.me/smau-sm-today-egypt/" />
+  <id>http://elisabethgray.me/smau-sm-today-egypt</id>
   <published>2015-04-14T00:00:00-05:00</published>
   <updated>2015-04-14T00:00:00-05:00</updated>
   <author>
     <name>Liz</name>
-    <uri></uri>
+    <uri>http://elisabethgray.me</uri>
     <email>elcgray@gmail.com</email>
   </author>
   <content type="html">
@@ -1267,7 +1267,7 @@ In contrast to Tunisia, obstacles to access and violations of user rights have i
   &lt;li&gt;&lt;span id=&quot;fitzpatrick&quot;&gt;Fitzpatrick, A. (2013). Morsi Ousted While Sparring With Egyptian Army on Social Media. &lt;i&gt;Mashable&lt;/i&gt;. arab-uprisings. Retrieved from &lt;a href=&quot;http://mashable.com/2013/07/03/egypt-social-media/&quot;&gt;http://mashable.com/2013/07/03/egypt-social-media/&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-    &lt;p&gt;&lt;a href=&quot;/smau-sm-today-egypt/&quot;&gt;Social Media and the Arab Uprisings: Social Media in Egypt Today&lt;/a&gt; was originally published by Liz at &lt;a href=&quot;&quot;&gt;Elisabeth Gray&lt;/a&gt; on April 14, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://elisabethgray.me/smau-sm-today-egypt/&quot;&gt;Social Media and the Arab Uprisings: Social Media in Egypt Today&lt;/a&gt; was originally published by Liz at &lt;a href=&quot;http://elisabethgray.me&quot;&gt;Elisabeth Gray&lt;/a&gt; on April 14, 2015.&lt;/p&gt;
   </content>
 </entry>
 
@@ -1276,13 +1276,13 @@ In contrast to Tunisia, obstacles to access and violations of user rights have i
 
 <entry>
   <title type="html"><![CDATA[Social Media and the Arab Uprisings: Social Media in Tunisia Today]]></title>
-  <link rel="alternate" type="text/html" href="/smau-sm-today-tunisia/" />
-  <id>/smau-sm-today-tunisia</id>
+  <link rel="alternate" type="text/html" href="http://elisabethgray.me/smau-sm-today-tunisia/" />
+  <id>http://elisabethgray.me/smau-sm-today-tunisia</id>
   <published>2015-04-12T00:00:00-05:00</published>
   <updated>2015-04-12T00:00:00-05:00</updated>
   <author>
     <name>Liz</name>
-    <uri></uri>
+    <uri>http://elisabethgray.me</uri>
     <email>elcgray@gmail.com</email>
   </author>
   <content type="html">
@@ -1475,7 +1475,7 @@ In contrast to Tunisia, obstacles to access and violations of user rights have i
   &lt;li&gt;&lt;span id=&quot;jking&quot;&gt;King, J. (2015). Tunisian tourism gets social media support. &lt;i&gt;CNN&lt;/i&gt;. arab-uprisings. Retrieved from &lt;a href=&quot;http://www.cnn.com/2015/03/20/world/i-will-come-to-tunisia-social-media/&quot;&gt;http://www.cnn.com/2015/03/20/world/i-will-come-to-tunisia-social-media/&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-    &lt;p&gt;&lt;a href=&quot;/smau-sm-today-tunisia/&quot;&gt;Social Media and the Arab Uprisings: Social Media in Tunisia Today&lt;/a&gt; was originally published by Liz at &lt;a href=&quot;&quot;&gt;Elisabeth Gray&lt;/a&gt; on April 12, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://elisabethgray.me/smau-sm-today-tunisia/&quot;&gt;Social Media and the Arab Uprisings: Social Media in Tunisia Today&lt;/a&gt; was originally published by Liz at &lt;a href=&quot;http://elisabethgray.me&quot;&gt;Elisabeth Gray&lt;/a&gt; on April 12, 2015.&lt;/p&gt;
   </content>
 </entry>
 
@@ -1484,13 +1484,13 @@ In contrast to Tunisia, obstacles to access and violations of user rights have i
 
 <entry>
   <title type="html"><![CDATA[Social Media and the Arab Uprisings: Social Media in Libya]]></title>
-  <link rel="alternate" type="text/html" href="/smau-analyses-libya/" />
-  <id>/smau-analyses-libya</id>
+  <link rel="alternate" type="text/html" href="http://elisabethgray.me/smau-analyses-libya/" />
+  <id>http://elisabethgray.me/smau-analyses-libya</id>
   <published>2015-04-10T00:00:00-05:00</published>
   <updated>2015-04-10T00:00:00-05:00</updated>
   <author>
     <name>Liz</name>
-    <uri></uri>
+    <uri>http://elisabethgray.me</uri>
     <email>elcgray@gmail.com</email>
   </author>
   <content type="html">
@@ -1576,7 +1576,7 @@ the potentials and limitations of cyberactivism in triggering public mobilizatio
   &lt;li&gt;&lt;span id=&quot;stream&quot;&gt;Libya’s New Citizen Journalists. (2011, May). Retrieved from &lt;a href=&quot;http://stream.aljazeera.com/story/201105252311-004976&quot;&gt;http://stream.aljazeera.com/story/201105252311-004976&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-    &lt;p&gt;&lt;a href=&quot;/smau-analyses-libya/&quot;&gt;Social Media and the Arab Uprisings: Social Media in Libya&lt;/a&gt; was originally published by Liz at &lt;a href=&quot;&quot;&gt;Elisabeth Gray&lt;/a&gt; on April 10, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://elisabethgray.me/smau-analyses-libya/&quot;&gt;Social Media and the Arab Uprisings: Social Media in Libya&lt;/a&gt; was originally published by Liz at &lt;a href=&quot;http://elisabethgray.me&quot;&gt;Elisabeth Gray&lt;/a&gt; on April 10, 2015.&lt;/p&gt;
   </content>
 </entry>
 
@@ -1585,13 +1585,13 @@ the potentials and limitations of cyberactivism in triggering public mobilizatio
 
 <entry>
   <title type="html"><![CDATA[Social Media and the Arab Uprisings: Social Media in Egypt]]></title>
-  <link rel="alternate" type="text/html" href="/smau-analyses-egypt/" />
-  <id>/smau-analyses-egypt</id>
+  <link rel="alternate" type="text/html" href="http://elisabethgray.me/smau-analyses-egypt/" />
+  <id>http://elisabethgray.me/smau-analyses-egypt</id>
   <published>2015-04-07T00:00:00-05:00</published>
   <updated>2015-04-07T00:00:00-05:00</updated>
   <author>
     <name>Liz</name>
-    <uri></uri>
+    <uri>http://elisabethgray.me</uri>
     <email>elcgray@gmail.com</email>
   </author>
   <content type="html">
@@ -1693,7 +1693,7 @@ Social media has been presented as a potent weapon against authoritarian regimes
   &lt;li&gt;&lt;span id=&quot;hussain&quot;&gt;Hussain, M. (2014). Digital Infrastructure Politics and Internet Freedom Stakeholders After the Arab Spring. &lt;i&gt;Journal o FInternational Affairs&lt;/i&gt;, &lt;i&gt;68&lt;/i&gt;(1), 37–56.&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-    &lt;p&gt;&lt;a href=&quot;/smau-analyses-egypt/&quot;&gt;Social Media and the Arab Uprisings: Social Media in Egypt&lt;/a&gt; was originally published by Liz at &lt;a href=&quot;&quot;&gt;Elisabeth Gray&lt;/a&gt; on April 07, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://elisabethgray.me/smau-analyses-egypt/&quot;&gt;Social Media and the Arab Uprisings: Social Media in Egypt&lt;/a&gt; was originally published by Liz at &lt;a href=&quot;http://elisabethgray.me&quot;&gt;Elisabeth Gray&lt;/a&gt; on April 07, 2015.&lt;/p&gt;
   </content>
 </entry>
 
@@ -1702,13 +1702,13 @@ Social media has been presented as a potent weapon against authoritarian regimes
 
 <entry>
   <title type="html"><![CDATA[Social Media and the Arab Uprisings: Social Media in Tunisia]]></title>
-  <link rel="alternate" type="text/html" href="/smau-analyses-tunisia/" />
-  <id>/smau-analyses-tunisia</id>
+  <link rel="alternate" type="text/html" href="http://elisabethgray.me/smau-analyses-tunisia/" />
+  <id>http://elisabethgray.me/smau-analyses-tunisia</id>
   <published>2015-04-05T00:00:00-05:00</published>
   <updated>2015-04-05T00:00:00-05:00</updated>
   <author>
     <name>Liz</name>
-    <uri></uri>
+    <uri>http://elisabethgray.me</uri>
     <email>elcgray@gmail.com</email>
   </author>
   <content type="html">
@@ -1782,7 +1782,7 @@ Social media has been presented as a potent weapon against authoritarian regimes
   &lt;li&gt;&lt;span id=&quot;graziano&quot;&gt;Graziano, T. (2012). The Tunisian diaspora: Between ‘digital riots’ and Web activism. &lt;i&gt;Social Science Information&lt;/i&gt;, &lt;i&gt;51&lt;/i&gt;(4), 534–550. Retrieved from &amp;lt;10.1177/0539018412456773&amp;gt;&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-    &lt;p&gt;&lt;a href=&quot;/smau-analyses-tunisia/&quot;&gt;Social Media and the Arab Uprisings: Social Media in Tunisia&lt;/a&gt; was originally published by Liz at &lt;a href=&quot;&quot;&gt;Elisabeth Gray&lt;/a&gt; on April 05, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://elisabethgray.me/smau-analyses-tunisia/&quot;&gt;Social Media and the Arab Uprisings: Social Media in Tunisia&lt;/a&gt; was originally published by Liz at &lt;a href=&quot;http://elisabethgray.me&quot;&gt;Elisabeth Gray&lt;/a&gt; on April 05, 2015.&lt;/p&gt;
   </content>
 </entry>
 
@@ -1791,13 +1791,13 @@ Social media has been presented as a potent weapon against authoritarian regimes
 
 <entry>
   <title type="html"><![CDATA[Social Media and the Arab Uprisings: Libya's Background]]></title>
-  <link rel="alternate" type="text/html" href="/smau-background-libya/" />
-  <id>/smau-background-libya</id>
+  <link rel="alternate" type="text/html" href="http://elisabethgray.me/smau-background-libya/" />
+  <id>http://elisabethgray.me/smau-background-libya</id>
   <published>2015-04-02T00:00:00-05:00</published>
   <updated>2015-04-02T00:00:00-05:00</updated>
   <author>
     <name>Liz</name>
-    <uri></uri>
+    <uri>http://elisabethgray.me</uri>
     <email>elcgray@gmail.com</email>
   </author>
   <content type="html">
@@ -1900,7 +1900,7 @@ Social media has been presented as a potent weapon against authoritarian regimes
   &lt;li&gt;&lt;span id=&quot;mcmurray&quot;&gt;McMurray, D., &amp;amp; Ufheil-Somers, A. (2013). &lt;i&gt;The Arab Revolts: Dispatches on Militant Democracy in the Middle East (Public Cultures of the Middle East and North Africa)&lt;/i&gt; (Kindle). Indiana University Press.&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-    &lt;p&gt;&lt;a href=&quot;/smau-background-libya/&quot;&gt;Social Media and the Arab Uprisings: Libya&#39;s Background&lt;/a&gt; was originally published by Liz at &lt;a href=&quot;&quot;&gt;Elisabeth Gray&lt;/a&gt; on April 02, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://elisabethgray.me/smau-background-libya/&quot;&gt;Social Media and the Arab Uprisings: Libya&#39;s Background&lt;/a&gt; was originally published by Liz at &lt;a href=&quot;http://elisabethgray.me&quot;&gt;Elisabeth Gray&lt;/a&gt; on April 02, 2015.&lt;/p&gt;
   </content>
 </entry>
 
@@ -1909,13 +1909,13 @@ Social media has been presented as a potent weapon against authoritarian regimes
 
 <entry>
   <title type="html"><![CDATA[Social Media and the Arab Uprisings: Egypt's Background]]></title>
-  <link rel="alternate" type="text/html" href="/smau-background-egypt/" />
-  <id>/smau-background-egypt</id>
+  <link rel="alternate" type="text/html" href="http://elisabethgray.me/smau-background-egypt/" />
+  <id>http://elisabethgray.me/smau-background-egypt</id>
   <published>2015-03-29T00:00:00-05:00</published>
   <updated>2015-03-29T00:00:00-05:00</updated>
   <author>
     <name>Liz</name>
-    <uri></uri>
+    <uri>http://elisabethgray.me</uri>
     <email>elcgray@gmail.com</email>
   </author>
   <content type="html">
@@ -2037,7 +2037,7 @@ By January 2011, organizers had seasoned tactics for combatting Mubarak’s secu
   &lt;li&gt;&lt;span id=&quot;dignity&quot;&gt;Alhassen, M., &amp;amp; Shihab-Eldin, A. (2012). &lt;i&gt;Demanding Dignity: Young Voices from the Front Lines of the Arab Revolutions (I SPEAK FOR MYSELF)&lt;/i&gt; (Kindle). White Cloud Press.&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-    &lt;p&gt;&lt;a href=&quot;/smau-background-egypt/&quot;&gt;Social Media and the Arab Uprisings: Egypt&#39;s Background&lt;/a&gt; was originally published by Liz at &lt;a href=&quot;&quot;&gt;Elisabeth Gray&lt;/a&gt; on March 29, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://elisabethgray.me/smau-background-egypt/&quot;&gt;Social Media and the Arab Uprisings: Egypt&#39;s Background&lt;/a&gt; was originally published by Liz at &lt;a href=&quot;http://elisabethgray.me&quot;&gt;Elisabeth Gray&lt;/a&gt; on March 29, 2015.&lt;/p&gt;
   </content>
 </entry>
 
@@ -2046,13 +2046,13 @@ By January 2011, organizers had seasoned tactics for combatting Mubarak’s secu
 
 <entry>
   <title type="html"><![CDATA[Social Media and the Arab Uprisings: Tunisia's Background]]></title>
-  <link rel="alternate" type="text/html" href="/smau-background-tunisia/" />
-  <id>/smau-background-tunisia</id>
+  <link rel="alternate" type="text/html" href="http://elisabethgray.me/smau-background-tunisia/" />
+  <id>http://elisabethgray.me/smau-background-tunisia</id>
   <published>2015-03-26T00:00:00-05:00</published>
   <updated>2015-03-26T00:00:00-05:00</updated>
   <author>
     <name>Liz</name>
-    <uri></uri>
+    <uri>http://elisabethgray.me</uri>
     <email>elcgray@gmail.com</email>
   </author>
   <content type="html">
@@ -2160,7 +2160,7 @@ By January 2011, organizers had seasoned tactics for combatting Mubarak’s secu
   &lt;li&gt;&lt;span id=&quot;acemoglu&quot;&gt;Acemoglu, D., &amp;amp; Robinson, J. (2013). &lt;i&gt;Why Nations Fail: The Origins of Power, Prosperity, and Poverty&lt;/i&gt;. Crown Business.&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-    &lt;p&gt;&lt;a href=&quot;/smau-background-tunisia/&quot;&gt;Social Media and the Arab Uprisings: Tunisia&#39;s Background&lt;/a&gt; was originally published by Liz at &lt;a href=&quot;&quot;&gt;Elisabeth Gray&lt;/a&gt; on March 26, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://elisabethgray.me/smau-background-tunisia/&quot;&gt;Social Media and the Arab Uprisings: Tunisia&#39;s Background&lt;/a&gt; was originally published by Liz at &lt;a href=&quot;http://elisabethgray.me&quot;&gt;Elisabeth Gray&lt;/a&gt; on March 26, 2015.&lt;/p&gt;
   </content>
 </entry>
 
@@ -2169,13 +2169,13 @@ By January 2011, organizers had seasoned tactics for combatting Mubarak’s secu
 
 <entry>
   <title type="html"><![CDATA[Social Media and the Arab Uprisings: Introduction]]></title>
-  <link rel="alternate" type="text/html" href="/smau-introduction/" />
-  <id>/smau-introduction</id>
+  <link rel="alternate" type="text/html" href="http://elisabethgray.me/smau-introduction/" />
+  <id>http://elisabethgray.me/smau-introduction</id>
   <published>2015-03-22T00:00:00-05:00</published>
   <updated>2015-03-22T00:00:00-05:00</updated>
   <author>
     <name>Liz</name>
-    <uri></uri>
+    <uri>http://elisabethgray.me</uri>
     <email>elcgray@gmail.com</email>
   </author>
   <content type="html">
@@ -2243,7 +2243,7 @@ Ash-shab yurid isqat an-nizam&lt;br /&gt;
   &lt;li&gt;&lt;span id=&quot;kirchner&quot;&gt;Kirchner, L. (2014). Media as Both Weapon and Defense in the Mexican Drug War. &lt;i&gt;Pacific Standard: The Science Of Society&lt;/i&gt;. arab-uprisings. Retrieved from &lt;a href=&quot;http://www.psmag.com/navigation/health-and-behavior/media-weapon-defense-mexican-drug-war-76243/&quot;&gt;http://www.psmag.com/navigation/health-and-behavior/media-weapon-defense-mexican-drug-war-76243/&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-    &lt;p&gt;&lt;a href=&quot;/smau-introduction/&quot;&gt;Social Media and the Arab Uprisings: Introduction&lt;/a&gt; was originally published by Liz at &lt;a href=&quot;&quot;&gt;Elisabeth Gray&lt;/a&gt; on March 22, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://elisabethgray.me/smau-introduction/&quot;&gt;Social Media and the Arab Uprisings: Introduction&lt;/a&gt; was originally published by Liz at &lt;a href=&quot;http://elisabethgray.me&quot;&gt;Elisabeth Gray&lt;/a&gt; on March 22, 2015.&lt;/p&gt;
   </content>
 </entry>
 
