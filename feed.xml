@@ -19,7 +19,7 @@
 
 
 
-<title>Elisabeth Gray</title>
+<title>Elisabeth C Gray</title>
 
 
 
@@ -28,8 +28,8 @@
 
 
 <meta property="og:locale" content="en-US">
-<meta property="og:site_name" content="Elisabeth Gray">
-<meta property="og:title" content="Elisabeth Gray">
+<meta property="og:site_name" content="Elisabeth C Gray">
+<meta property="og:title" content="Elisabeth C Gray">
 
 
   <link rel="canonical" href="http://elisabethgray.me/feed.xml">
@@ -40,8 +40,8 @@
 
 
   <meta name="twitter:site" content="@elcgray">
-  <meta name="twitter:title" content="Elisabeth Gray">
-  <meta name="twitter:description" content="A repository of Elisabeth Gray’s academic and personal work">
+  <meta name="twitter:title" content="Elisabeth C Gray">
+  <meta name="twitter:description" content="An online repository for the academic and personal work of Elisabeth C Gray">
   <meta name="twitter:url" content="http://elisabethgray.me/feed.xml">
 
   
@@ -69,7 +69,7 @@
     {
       "@context" : "http://schema.org",
       "@type" : "person",
-      "name" : "Elisabeth Gray",
+      "name" : "Elisabeth C Gray",
       "url" : "http://elisabethgray.me",
       "sameAs" : ["https://twitter.com/elcgray","https://www.facebook.com/elcgray","https://www.instagram.com/elcgray/","https://github.com/elcgray"]
     }
@@ -85,7 +85,7 @@
 <!-- end SEO -->
 
 
-<link href="http://elisabethgray.me/feed.xml" type="application/atom+xml" rel="alternate" title="Elisabeth Gray Feed">
+<link href="http://elisabethgray.me/feed.xml" type="application/atom+xml" rel="alternate" title="Elisabeth C Gray Feed">
 
 <!-- http://t.co/dKP3o1e -->
 <meta name="HandheldFriendly" content="True">
@@ -120,13 +120,13 @@
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg"><a href="http://elisabethgray.me/">Elisabeth Gray</a></li>
+          <li class="masthead__menu-item masthead__menu-item--lg"><a href="http://elisabethgray.me/">Elisabeth C Gray</a></li>
           
             
             <li class="masthead__menu-item"><a href="http://elisabethgray.me/cv/">Curriculum Vitae</a></li>
           
             
-            <li class="masthead__menu-item"><a href="http://elisabethgray.me/academics/">Academics</a></li>
+            <li class="masthead__menu-item"><a href="http://elisabethgray.me/academics/">Academic Work</a></li>
           
             
             <li class="masthead__menu-item"><a href="http://elisabethgray.me/posts/">Blog Posts</a></li>
@@ -141,35 +141,6 @@
     
 
 
-  
-
-
-
-
-
-
-
-
-
-<div class="page__hero--overlay"
-  style="background-color: #333; "
->
-  
-    <div class="wrapper">
-      <h1 class="page__title" itemprop="headline">
-        
-          Elisabeth Gray
-
-        
-      </h1>
-      
-      
-      
-    </div>
-  
-  
-</div>
-
 
 <div id="main" role="main">
   <article class="splash" itemscope itemtype="http://schema.org/CreativeWork">
@@ -181,11 +152,11 @@
     <section class="page__content" itemprop="text">
       <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-<title type="text">Elisabeth Gray</title>
+<title type="text">Elisabeth C Gray</title>
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://elisabethgray.me/feed.xml" />
 <link rel="alternate" type="text/html" href="http://elisabethgray.me" />
-<updated>2016-06-22T20:05:36-05:00</updated>
+<updated>2016-07-12T10:16:12-05:00</updated>
 <id>http://elisabethgray.me/</id>
 <author>
   <name></name>
@@ -250,7 +221,7 @@
   </ul>
 </div>
 
-<div class="page__footer-copyright">&copy; 2016 Elisabeth Gray. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+<div class="page__footer-copyright">&copy; 2016 Elisabeth C Gray. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
   </content>
 </entry>
 
@@ -390,7 +361,7 @@ System dynamics scientist Donella Meadows said that “self-organization is such
   </ul>
 </div>
 
-<div class="page__footer-copyright">&copy; 2016 Elisabeth Gray. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+<div class="page__footer-copyright">&copy; 2016 Elisabeth C Gray. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
   </content>
 </entry>
 
@@ -605,7 +576,7 @@ System dynamics scientist Donella Meadows said that “self-organization is such
   </ul>
 </div>
 
-<div class="page__footer-copyright">&copy; 2016 Elisabeth Gray. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+<div class="page__footer-copyright">&copy; 2016 Elisabeth C Gray. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
   </content>
 </entry>
 
@@ -854,7 +825,7 @@ System dynamics scientist Donella Meadows said that “self-organization is such
   </ul>
 </div>
 
-<div class="page__footer-copyright">&copy; 2016 Elisabeth Gray. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+<div class="page__footer-copyright">&copy; 2016 Elisabeth C Gray. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
   </content>
 </entry>
 
@@ -1055,7 +1026,7 @@ System dynamics scientist Donella Meadows said that “self-organization is such
   </ul>
 </div>
 
-<div class="page__footer-copyright">&copy; 2016 Elisabeth Gray. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+<div class="page__footer-copyright">&copy; 2016 Elisabeth C Gray. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
   </content>
 </entry>
 
@@ -1288,7 +1259,7 @@ System dynamics scientist Donella Meadows said that “self-organization is such
   </ul>
 </div>
 
-<div class="page__footer-copyright">&copy; 2016 Elisabeth Gray. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+<div class="page__footer-copyright">&copy; 2016 Elisabeth C Gray. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
   </content>
 </entry>
 
@@ -1526,7 +1497,7 @@ In contrast to Tunisia, obstacles to access and violations of user rights have i
   </ul>
 </div>
 
-<div class="page__footer-copyright">&copy; 2016 Elisabeth Gray. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+<div class="page__footer-copyright">&copy; 2016 Elisabeth C Gray. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
   </content>
 </entry>
 
@@ -1758,7 +1729,7 @@ In contrast to Tunisia, obstacles to access and violations of user rights have i
   </ul>
 </div>
 
-<div class="page__footer-copyright">&copy; 2016 Elisabeth Gray. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+<div class="page__footer-copyright">&copy; 2016 Elisabeth C Gray. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
   </content>
 </entry>
 
@@ -1875,7 +1846,7 @@ the potentials and limitations of cyberactivism in triggering public mobilizatio
   </ul>
 </div>
 
-<div class="page__footer-copyright">&copy; 2016 Elisabeth Gray. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+<div class="page__footer-copyright">&copy; 2016 Elisabeth C Gray. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
   </content>
 </entry>
 
@@ -2008,7 +1979,7 @@ Social media has been presented as a potent weapon against authoritarian regimes
   </ul>
 </div>
 
-<div class="page__footer-copyright">&copy; 2016 Elisabeth Gray. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+<div class="page__footer-copyright">&copy; 2016 Elisabeth C Gray. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
   </content>
 </entry>
 
@@ -2115,7 +2086,7 @@ Social media has been presented as a potent weapon against authoritarian regimes
   </ul>
 </div>
 
-<div class="page__footer-copyright">&copy; 2016 Elisabeth Gray. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+<div class="page__footer-copyright">&copy; 2016 Elisabeth C Gray. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
   </content>
 </entry>
 
@@ -2249,7 +2220,7 @@ Social media has been presented as a potent weapon against authoritarian regimes
   </ul>
 </div>
 
-<div class="page__footer-copyright">&copy; 2016 Elisabeth Gray. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+<div class="page__footer-copyright">&copy; 2016 Elisabeth C Gray. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
   </content>
 </entry>
 
@@ -2402,7 +2373,7 @@ By January 2011, organizers had seasoned tactics for combatting Mubarak’s secu
   </ul>
 </div>
 
-<div class="page__footer-copyright">&copy; 2016 Elisabeth Gray. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+<div class="page__footer-copyright">&copy; 2016 Elisabeth C Gray. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
   </content>
 </entry>
 
@@ -2541,7 +2512,7 @@ By January 2011, organizers had seasoned tactics for combatting Mubarak’s secu
   </ul>
 </div>
 
-<div class="page__footer-copyright">&copy; 2016 Elisabeth Gray. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+<div class="page__footer-copyright">&copy; 2016 Elisabeth C Gray. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
   </content>
 </entry>
 
@@ -2640,7 +2611,7 @@ Ash-shab yurid isqat an-nizam&lt;br /&gt;
   </ul>
 </div>
 
-<div class="page__footer-copyright">&copy; 2016 Elisabeth Gray. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+<div class="page__footer-copyright">&copy; 2016 Elisabeth C Gray. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
   </content>
 </entry>
 
@@ -2676,7 +2647,7 @@ Ash-shab yurid isqat an-nizam&lt;br /&gt;
   </ul>
 </div>
 
-<div class="page__footer-copyright">&copy; 2016 Elisabeth Gray. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+<div class="page__footer-copyright">&copy; 2016 Elisabeth C Gray. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
       </footer>
     </div>
 
