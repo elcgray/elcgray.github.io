@@ -32,9 +32,6 @@
 <meta property="og:title" content="Elisabeth C Gray">
 
 
-  <link rel="canonical" href="http://elisabethgray.me/feed.xml">
-  <meta property="og:url" content="http://elisabethgray.me/feed.xml">
-
 
 
 
@@ -42,7 +39,7 @@
   <meta name="twitter:site" content="@elcgray">
   <meta name="twitter:title" content="Elisabeth C Gray">
   <meta name="twitter:description" content="An online repository for the academic and personal work of Elisabeth C Gray">
-  <meta name="twitter:url" content="http://elisabethgray.me/feed.xml">
+  <meta name="twitter:url" content="">
 
   
     <meta name="twitter:card" content="summary">
@@ -70,7 +67,7 @@
       "@context" : "http://schema.org",
       "@type" : "person",
       "name" : "Elisabeth C Gray",
-      "url" : "http://elisabethgray.me",
+      "url" : null,
       "sameAs" : ["https://twitter.com/elcgray","https://www.facebook.com/elcgray","https://www.instagram.com/elcgray/","https://github.com/elcgray"]
     }
   </script>
@@ -85,7 +82,7 @@
 <!-- end SEO -->
 
 
-<link href="http://elisabethgray.me/feed.xml" type="application/atom+xml" rel="alternate" title="Elisabeth C Gray Feed">
+<link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Elisabeth C Gray Feed">
 
 <!-- http://t.co/dKP3o1e -->
 <meta name="HandheldFriendly" content="True">
@@ -97,7 +94,7 @@
 </script>
 
 <!-- For all browsers -->
-<link rel="stylesheet" href="http://elisabethgray.me/assets/css/main.css">
+<link rel="stylesheet" href="/assets/css/main.css">
 
 <meta http-equiv="cleartype" content="on">
     <!-- start custom head snippets -->
@@ -120,16 +117,16 @@
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg"><a href="http://elisabethgray.me/">Elisabeth C Gray</a></li>
+          <li class="masthead__menu-item masthead__menu-item--lg"><a href="/">Elisabeth C Gray</a></li>
           
             
-            <li class="masthead__menu-item"><a href="http://elisabethgray.me/cv/">Curriculum Vitae</a></li>
+            <li class="masthead__menu-item"><a href="/cv/">Curriculum Vitae</a></li>
           
             
-            <li class="masthead__menu-item"><a href="http://elisabethgray.me/academics/">Academic Work</a></li>
+            <li class="masthead__menu-item"><a href="/academics/">Academic Work</a></li>
           
             
-            <li class="masthead__menu-item"><a href="http://elisabethgray.me/posts/">Blog Posts</a></li>
+            <li class="masthead__menu-item"><a href="/posts/">Blog Posts</a></li>
           
         </ul>
         <ul class="hidden-links hidden"></ul>
@@ -154,26 +151,105 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 <title type="text">Elisabeth C Gray</title>
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="http://elisabethgray.me/feed.xml" />
-<link rel="alternate" type="text/html" href="http://elisabethgray.me" />
-<updated>2016-08-01T10:22:09-05:00</updated>
-<id>http://elisabethgray.me/</id>
+<link rel="self" type="application/atom+xml" href="/feed.xml" />
+<link rel="alternate" type="text/html" href="" />
+<updated>2016-09-25T08:54:41-05:00</updated>
+<id>/</id>
 <author>
   <name></name>
-  <uri>http://elisabethgray.me/</uri>
+  <uri>/</uri>
   
 </author>
 
 
 <entry>
+  <title type="html"><![CDATA[The Balkans: Sarajevo]]></title>
+  <link rel="alternate" type="text/html" href="/sarajevo/" />
+  <id>/sarajevo</id>
+  <published>2016-09-24T00:00:00-05:00</published>
+  <updated>2016-09-24T00:00:00-05:00</updated>
+  <author>
+    <name></name>
+    <uri></uri>
+    
+  </author>
+  <content type="html">
+    &lt;p&gt;Rachel and I began our trip to the Balkans in Sarajevo, a city I have been fascinated with since the mid-90s. I first wrote a paper on the Bosnian war in high school and then again in grad school when I assessed the language used by the US and UN to defer action in &lt;a href=&quot;/academics/never-again&quot;&gt;Rwanda and Bosnia in the 1990s&lt;/a&gt; even after it was clear that genocides were occurring.&lt;/p&gt;
+
+&lt;h2 id=&quot;sarajevo&quot;&gt;Sarajevo&lt;/h2&gt;
+&lt;p class=&quot;right&quot;&gt;&lt;img src=&quot;/images/sarajevo-tunel-spasa.jpg&quot; alt=&quot;sarajevo-tunel-spasa&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;This home was the endpoint of Tunel Spasa, the Tunnel of Hope, dug during the war to move people and goods out of range of snipers. It goes under the airport, which was UN-controlled at the time.&lt;/figcaption&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/sarajevo-city-cemetery.jpg&quot; alt=&quot;sarajevo-city-cemetery&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;The city cemetery has a mix of religions and ethnicities: Muslim, Orthodox, Catholic, and Jewish.&lt;/figcaption&gt;
+
+&lt;p class=&quot;right&quot;&gt;&lt;img src=&quot;/images/sarajevo-war-cemetery.jpg&quot; alt=&quot;sarajevo-war-cemetery&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;War hero cemetery with Sarajevo&#39;s twin towers in the background. You can tell what religion the person was by the color of the tombstone. White is Muslim, and black and grey are Orthodox and Catholic. Those buried here were all Muslim.&lt;/figcaption&gt;
+
+&lt;p class=&quot;left&quot;&gt;&lt;img src=&quot;/images/sarajevo-old-city.jpg&quot; alt=&quot;sarajevo-old-city&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;Old Sarajevo: Baghdad Cafe, Hacienda Cantina Mexicana, and a minaret in the background.&lt;/figcaption&gt;
+
+&lt;h2 id=&quot;srebrenica&quot;&gt;Srebrenica&lt;/h2&gt;
+
+&lt;p class=&quot;full&quot;&gt;&lt;img src=&quot;/images/srebrenica-1.jpg&quot; alt=&quot;srebrenica-1&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;&lt;/figcaption&gt;
+
+&lt;p class=&quot;full&quot;&gt;&lt;img src=&quot;/images/srebrenica-2.jpg&quot; alt=&quot;srebrenica-2&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;&lt;/figcaption&gt;
+
+&lt;p class=&quot;full&quot;&gt;&lt;img src=&quot;/images/srebrenica-3.jpg&quot; alt=&quot;srebrenica-3&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;&lt;/figcaption&gt;
+
+&lt;p class=&quot;full&quot;&gt;&lt;img src=&quot;/images/srebrenica-names.jpg&quot; alt=&quot;srebrenica-names&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;&lt;/figcaption&gt;
+
+&lt;h2 id=&quot;reading-list&quot;&gt;Reading List&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://amzn.to/2cZxgUF&quot;&gt;Safe Area Goražde: The War in Eastern Bosnia 1992-1995&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://amzn.to/2dezxyF&quot;&gt;The Fixer: A Story from Sarajevo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://amzn.to/2cBgPil&quot;&gt;War’s End: Profiles from Bosnia, 1995-1996&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://amzn.to/2dpzyMy&quot;&gt;Balkan Ghosts: A Journey Through History&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://amzn.to/2cBhfoK&quot;&gt;War Is a Force That Gives Us Meaning&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://amzn.to/2cVbYLP&quot;&gt;Girl at War: A Novel&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://amzn.to/2di1nWy&quot;&gt;The Sleepwalkers: How Europe Went to War in 1914&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+    
+
+<div class="page__footer-follow">
+  <ul class="social-icons">
+    
+      <li><strong>Follow:</strong></li>
+    
+    
+      <li><a href="https://twitter.com/elcgray"><i class="fa fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
+    
+    
+      <li><a href="https://facebook.com/elcgray"><i class="fa fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>
+    
+    
+      <li><a href="http://github.com/elcgray"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+    
+    
+    <li><a href="/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+  </ul>
+</div>
+
+<div class="page__footer-copyright">&copy; 2016 Elisabeth C Gray. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+  </content>
+</entry>
+
+
+<entry>
   <title type="html"><![CDATA[Social Media and the Arab Uprisings: Analysis]]></title>
-  <link rel="alternate" type="text/html" href="http://elisabethgray.me/smau-analysis/" />
-  <id>http://elisabethgray.me/smau-analysis</id>
+  <link rel="alternate" type="text/html" href="/smau-analysis/" />
+  <id>/smau-analysis</id>
   <published>2015-05-01T00:00:00-05:00</published>
   <updated>2015-05-01T00:00:00-05:00</updated>
   <author>
     <name></name>
-    <uri>http://elisabethgray.me</uri>
+    <uri></uri>
     
   </author>
   <content type="html">
@@ -217,7 +293,7 @@
       <li><a href="http://github.com/elcgray"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
     
     
-    <li><a href="http://elisabethgray.me/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    <li><a href="/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
   </ul>
 </div>
 
@@ -228,13 +304,13 @@
 
 <entry>
   <title type="html"><![CDATA[Social Media and the Arab Uprisings: Conclusion]]></title>
-  <link rel="alternate" type="text/html" href="http://elisabethgray.me/smau-conclusion/" />
-  <id>http://elisabethgray.me/smau-conclusion</id>
+  <link rel="alternate" type="text/html" href="/smau-conclusion/" />
+  <id>/smau-conclusion</id>
   <published>2015-04-26T00:00:00-05:00</published>
   <updated>2015-04-26T00:00:00-05:00</updated>
   <author>
     <name></name>
-    <uri>http://elisabethgray.me</uri>
+    <uri></uri>
     
   </author>
   <content type="html">
@@ -357,7 +433,7 @@ System dynamics scientist Donella Meadows said that “self-organization is such
       <li><a href="http://github.com/elcgray"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
     
     
-    <li><a href="http://elisabethgray.me/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    <li><a href="/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
   </ul>
 </div>
 
@@ -368,13 +444,13 @@ System dynamics scientist Donella Meadows said that “self-organization is such
 
 <entry>
   <title type="html"><![CDATA[Social Media and the Arab Uprisings: Libya's Status Today]]></title>
-  <link rel="alternate" type="text/html" href="http://elisabethgray.me/smau-libya-today/" />
-  <id>http://elisabethgray.me/smau-libya-today</id>
+  <link rel="alternate" type="text/html" href="/smau-libya-today/" />
+  <id>/smau-libya-today</id>
   <published>2015-04-23T00:00:00-05:00</published>
   <updated>2015-04-23T00:00:00-05:00</updated>
   <author>
     <name></name>
-    <uri>http://elisabethgray.me</uri>
+    <uri></uri>
     
   </author>
   <content type="html">
@@ -572,7 +648,7 @@ System dynamics scientist Donella Meadows said that “self-organization is such
       <li><a href="http://github.com/elcgray"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
     
     
-    <li><a href="http://elisabethgray.me/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    <li><a href="/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
   </ul>
 </div>
 
@@ -583,14 +659,14 @@ System dynamics scientist Donella Meadows said that “self-organization is such
 
 <entry>
   <title type="html"><![CDATA[Social Media and the Arab Uprisings: Egypt's Status Today]]></title>
-  <link rel="alternate" type="text/html" href="http://elisabethgray.me/smau-egypt-today/" />
-  <id>http://elisabethgray.me/smau-egypt-today</id>
+  <link rel="alternate" type="text/html" href="/smau-egypt-today/" />
+  <id>/smau-egypt-today</id>
   <updated>2015-05-02T00:00:00-00:00</updated>
   <published>2015-04-21T00:00:00-05:00</published>
   
   <author>
     <name></name>
-    <uri>http://elisabethgray.me</uri>
+    <uri></uri>
     
   </author>
   <content type="html">
@@ -821,7 +897,7 @@ System dynamics scientist Donella Meadows said that “self-organization is such
       <li><a href="http://github.com/elcgray"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
     
     
-    <li><a href="http://elisabethgray.me/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    <li><a href="/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
   </ul>
 </div>
 
@@ -832,13 +908,13 @@ System dynamics scientist Donella Meadows said that “self-organization is such
 
 <entry>
   <title type="html"><![CDATA[Social Media and the Arab Uprisings: Tunisia's Status Today]]></title>
-  <link rel="alternate" type="text/html" href="http://elisabethgray.me/smau-tunisia-today/" />
-  <id>http://elisabethgray.me/smau-tunisia-today</id>
+  <link rel="alternate" type="text/html" href="/smau-tunisia-today/" />
+  <id>/smau-tunisia-today</id>
   <published>2015-04-19T00:00:00-05:00</published>
   <updated>2015-04-19T00:00:00-05:00</updated>
   <author>
     <name></name>
-    <uri>http://elisabethgray.me</uri>
+    <uri></uri>
     
   </author>
   <content type="html">
@@ -1022,7 +1098,7 @@ System dynamics scientist Donella Meadows said that “self-organization is such
       <li><a href="http://github.com/elcgray"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
     
     
-    <li><a href="http://elisabethgray.me/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    <li><a href="/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
   </ul>
 </div>
 
@@ -1033,13 +1109,13 @@ System dynamics scientist Donella Meadows said that “self-organization is such
 
 <entry>
   <title type="html"><![CDATA[Social Media and the Arab Uprisings: Social Media in Libya Today]]></title>
-  <link rel="alternate" type="text/html" href="http://elisabethgray.me/smau-sm-today-libya/" />
-  <id>http://elisabethgray.me/smau-sm-today-libya</id>
+  <link rel="alternate" type="text/html" href="/smau-sm-today-libya/" />
+  <id>/smau-sm-today-libya</id>
   <published>2015-04-16T00:00:00-05:00</published>
   <updated>2015-04-16T00:00:00-05:00</updated>
   <author>
     <name></name>
-    <uri>http://elisabethgray.me</uri>
+    <uri></uri>
     
   </author>
   <content type="html">
@@ -1255,7 +1331,7 @@ System dynamics scientist Donella Meadows said that “self-organization is such
       <li><a href="http://github.com/elcgray"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
     
     
-    <li><a href="http://elisabethgray.me/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    <li><a href="/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
   </ul>
 </div>
 
@@ -1266,13 +1342,13 @@ System dynamics scientist Donella Meadows said that “self-organization is such
 
 <entry>
   <title type="html"><![CDATA[Social Media and the Arab Uprisings: Social Media in Egypt Today]]></title>
-  <link rel="alternate" type="text/html" href="http://elisabethgray.me/smau-sm-today-egypt/" />
-  <id>http://elisabethgray.me/smau-sm-today-egypt</id>
+  <link rel="alternate" type="text/html" href="/smau-sm-today-egypt/" />
+  <id>/smau-sm-today-egypt</id>
   <published>2015-04-14T00:00:00-05:00</published>
   <updated>2015-04-14T00:00:00-05:00</updated>
   <author>
     <name></name>
-    <uri>http://elisabethgray.me</uri>
+    <uri></uri>
     
   </author>
   <content type="html">
@@ -1493,7 +1569,7 @@ In contrast to Tunisia, obstacles to access and violations of user rights have i
       <li><a href="http://github.com/elcgray"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
     
     
-    <li><a href="http://elisabethgray.me/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    <li><a href="/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
   </ul>
 </div>
 
@@ -1504,13 +1580,13 @@ In contrast to Tunisia, obstacles to access and violations of user rights have i
 
 <entry>
   <title type="html"><![CDATA[Social Media and the Arab Uprisings: Social Media in Tunisia Today]]></title>
-  <link rel="alternate" type="text/html" href="http://elisabethgray.me/smau-sm-today-tunisia/" />
-  <id>http://elisabethgray.me/smau-sm-today-tunisia</id>
+  <link rel="alternate" type="text/html" href="/smau-sm-today-tunisia/" />
+  <id>/smau-sm-today-tunisia</id>
   <published>2015-04-12T00:00:00-05:00</published>
   <updated>2015-04-12T00:00:00-05:00</updated>
   <author>
     <name></name>
-    <uri>http://elisabethgray.me</uri>
+    <uri></uri>
     
   </author>
   <content type="html">
@@ -1725,7 +1801,7 @@ In contrast to Tunisia, obstacles to access and violations of user rights have i
       <li><a href="http://github.com/elcgray"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
     
     
-    <li><a href="http://elisabethgray.me/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    <li><a href="/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
   </ul>
 </div>
 
@@ -1736,13 +1812,13 @@ In contrast to Tunisia, obstacles to access and violations of user rights have i
 
 <entry>
   <title type="html"><![CDATA[Social Media and the Arab Uprisings: Social Media in Libya]]></title>
-  <link rel="alternate" type="text/html" href="http://elisabethgray.me/smau-analyses-libya/" />
-  <id>http://elisabethgray.me/smau-analyses-libya</id>
+  <link rel="alternate" type="text/html" href="/smau-analyses-libya/" />
+  <id>/smau-analyses-libya</id>
   <published>2015-04-10T00:00:00-05:00</published>
   <updated>2015-04-10T00:00:00-05:00</updated>
   <author>
     <name></name>
-    <uri>http://elisabethgray.me</uri>
+    <uri></uri>
     
   </author>
   <content type="html">
@@ -1842,7 +1918,7 @@ the potentials and limitations of cyberactivism in triggering public mobilizatio
       <li><a href="http://github.com/elcgray"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
     
     
-    <li><a href="http://elisabethgray.me/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    <li><a href="/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
   </ul>
 </div>
 
@@ -1853,13 +1929,13 @@ the potentials and limitations of cyberactivism in triggering public mobilizatio
 
 <entry>
   <title type="html"><![CDATA[Social Media and the Arab Uprisings: Social Media in Egypt]]></title>
-  <link rel="alternate" type="text/html" href="http://elisabethgray.me/smau-analyses-egypt/" />
-  <id>http://elisabethgray.me/smau-analyses-egypt</id>
+  <link rel="alternate" type="text/html" href="/smau-analyses-egypt/" />
+  <id>/smau-analyses-egypt</id>
   <published>2015-04-07T00:00:00-05:00</published>
   <updated>2015-04-07T00:00:00-05:00</updated>
   <author>
     <name></name>
-    <uri>http://elisabethgray.me</uri>
+    <uri></uri>
     
   </author>
   <content type="html">
@@ -1975,7 +2051,7 @@ Social media has been presented as a potent weapon against authoritarian regimes
       <li><a href="http://github.com/elcgray"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
     
     
-    <li><a href="http://elisabethgray.me/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    <li><a href="/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
   </ul>
 </div>
 
@@ -1986,13 +2062,13 @@ Social media has been presented as a potent weapon against authoritarian regimes
 
 <entry>
   <title type="html"><![CDATA[Social Media and the Arab Uprisings: Social Media in Tunisia]]></title>
-  <link rel="alternate" type="text/html" href="http://elisabethgray.me/smau-analyses-tunisia/" />
-  <id>http://elisabethgray.me/smau-analyses-tunisia</id>
+  <link rel="alternate" type="text/html" href="/smau-analyses-tunisia/" />
+  <id>/smau-analyses-tunisia</id>
   <published>2015-04-05T00:00:00-05:00</published>
   <updated>2015-04-05T00:00:00-05:00</updated>
   <author>
     <name></name>
-    <uri>http://elisabethgray.me</uri>
+    <uri></uri>
     
   </author>
   <content type="html">
@@ -2082,7 +2158,7 @@ Social media has been presented as a potent weapon against authoritarian regimes
       <li><a href="http://github.com/elcgray"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
     
     
-    <li><a href="http://elisabethgray.me/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    <li><a href="/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
   </ul>
 </div>
 
@@ -2093,13 +2169,13 @@ Social media has been presented as a potent weapon against authoritarian regimes
 
 <entry>
   <title type="html"><![CDATA[Social Media and the Arab Uprisings: Libya's Background]]></title>
-  <link rel="alternate" type="text/html" href="http://elisabethgray.me/smau-background-libya/" />
-  <id>http://elisabethgray.me/smau-background-libya</id>
+  <link rel="alternate" type="text/html" href="/smau-background-libya/" />
+  <id>/smau-background-libya</id>
   <published>2015-04-02T00:00:00-05:00</published>
   <updated>2015-04-02T00:00:00-05:00</updated>
   <author>
     <name></name>
-    <uri>http://elisabethgray.me</uri>
+    <uri></uri>
     
   </author>
   <content type="html">
@@ -2216,7 +2292,7 @@ Social media has been presented as a potent weapon against authoritarian regimes
       <li><a href="http://github.com/elcgray"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
     
     
-    <li><a href="http://elisabethgray.me/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    <li><a href="/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
   </ul>
 </div>
 
@@ -2227,13 +2303,13 @@ Social media has been presented as a potent weapon against authoritarian regimes
 
 <entry>
   <title type="html"><![CDATA[Social Media and the Arab Uprisings: Egypt's Background]]></title>
-  <link rel="alternate" type="text/html" href="http://elisabethgray.me/smau-background-egypt/" />
-  <id>http://elisabethgray.me/smau-background-egypt</id>
+  <link rel="alternate" type="text/html" href="/smau-background-egypt/" />
+  <id>/smau-background-egypt</id>
   <published>2015-03-29T00:00:00-05:00</published>
   <updated>2015-03-29T00:00:00-05:00</updated>
   <author>
     <name></name>
-    <uri>http://elisabethgray.me</uri>
+    <uri></uri>
     
   </author>
   <content type="html">
@@ -2369,7 +2445,7 @@ By January 2011, organizers had seasoned tactics for combatting Mubarak’s secu
       <li><a href="http://github.com/elcgray"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
     
     
-    <li><a href="http://elisabethgray.me/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    <li><a href="/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
   </ul>
 </div>
 
@@ -2380,13 +2456,13 @@ By January 2011, organizers had seasoned tactics for combatting Mubarak’s secu
 
 <entry>
   <title type="html"><![CDATA[Social Media and the Arab Uprisings: Tunisia's Background]]></title>
-  <link rel="alternate" type="text/html" href="http://elisabethgray.me/smau-background-tunisia/" />
-  <id>http://elisabethgray.me/smau-background-tunisia</id>
+  <link rel="alternate" type="text/html" href="/smau-background-tunisia/" />
+  <id>/smau-background-tunisia</id>
   <published>2015-03-26T00:00:00-05:00</published>
   <updated>2015-03-26T00:00:00-05:00</updated>
   <author>
     <name></name>
-    <uri>http://elisabethgray.me</uri>
+    <uri></uri>
     
   </author>
   <content type="html">
@@ -2508,7 +2584,7 @@ By January 2011, organizers had seasoned tactics for combatting Mubarak’s secu
       <li><a href="http://github.com/elcgray"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
     
     
-    <li><a href="http://elisabethgray.me/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    <li><a href="/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
   </ul>
 </div>
 
@@ -2519,13 +2595,13 @@ By January 2011, organizers had seasoned tactics for combatting Mubarak’s secu
 
 <entry>
   <title type="html"><![CDATA[Social Media and the Arab Uprisings: Introduction]]></title>
-  <link rel="alternate" type="text/html" href="http://elisabethgray.me/smau-introduction/" />
-  <id>http://elisabethgray.me/smau-introduction</id>
+  <link rel="alternate" type="text/html" href="/smau-introduction/" />
+  <id>/smau-introduction</id>
   <published>2015-03-22T00:00:00-05:00</published>
   <updated>2015-03-22T00:00:00-05:00</updated>
   <author>
     <name></name>
-    <uri>http://elisabethgray.me</uri>
+    <uri></uri>
     
   </author>
   <content type="html">
@@ -2607,7 +2683,7 @@ Ash-shab yurid isqat an-nizam&lt;br /&gt;
       <li><a href="http://github.com/elcgray"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
     
     
-    <li><a href="http://elisabethgray.me/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    <li><a href="/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
   </ul>
 </div>
 
@@ -2643,7 +2719,7 @@ Ash-shab yurid isqat an-nizam&lt;br /&gt;
       <li><a href="http://github.com/elcgray"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
     
     
-    <li><a href="http://elisabethgray.me/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    <li><a href="/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
   </ul>
 </div>
 
@@ -2651,7 +2727,7 @@ Ash-shab yurid isqat an-nizam&lt;br /&gt;
       </footer>
     </div>
 
-    <script src="http://elisabethgray.me/assets/js/main.min.js"></script>
+    <script src="/assets/js/main.min.js"></script>
 
 
 
