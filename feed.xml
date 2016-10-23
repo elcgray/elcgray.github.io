@@ -1,13 +1,7 @@
-
-
 <!doctype html>
 <html lang="en" class="no-js">
   <head>
-    
-
-<meta charset="utf-8">
-
-
+    <meta charset="utf-8">
 
 <!-- begin SEO -->
 
@@ -27,10 +21,13 @@
 
 
 
-<meta property="og:locale" content="en-US">
+<meta property="og:locale" content="en_US">
 <meta property="og:site_name" content="Elisabeth C Gray">
 <meta property="og:title" content="Elisabeth C Gray">
 
+
+  <link rel="canonical" href="http://elisabethgray.me/feed.xml">
+  <meta property="og:url" content="http://elisabethgray.me/feed.xml">
 
 
 
@@ -39,7 +36,7 @@
   <meta name="twitter:site" content="@elcgray">
   <meta name="twitter:title" content="Elisabeth C Gray">
   <meta name="twitter:description" content="An online repository for the academic and personal work of Elisabeth C Gray">
-  <meta name="twitter:url" content="">
+  <meta name="twitter:url" content="http://elisabethgray.me/feed.xml">
 
   
     <meta name="twitter:card" content="summary">
@@ -62,12 +59,15 @@
 
 
 
+
+
+
   <script type="application/ld+json">
     {
       "@context" : "http://schema.org",
-      "@type" : "person",
+      "@type" : "Person",
       "name" : "Elisabeth C Gray",
-      "url" : null,
+      "url" : "http://elisabethgray.me",
       "sameAs" : ["https://twitter.com/elcgray","https://www.facebook.com/elcgray","https://www.instagram.com/elcgray/","https://github.com/elcgray"]
     }
   </script>
@@ -82,7 +82,7 @@
 <!-- end SEO -->
 
 
-<link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Elisabeth C Gray Feed">
+<link href="http://elisabethgray.me/feed.xml" type="application/atom+xml" rel="alternate" title="Elisabeth C Gray Feed">
 
 <!-- http://t.co/dKP3o1e -->
 <meta name="HandheldFriendly" content="True">
@@ -94,7 +94,7 @@
 </script>
 
 <!-- For all browsers -->
-<link rel="stylesheet" href="/assets/css/main.css">
+<link rel="stylesheet" href="http://elisabethgray.me/assets/css/main.css">
 
 <meta http-equiv="cleartype" content="on">
     <!-- start custom head snippets -->
@@ -104,29 +104,27 @@
 <!-- end custom head snippets -->
   </head>
 
-  <body>
+  <body class="layout--splash">
 
     <!--[if lt IE 9]>
 <div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
 <![endif]-->
-    
-
-<div class="masthead">
+    <div class="masthead">
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg"><a href="/">Elisabeth C Gray</a></li>
+          <li class="masthead__menu-item masthead__menu-item--lg"><a href="http://elisabethgray.me/">Elisabeth C Gray</a></li>
           
             
-            <li class="masthead__menu-item"><a href="/cv/">Curriculum Vitae</a></li>
+            <li class="masthead__menu-item"><a href="http://elisabethgray.me/cv/">Curriculum Vitae</a></li>
           
             
-            <li class="masthead__menu-item"><a href="/academics/">Academic Work</a></li>
+            <li class="masthead__menu-item"><a href="http://elisabethgray.me/academics/">Academic Work</a></li>
           
             
-            <li class="masthead__menu-item"><a href="/posts/">Blog Posts</a></li>
+            <li class="masthead__menu-item"><a href="http://elisabethgray.me/posts/">Blog Posts</a></li>
           
         </ul>
         <ul class="hidden-links hidden"></ul>
@@ -136,8 +134,6 @@
 </div>
 
     
-
-
 
 <div id="main" role="main">
   <article class="splash" itemscope itemtype="http://schema.org/CreativeWork">
@@ -151,73 +147,131 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 <title type="text">Elisabeth C Gray</title>
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="/feed.xml" />
-<link rel="alternate" type="text/html" href="" />
-<updated>2016-09-25T08:54:41-05:00</updated>
-<id>/</id>
+<link rel="self" type="application/atom+xml" href="http://elisabethgray.me/feed.xml" />
+<link rel="alternate" type="text/html" href="http://elisabethgray.me" />
+<updated>2016-10-23T15:01:24-05:00</updated>
+<id>http://elisabethgray.me/</id>
 <author>
   <name></name>
-  <uri>/</uri>
+  <uri>http://elisabethgray.me/</uri>
   
 </author>
 
 
 <entry>
-  <title type="html"><![CDATA[The Balkans: Sarajevo]]></title>
-  <link rel="alternate" type="text/html" href="/sarajevo/" />
-  <id>/sarajevo</id>
-  <published>2016-09-24T00:00:00-05:00</published>
-  <updated>2016-09-24T00:00:00-05:00</updated>
+  <title type="html"><![CDATA[The Balkans: Introduction]]></title>
+  <link rel="alternate" type="text/html" href="http://elisabethgray.me/balkans/" />
+  <id>http://elisabethgray.me/balkans</id>
+  <published>2016-10-22T00:00:00-05:00</published>
+  <updated>2016-10-22T00:00:00-05:00</updated>
   <author>
     <name></name>
-    <uri></uri>
+    <uri>http://elisabethgray.me</uri>
     
   </author>
   <content type="html">
-    &lt;p&gt;Rachel and I began our trip to the Balkans in Sarajevo, a city I have been fascinated with since the mid-90s. I first wrote a paper on the Bosnian war in high school and then again in grad school when I assessed the language used by the US and UN to defer action in &lt;a href=&quot;/academics/never-again&quot;&gt;Rwanda and Bosnia in the 1990s&lt;/a&gt; even after it was clear that genocides were occurring.&lt;/p&gt;
-
-&lt;h2 id=&quot;sarajevo&quot;&gt;Sarajevo&lt;/h2&gt;
-&lt;p class=&quot;right&quot;&gt;&lt;img src=&quot;/images/sarajevo-tunel-spasa.jpg&quot; alt=&quot;sarajevo-tunel-spasa&quot; /&gt;&lt;/p&gt;
-&lt;figcaption&gt;This home was the endpoint of Tunel Spasa, the Tunnel of Hope, dug during the war to move people and goods out of range of snipers. It goes under the airport, which was UN-controlled at the time.&lt;/figcaption&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/sarajevo-city-cemetery.jpg&quot; alt=&quot;sarajevo-city-cemetery&quot; /&gt;&lt;/p&gt;
-&lt;figcaption&gt;The city cemetery has a mix of religions and ethnicities: Muslim, Orthodox, Catholic, and Jewish.&lt;/figcaption&gt;
-
-&lt;p class=&quot;right&quot;&gt;&lt;img src=&quot;/images/sarajevo-war-cemetery.jpg&quot; alt=&quot;sarajevo-war-cemetery&quot; /&gt;&lt;/p&gt;
-&lt;figcaption&gt;War hero cemetery with Sarajevo&#39;s twin towers in the background. You can tell what religion the person was by the color of the tombstone. White is Muslim, and black and grey are Orthodox and Catholic. Those buried here were all Muslim.&lt;/figcaption&gt;
-
-&lt;p class=&quot;left&quot;&gt;&lt;img src=&quot;/images/sarajevo-old-city.jpg&quot; alt=&quot;sarajevo-old-city&quot; /&gt;&lt;/p&gt;
-&lt;figcaption&gt;Old Sarajevo: Baghdad Cafe, Hacienda Cantina Mexicana, and a minaret in the background.&lt;/figcaption&gt;
-
-&lt;h2 id=&quot;srebrenica&quot;&gt;Srebrenica&lt;/h2&gt;
-
-&lt;p class=&quot;full&quot;&gt;&lt;img src=&quot;/images/srebrenica-1.jpg&quot; alt=&quot;srebrenica-1&quot; /&gt;&lt;/p&gt;
-&lt;figcaption&gt;&lt;/figcaption&gt;
-
-&lt;p class=&quot;full&quot;&gt;&lt;img src=&quot;/images/srebrenica-2.jpg&quot; alt=&quot;srebrenica-2&quot; /&gt;&lt;/p&gt;
-&lt;figcaption&gt;&lt;/figcaption&gt;
-
-&lt;p class=&quot;full&quot;&gt;&lt;img src=&quot;/images/srebrenica-3.jpg&quot; alt=&quot;srebrenica-3&quot; /&gt;&lt;/p&gt;
-&lt;figcaption&gt;&lt;/figcaption&gt;
-
-&lt;p class=&quot;full&quot;&gt;&lt;img src=&quot;/images/srebrenica-names.jpg&quot; alt=&quot;srebrenica-names&quot; /&gt;&lt;/p&gt;
-&lt;figcaption&gt;&lt;/figcaption&gt;
-
-&lt;h2 id=&quot;reading-list&quot;&gt;Reading List&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://amzn.to/2cZxgUF&quot;&gt;Safe Area Goražde: The War in Eastern Bosnia 1992-1995&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://amzn.to/2dezxyF&quot;&gt;The Fixer: A Story from Sarajevo&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://amzn.to/2cBgPil&quot;&gt;War’s End: Profiles from Bosnia, 1995-1996&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://amzn.to/2dpzyMy&quot;&gt;Balkan Ghosts: A Journey Through History&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://amzn.to/2cBhfoK&quot;&gt;War Is a Force That Gives Us Meaning&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://amzn.to/2cVbYLP&quot;&gt;Girl at War: A Novel&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://amzn.to/2di1nWy&quot;&gt;The Sleepwalkers: How Europe Went to War in 1914&lt;/a&gt;&lt;/li&gt;
+    &lt;aside class=&quot;sidebar__right&quot;&gt;
+&lt;nav class=&quot;toc&quot;&gt;
+    &lt;header&gt;&lt;h4 class=&quot;nav__title&quot;&gt;&lt;i class=&quot;fa fa-file-text&quot;&gt;&lt;/i&gt; Table of Contents&lt;/h4&gt;&lt;/header&gt;
+&lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#introduction&quot; id=&quot;markdown-toc-introduction&quot;&gt;Introduction&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#crash-course-in-modern-south-balkan-history&quot; id=&quot;markdown-toc-crash-course-in-modern-south-balkan-history&quot;&gt;Crash Course in Modern South Balkan History&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#yugoslavia&quot; id=&quot;markdown-toc-yugoslavia&quot;&gt;Yugoslavia&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#world-war-ii&quot; id=&quot;markdown-toc-world-war-ii&quot;&gt;World War II&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#josip-broz-tito&quot; id=&quot;markdown-toc-josip-broz-tito&quot;&gt;Josip Broz Tito&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#ethnic-tension&quot; id=&quot;markdown-toc-ethnic-tension&quot;&gt;Ethnic tension&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#economic-downturn&quot; id=&quot;markdown-toc-economic-downturn&quot;&gt;Economic downturn&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#death-of-tito&quot; id=&quot;markdown-toc-death-of-tito&quot;&gt;Death of Tito&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#slobodan-miloevi&quot; id=&quot;markdown-toc-slobodan-miloevi&quot;&gt;Slobodan Milošević&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#the-breakup-of-yugoslavia&quot; id=&quot;markdown-toc-the-breakup-of-yugoslavia&quot;&gt;The breakup of Yugoslavia&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#yugoslav-wars&quot; id=&quot;markdown-toc-yugoslav-wars&quot;&gt;Yugoslav Wars&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#further-reading&quot; id=&quot;markdown-toc-further-reading&quot;&gt;Further Reading&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#coming-soon&quot; id=&quot;markdown-toc-coming-soon&quot;&gt;Coming Soon&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-    
+  &lt;/nav&gt;
+&lt;/aside&gt;
 
-<div class="page__footer-follow">
+&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;My wife, Rachel, and I recently traveled to the Balkans. We intentionally chose Sarajevo as the starting point for our visit, which &lt;em&gt;may&lt;/em&gt; have had something to do with my obsession with the history of the city and surrounding region.&lt;/p&gt;
+
+&lt;p&gt;The Bosnian war was happening when I was in middle-high school. It’s where and when my interest in media technology’s role in conflict and the definition of cultural/nationalist identities began. In high school, I wrote a paper expressing my naive distress about a world which had allowed genocide to occur yet again. Over the past 20 years I’ve continued to watch, read, and &lt;a href=&quot;/academics/never-again&quot;&gt;write&lt;/a&gt; about the Balkans, Bosnia-Herzegovina in particular.&lt;/p&gt;
+
+&lt;p&gt;The breakup of Yugoslavia affords us an opportunity to look at our own cultural and nationalistic identities and imagine potential outcomes. Sarajevo is a beautiful and solemn monument to the volatility of peace and the complexity of identity. I’ll talk about this more in upcoming posts, but if that isn’t your particular cup of tea, stick around! I’ll also share entertaining things about our trip. But first, a brief foray into the history of the former Yugoslavia, which should help future references make a bit more sense.&lt;/p&gt;
+
+&lt;h1 id=&quot;crash-course-in-modern-south-balkan-history&quot;&gt;Crash Course in Modern South Balkan History&lt;/h1&gt;
+
+&lt;h2 id=&quot;yugoslavia&quot;&gt;Yugoslavia&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Yugoslavia&quot;&gt;Yugoslavia&lt;/a&gt;, or Jugoslavija, comes from the combination of the Croatian word ‘jug’ for ‘south’ and ‘slaveni’ to indicate a people of Slavic descent. It started out as a kingdom of former territories of Austria-Hungary and the Ottoman Empire, post-World War I. The Serbian royal family was the Yugoslav royal dynasty.&lt;/p&gt;
+
+&lt;h2 id=&quot;world-war-ii&quot;&gt;World War II&lt;/h2&gt;
+&lt;p&gt;During World War II, the country was occupied by Axis forces and divided up into parts: Croatia, Bosnia, Herzegovina, Serbia, and Slovenia. Nationalist factions developed within these subdivisions of the country, and two resistance forces arose in opposition to Axis occupation: the &lt;a href=&quot;https://en.wikipedia.org/wiki/Yugoslav_Partisans&quot;&gt;Yugoslav Partisans&lt;/a&gt;, led by &lt;a href=&quot;https://en.wikipedia.org/wiki/Josip_Broz_Tito&quot;&gt;Josip Broz Tito&lt;/a&gt;, and the &lt;a href=&quot;https://en.wikipedia.org/wiki/Chetniks&quot;&gt;Chetniks&lt;/a&gt; who were decidedly pro-Serbian and eventually turned against the Partisans. The Partisans succeeded in freeing Yugoslavia from Axis powers in 1945, abolished the Serbian royal family and government, and made Yugoslavia a communist state.&lt;/p&gt;
+
+&lt;h2 id=&quot;josip-broz-tito&quot;&gt;Josip Broz Tito&lt;/h2&gt;
+&lt;p&gt;Josip Broz Tito was the leader of the Partisans. His Socialist Federal Republic of Yugoslavia existed until 1990 and was comprised of six republics known today as Bosnia-Herzegovina, Croatia, Macedonia, Montenegro, Slovenia, and Serbia, plus the autonomous provinces of Vojvodina and Kosovo.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/a/a9/Former_Yugoslavia_Map.png&quot; alt=&quot;former-yugoslavia&quot; /&gt;&lt;/p&gt;
+&lt;figcaption align=&quot;right&quot;&gt;&lt;a href=&quot;https://upload.wikimedia.org/wikipedia/commons/a/a9/Former_Yugoslavia_Map.png&quot;&gt;sourced from Wikipedia&lt;/a&gt;&lt;/figcaption&gt;
+
+&lt;p&gt;&lt;br /&gt;
+The people we met on our trip spoke with varying degrees of enthusiasm about Tito’s leadership. Most admitted that they had never directly experienced Tito’s Yugoslavia because they were too young, but general sentiment toward him skewed positive. He was an authoritarian ruler, yes, but one that maintained peace and provided stability. Those who &lt;a href=&quot;https://en.wikipedia.org/wiki/Yugoslavia#Government&quot;&gt;criticized him&lt;/a&gt; weren’t guaranteed the same protections.&lt;/p&gt;
+
+&lt;p&gt;Locals put a lot of emphasis on the fact that Tito’s version of communism was different than that of Stalinist Russia. Tito did, in fact, break with Stalin in 1948, and Yugoslavia became an independent communist state. He aligned with &lt;a href=&quot;https://en.wikipedia.org/wiki/Non-Aligned_Movement&quot;&gt;other countries&lt;/a&gt; that wanted a system somewhere in between the capitalism of the West and communism of the East.&lt;/p&gt;
+
+&lt;h2 id=&quot;ethnic-tension&quot;&gt;Ethnic tension&lt;/h2&gt;
+&lt;p&gt;When Tito’s party took over leadership of Yugoslavia, nationalism was banned from being publicly promoted, but protestors voiced concerns that Yugoslavia was still a Serb hegemony. In 1974, Tito responded in part by reducing Serbian influence through the creation of autonomous regions: Kosovo and Vojvodina. The new regions appeased groups concerned with Serbs’ influence and consequently upset Serbs, whose political position was diminished. Autonomous regions were given the same voting capability as republics but differed from them in one major way: they could not separate from Yugoslavia, whereas republics technically had the right to secede (this detail is important later).&lt;/p&gt;
+
+&lt;h2 id=&quot;economic-downturn&quot;&gt;Economic downturn&lt;/h2&gt;
+&lt;p&gt;The price of oil dropped in the 1970s and triggered an economic crisis in Yugoslavia. Debt increased and demand for Yugoslavian products decreased. Unemployment rose. I suspect we’re all familiar with the kind of discomfort these economic changes can cause in a society.&lt;/p&gt;
+
+&lt;h2 id=&quot;death-of-tito&quot;&gt;Death of Tito&lt;/h2&gt;
+&lt;p&gt;Tito died in 1980, and an eight-member council of representatives—one for each republic and autonomous region—replaced him. Ethnic tensions rose again. Kosovo wanted to be recognized as a republic rather than an autonomous entity, and Serbs were becoming increasingly frustrated with their inability to pass legislation, despite being the largest ethnic group in Yugoslavia.&lt;/p&gt;
+
+&lt;h2 id=&quot;slobodan-miloevi&quot;&gt;Slobodan Milošević&lt;/h2&gt;
+&lt;p&gt;Milošević was the council member representing Serbia. He wanted to make Serbia great again by restoring its sovereignty. From 1986 to 1989, he successfully destabilized the governments of Montenegro, Vojvodina, and Kosovo and replaced existing leaders with his allies. This significantly reduced Vojvodina and Kosovo’s autonomy and secured four guaranteed votes in the council, including one for Serbia.&lt;/p&gt;
+
+&lt;p class=&quot;notice&quot;&gt;In 1987, an ambitious Serbian Communist party leader, Slobodan Milosevic…pointed his finger in the distance— at what Mother Tatiana had labeled out there— and, as legend now has it, pledged: “They’ll never do this to you again. Never again will anyone defeat you.”
+&lt;br /&gt;&lt;br /&gt;
+At that moment, as the crowd roared, the Serbian revolt against the Yugoslav federation began; it soon spread laterally to the other republics. One by one, Serbs gathered the courage to remove the fearful icon of Tito from their homes and shops, replacing it with a photo of the plump, baby-faced Milosevic. The only Eastern European Communist leader in the late 1980s who managed to save himself and his party from collapse did so by making a direct appeal to racial hatred.
+&lt;br /&gt;&lt;br /&gt;
+&lt;em&gt;Kaplan, Robert D. (2014-04-01). Balkan Ghosts: A Journey Through History (Kindle Locations 1281-1287). Picador. Kindle Edition.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;the-breakup-of-yugoslavia&quot;&gt;The breakup of Yugoslavia&lt;/h2&gt;
+&lt;p&gt;Ethnic Albanians in Kosovo organized strikes in 1989, and those turned into broader demonstrations demanding Kosovo be recognized as a republic. In early 1990, the &lt;a href=&quot;https://en.wikipedia.org/wiki/League_of_Communists_of_Yugoslavia&quot;&gt;League of Communists of Yugoslavia&lt;/a&gt; convened. Milošević and the Serbian delegates argued in favor of a “one person, one vote” policy which would benefit the Serb-majority within Yugoslavia. Slovenian and Croatian delegates pushed for greater power within the republics and were voted down. They then left the Congress; the Communist party of Yugoslavia was dissolved.&lt;/p&gt;
+
+&lt;h2 id=&quot;yugoslav-wars&quot;&gt;Yugoslav Wars&lt;/h2&gt;
+&lt;p class=&quot;notice&quot;&gt;Yugoslavia did not deteriorate suddenly, but gradually and methodically, step by step, through the 1980s, becoming poorer and meaner and more hate-filled by the year. That’s why every conversation I had was so sad. We were all shouting to the outside world about a coming catastrophe, but no one wanted to hear our awful secret. No one was interested.
+&lt;br /&gt;&lt;br /&gt;
+&lt;em&gt;Kaplan, Robert D. (2014-04-01). Balkan Ghosts: A Journey Through History (Kindle Locations 716-718). Picador. Kindle Edition.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Nationalistic stances took rise as Slovenia and Croatia continued to loosen their ties to the Federation. War broke out when the republics tried to replace Yugoslav civilian and military forces with secessionist ones.&lt;/p&gt;
+
+&lt;p&gt;In mid-1991, Slovenia and Croatia both declared independence from Yugoslavia. Slovenia’s war for independence lasted &lt;a href=&quot;https://en.wikipedia.org/wiki/Ten-Day_War&quot;&gt;ten days&lt;/a&gt;, whereas the &lt;a href=&quot;https://en.wikipedia.org/wiki/Croatian_War_of_Independence&quot;&gt;Croatian&lt;/a&gt; and &lt;a href=&quot;https://en.wikipedia.org/wiki/Bosnian_War&quot;&gt;Bosnian&lt;/a&gt; wars for independence took over four years. The differences in war durations are related (in part) to a higher number of ethnic Serbs living in Croatia and Bosnia-Herzegovina than in Slovenia. Serbs opposed the countries’ secessions from Yugoslavia and wanted Serb-majority areas of the countries to remain in a common state with Serbia. Serbs voted in November 1991 to form a Serbian republic within the borders of Bosnia-Herzegovina in order to do just that, and in January 1992 they announced a separate Republika Srpska. Just over a month later, Bosnia-Herzegovina declared its independence from Yugoslavia. Bosnian Serbs rejected the referendum and declared Republika Srpska’s independence from Bosnia-Herzegovina on April 5th; the Bosnian war officially started the following day.&lt;/p&gt;
+
+&lt;h1 id=&quot;further-reading&quot;&gt;Further Reading&lt;/h1&gt;
+&lt;p&gt;There’s a whole lot more to the story! A lot of specifics were skipped if they weren’t directly relevant to the account of our trip. If you want to learn more about the region, actors, or wars, I recommend taking a look at what Wikipedia has to offer. It’s relatively clear and concise and can send you spiraling blissfully down a rabbit hole of information if you dig into the citations. I’ve included links to some such pages in the text above.&lt;/p&gt;
+
+&lt;p&gt;I’m currently reading &lt;a href=&quot;http://amzn.to/2dyABZ5&quot;&gt;Black Lamb and Grey Falcon&lt;/a&gt;, and &lt;a href=&quot;http://amzn.to/2ehS4ci&quot;&gt;Imagined Communities: Reflections on the Origin and Spread of Nationalism&lt;/a&gt;. I’ve enjoyed what I’ve read thus far. I’ve also read and recommend checking out these books if you’re interested in going deeper into this subject:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://amzn.to/2di1nWy&quot;&gt;The Sleepwalkers: How Europe Went to War in 1914&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://amzn.to/2dpzyMy&quot;&gt;Balkan Ghosts: A Journey Through History&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://amzn.to/2cBhfoK&quot;&gt;War Is a Force That Gives Us Meaning&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;coming-soon&quot;&gt;Coming Soon&lt;/h1&gt;
+&lt;p&gt;I’ll share photos and stories from:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Bosnia&lt;/strong&gt;: Sarajevo, Srebrenica, and the trip south through Mostar&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Croatia&lt;/strong&gt;: Dubrovnik, Korčula, Split, Plitviče lakes, and Zagreb&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Slovenia&lt;/strong&gt;: Ljubljana, Vintgar gorge, Lake Bled, and Hiša Franko&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Italy&lt;/strong&gt;: Venice&lt;/li&gt;
+&lt;/ul&gt;
+
+    <div class="page__footer-follow">
   <ul class="social-icons">
     
       <li><strong>Follow:</strong></li>
@@ -232,7 +286,7 @@
       <li><a href="http://github.com/elcgray"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
     
     
-    <li><a href="/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    <li><a href="http://elisabethgray.me/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
   </ul>
 </div>
 
@@ -243,13 +297,13 @@
 
 <entry>
   <title type="html"><![CDATA[Social Media and the Arab Uprisings: Analysis]]></title>
-  <link rel="alternate" type="text/html" href="/smau-analysis/" />
-  <id>/smau-analysis</id>
+  <link rel="alternate" type="text/html" href="http://elisabethgray.me/smau-analysis/" />
+  <id>http://elisabethgray.me/smau-analysis</id>
   <published>2015-05-01T00:00:00-05:00</published>
   <updated>2015-05-01T00:00:00-05:00</updated>
   <author>
     <name></name>
-    <uri></uri>
+    <uri>http://elisabethgray.me</uri>
     
   </author>
   <content type="html">
@@ -276,9 +330,7 @@
 
 &lt;p&gt;Social media is but one component of revolutionary change. What determines the fate of a people is determined in the streets, in the courthouses, in the classrooms, in the workplaces. Change occurs in the places where we meet each other eye to eye.&lt;/p&gt;
 
-    
-
-<div class="page__footer-follow">
+    <div class="page__footer-follow">
   <ul class="social-icons">
     
       <li><strong>Follow:</strong></li>
@@ -293,7 +345,7 @@
       <li><a href="http://github.com/elcgray"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
     
     
-    <li><a href="/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    <li><a href="http://elisabethgray.me/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
   </ul>
 </div>
 
@@ -304,13 +356,13 @@
 
 <entry>
   <title type="html"><![CDATA[Social Media and the Arab Uprisings: Conclusion]]></title>
-  <link rel="alternate" type="text/html" href="/smau-conclusion/" />
-  <id>/smau-conclusion</id>
+  <link rel="alternate" type="text/html" href="http://elisabethgray.me/smau-conclusion/" />
+  <id>http://elisabethgray.me/smau-conclusion</id>
   <published>2015-04-26T00:00:00-05:00</published>
   <updated>2015-04-26T00:00:00-05:00</updated>
   <author>
     <name></name>
-    <uri></uri>
+    <uri>http://elisabethgray.me</uri>
     
   </author>
   <content type="html">
@@ -416,9 +468,7 @@ System dynamics scientist Donella Meadows said that “self-organization is such
   &lt;li&gt;&lt;span id=&quot;al-khawaja&quot;&gt;Al Khawaja, M. (2012). Another Flight. In M. Alhassen &amp;amp; A. Shihab-Eldin (Eds.), &lt;i&gt;Demanding Dignity: Young Voices from the Front Lines of the Arab Revolutions (I SPEAK FOR MYSELF)&lt;/i&gt; (Kindle). White Cloud Press.&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-    
-
-<div class="page__footer-follow">
+    <div class="page__footer-follow">
   <ul class="social-icons">
     
       <li><strong>Follow:</strong></li>
@@ -433,7 +483,7 @@ System dynamics scientist Donella Meadows said that “self-organization is such
       <li><a href="http://github.com/elcgray"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
     
     
-    <li><a href="/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    <li><a href="http://elisabethgray.me/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
   </ul>
 </div>
 
@@ -444,13 +494,13 @@ System dynamics scientist Donella Meadows said that “self-organization is such
 
 <entry>
   <title type="html"><![CDATA[Social Media and the Arab Uprisings: Libya's Status Today]]></title>
-  <link rel="alternate" type="text/html" href="/smau-libya-today/" />
-  <id>/smau-libya-today</id>
+  <link rel="alternate" type="text/html" href="http://elisabethgray.me/smau-libya-today/" />
+  <id>http://elisabethgray.me/smau-libya-today</id>
   <published>2015-04-23T00:00:00-05:00</published>
   <updated>2015-04-23T00:00:00-05:00</updated>
   <author>
     <name></name>
-    <uri></uri>
+    <uri>http://elisabethgray.me</uri>
     
   </author>
   <content type="html">
@@ -631,9 +681,7 @@ System dynamics scientist Donella Meadows said that “self-organization is such
   &lt;li&gt;&lt;span id=&quot;husain&quot;&gt;Husain, E. (2011). The Real Risks of Chaos. The New York Times: Room for Debate. Retrieved from &lt;a href=&quot;http://www.nytimes.com/roomfordebate/2011/10/20/qaddafis-end-the-mideasts-future/the-real-risks-of-chaos&quot;&gt;http://www.nytimes.com/roomfordebate/2011/10/20/qaddafis-end-the-mideasts-future/the-real-risks-of-chaos&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-    
-
-<div class="page__footer-follow">
+    <div class="page__footer-follow">
   <ul class="social-icons">
     
       <li><strong>Follow:</strong></li>
@@ -648,7 +696,7 @@ System dynamics scientist Donella Meadows said that “self-organization is such
       <li><a href="http://github.com/elcgray"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
     
     
-    <li><a href="/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    <li><a href="http://elisabethgray.me/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
   </ul>
 </div>
 
@@ -659,14 +707,14 @@ System dynamics scientist Donella Meadows said that “self-organization is such
 
 <entry>
   <title type="html"><![CDATA[Social Media and the Arab Uprisings: Egypt's Status Today]]></title>
-  <link rel="alternate" type="text/html" href="/smau-egypt-today/" />
-  <id>/smau-egypt-today</id>
+  <link rel="alternate" type="text/html" href="http://elisabethgray.me/smau-egypt-today/" />
+  <id>http://elisabethgray.me/smau-egypt-today</id>
   <updated>2015-05-02T00:00:00-00:00</updated>
   <published>2015-04-21T00:00:00-05:00</published>
   
   <author>
     <name></name>
-    <uri></uri>
+    <uri>http://elisabethgray.me</uri>
     
   </author>
   <content type="html">
@@ -880,9 +928,7 @@ System dynamics scientist Donella Meadows said that “self-organization is such
   &lt;li&gt;&lt;span id=&quot;wolfers&quot;&gt;Wolfers, J., Leonhardt, D., &amp;amp; Quealy, K. (2015, April). 1.5 Million Missing Black Men. Retrieved from &lt;a href=&quot;http://www.nytimes.com/interactive/2015/04/20/upshot/missing-black-men.html?abt=0002&amp;amp;abg=0&quot;&gt;http://www.nytimes.com/interactive/2015/04/20/upshot/missing-black-men.html?abt=0002&amp;amp;abg=0&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-    
-
-<div class="page__footer-follow">
+    <div class="page__footer-follow">
   <ul class="social-icons">
     
       <li><strong>Follow:</strong></li>
@@ -897,7 +943,7 @@ System dynamics scientist Donella Meadows said that “self-organization is such
       <li><a href="http://github.com/elcgray"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
     
     
-    <li><a href="/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    <li><a href="http://elisabethgray.me/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
   </ul>
 </div>
 
@@ -908,13 +954,13 @@ System dynamics scientist Donella Meadows said that “self-organization is such
 
 <entry>
   <title type="html"><![CDATA[Social Media and the Arab Uprisings: Tunisia's Status Today]]></title>
-  <link rel="alternate" type="text/html" href="/smau-tunisia-today/" />
-  <id>/smau-tunisia-today</id>
+  <link rel="alternate" type="text/html" href="http://elisabethgray.me/smau-tunisia-today/" />
+  <id>http://elisabethgray.me/smau-tunisia-today</id>
   <published>2015-04-19T00:00:00-05:00</published>
   <updated>2015-04-19T00:00:00-05:00</updated>
   <author>
     <name></name>
-    <uri></uri>
+    <uri>http://elisabethgray.me</uri>
     
   </author>
   <content type="html">
@@ -1081,9 +1127,7 @@ System dynamics scientist Donella Meadows said that “self-organization is such
   &lt;li&gt;&lt;span id=&quot;marcusa&quot;&gt;Marcusa, M. (2014). Potholes in the Road to Revolution. Middle East Research and Information Project. Retrieved from &lt;a href=&quot;http://www.merip.org.ezproxy1.lib.asu.edu/mer/mer272/potholes-road-revolution&quot;&gt;http://www.merip.org.ezproxy1.lib.asu.edu/mer/mer272/potholes-road-revolution&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-    
-
-<div class="page__footer-follow">
+    <div class="page__footer-follow">
   <ul class="social-icons">
     
       <li><strong>Follow:</strong></li>
@@ -1098,7 +1142,7 @@ System dynamics scientist Donella Meadows said that “self-organization is such
       <li><a href="http://github.com/elcgray"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
     
     
-    <li><a href="/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    <li><a href="http://elisabethgray.me/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
   </ul>
 </div>
 
@@ -1109,13 +1153,13 @@ System dynamics scientist Donella Meadows said that “self-organization is such
 
 <entry>
   <title type="html"><![CDATA[Social Media and the Arab Uprisings: Social Media in Libya Today]]></title>
-  <link rel="alternate" type="text/html" href="/smau-sm-today-libya/" />
-  <id>/smau-sm-today-libya</id>
+  <link rel="alternate" type="text/html" href="http://elisabethgray.me/smau-sm-today-libya/" />
+  <id>http://elisabethgray.me/smau-sm-today-libya</id>
   <published>2015-04-16T00:00:00-05:00</published>
   <updated>2015-04-16T00:00:00-05:00</updated>
   <author>
     <name></name>
-    <uri></uri>
+    <uri>http://elisabethgray.me</uri>
     
   </author>
   <content type="html">
@@ -1314,9 +1358,7 @@ System dynamics scientist Donella Meadows said that “self-organization is such
   &lt;li&gt;&lt;span id=&quot;langhi&quot;&gt;Langhi, Z. (2012, December). Why Libya’s revolution didn’t work — and what might. Retrieved from &lt;a href=&quot;https://www.ted.com/talks/zahra_langhi_why_libya_s_revolution_didn_t_work_and_what_might/transcript?language=en&quot;&gt;https://www.ted.com/talks/zahra_langhi_why_libya_s_revolution_didn_t_work_and_what_might/transcript?language=en&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-    
-
-<div class="page__footer-follow">
+    <div class="page__footer-follow">
   <ul class="social-icons">
     
       <li><strong>Follow:</strong></li>
@@ -1331,7 +1373,7 @@ System dynamics scientist Donella Meadows said that “self-organization is such
       <li><a href="http://github.com/elcgray"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
     
     
-    <li><a href="/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    <li><a href="http://elisabethgray.me/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
   </ul>
 </div>
 
@@ -1342,13 +1384,13 @@ System dynamics scientist Donella Meadows said that “self-organization is such
 
 <entry>
   <title type="html"><![CDATA[Social Media and the Arab Uprisings: Social Media in Egypt Today]]></title>
-  <link rel="alternate" type="text/html" href="/smau-sm-today-egypt/" />
-  <id>/smau-sm-today-egypt</id>
+  <link rel="alternate" type="text/html" href="http://elisabethgray.me/smau-sm-today-egypt/" />
+  <id>http://elisabethgray.me/smau-sm-today-egypt</id>
   <published>2015-04-14T00:00:00-05:00</published>
   <updated>2015-04-14T00:00:00-05:00</updated>
   <author>
     <name></name>
-    <uri></uri>
+    <uri>http://elisabethgray.me</uri>
     
   </author>
   <content type="html">
@@ -1552,9 +1594,7 @@ In contrast to Tunisia, obstacles to access and violations of user rights have i
   &lt;li&gt;&lt;span id=&quot;fitzpatrick&quot;&gt;Fitzpatrick, A. (2013). Morsi Ousted While Sparring With Egyptian Army on Social Media. &lt;i&gt;Mashable&lt;/i&gt;. arab-uprisings. Retrieved from &lt;a href=&quot;http://mashable.com/2013/07/03/egypt-social-media/&quot;&gt;http://mashable.com/2013/07/03/egypt-social-media/&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-    
-
-<div class="page__footer-follow">
+    <div class="page__footer-follow">
   <ul class="social-icons">
     
       <li><strong>Follow:</strong></li>
@@ -1569,7 +1609,7 @@ In contrast to Tunisia, obstacles to access and violations of user rights have i
       <li><a href="http://github.com/elcgray"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
     
     
-    <li><a href="/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    <li><a href="http://elisabethgray.me/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
   </ul>
 </div>
 
@@ -1580,13 +1620,13 @@ In contrast to Tunisia, obstacles to access and violations of user rights have i
 
 <entry>
   <title type="html"><![CDATA[Social Media and the Arab Uprisings: Social Media in Tunisia Today]]></title>
-  <link rel="alternate" type="text/html" href="/smau-sm-today-tunisia/" />
-  <id>/smau-sm-today-tunisia</id>
+  <link rel="alternate" type="text/html" href="http://elisabethgray.me/smau-sm-today-tunisia/" />
+  <id>http://elisabethgray.me/smau-sm-today-tunisia</id>
   <published>2015-04-12T00:00:00-05:00</published>
   <updated>2015-04-12T00:00:00-05:00</updated>
   <author>
     <name></name>
-    <uri></uri>
+    <uri>http://elisabethgray.me</uri>
     
   </author>
   <content type="html">
@@ -1784,9 +1824,7 @@ In contrast to Tunisia, obstacles to access and violations of user rights have i
   &lt;li&gt;&lt;span id=&quot;jking&quot;&gt;King, J. (2015). Tunisian tourism gets social media support. &lt;i&gt;CNN&lt;/i&gt;. arab-uprisings. Retrieved from &lt;a href=&quot;http://www.cnn.com/2015/03/20/world/i-will-come-to-tunisia-social-media/&quot;&gt;http://www.cnn.com/2015/03/20/world/i-will-come-to-tunisia-social-media/&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-    
-
-<div class="page__footer-follow">
+    <div class="page__footer-follow">
   <ul class="social-icons">
     
       <li><strong>Follow:</strong></li>
@@ -1801,7 +1839,7 @@ In contrast to Tunisia, obstacles to access and violations of user rights have i
       <li><a href="http://github.com/elcgray"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
     
     
-    <li><a href="/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    <li><a href="http://elisabethgray.me/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
   </ul>
 </div>
 
@@ -1812,13 +1850,13 @@ In contrast to Tunisia, obstacles to access and violations of user rights have i
 
 <entry>
   <title type="html"><![CDATA[Social Media and the Arab Uprisings: Social Media in Libya]]></title>
-  <link rel="alternate" type="text/html" href="/smau-analyses-libya/" />
-  <id>/smau-analyses-libya</id>
+  <link rel="alternate" type="text/html" href="http://elisabethgray.me/smau-analyses-libya/" />
+  <id>http://elisabethgray.me/smau-analyses-libya</id>
   <published>2015-04-10T00:00:00-05:00</published>
   <updated>2015-04-10T00:00:00-05:00</updated>
   <author>
     <name></name>
-    <uri></uri>
+    <uri>http://elisabethgray.me</uri>
     
   </author>
   <content type="html">
@@ -1866,7 +1904,7 @@ When Gaddafi blocked all outsiders from entering the country, citizen journalist
 
 &lt;figure&gt;
   &lt;iframe width=&quot;560&quot; height=&quot;340&quot; src=&quot;http://cdn.livestream.com/embed/libya17feb?layout=4&amp;amp;height=340&amp;amp;width=560&amp;amp;autoplay=false&quot; style=&quot;border:0;outline:0&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
-  &lt;figcaption&gt;Mohammed Nabbous, founder of Libya Alhurra, is one of the most well known citizen journalists in Libya&#39;s revolution. He was killed by snipers on March 19, 2011.&lt;/figcaption&gt;
+  &lt;figcaption&gt;Mohammed Nabbous, founder of Libya Alhurra, is one of the most well known citizen journalists in Libya's revolution. He was killed by snipers on March 19, 2011.&lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;p&gt;Morris spoke of the potential impact of such citizen-driven efforts:&lt;/p&gt;
@@ -1901,9 +1939,7 @@ the potentials and limitations of cyberactivism in triggering public mobilizatio
   &lt;li&gt;&lt;span id=&quot;stream&quot;&gt;Libya’s New Citizen Journalists. (2011, May). Retrieved from &lt;a href=&quot;http://stream.aljazeera.com/story/201105252311-004976&quot;&gt;http://stream.aljazeera.com/story/201105252311-004976&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-    
-
-<div class="page__footer-follow">
+    <div class="page__footer-follow">
   <ul class="social-icons">
     
       <li><strong>Follow:</strong></li>
@@ -1918,7 +1954,7 @@ the potentials and limitations of cyberactivism in triggering public mobilizatio
       <li><a href="http://github.com/elcgray"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
     
     
-    <li><a href="/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    <li><a href="http://elisabethgray.me/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
   </ul>
 </div>
 
@@ -1929,13 +1965,13 @@ the potentials and limitations of cyberactivism in triggering public mobilizatio
 
 <entry>
   <title type="html"><![CDATA[Social Media and the Arab Uprisings: Social Media in Egypt]]></title>
-  <link rel="alternate" type="text/html" href="/smau-analyses-egypt/" />
-  <id>/smau-analyses-egypt</id>
+  <link rel="alternate" type="text/html" href="http://elisabethgray.me/smau-analyses-egypt/" />
+  <id>http://elisabethgray.me/smau-analyses-egypt</id>
   <published>2015-04-07T00:00:00-05:00</published>
   <updated>2015-04-07T00:00:00-05:00</updated>
   <author>
     <name></name>
-    <uri></uri>
+    <uri>http://elisabethgray.me</uri>
     
   </author>
   <content type="html">
@@ -2013,7 +2049,7 @@ Social media has been presented as a potent weapon against authoritarian regimes
 
 &lt;p&gt;Echo chambers are a legitimate threat, perpetuated by the speed at which messages spread via social media. For example, regardless of your stance on Indiana and Arkansas’ recently passed Religious Freedom Restoration Acts, you’ll most likely concede that echo chambers exist and have distorted the reality of the situation on the ground. &lt;a href=&quot;http://www.indystar.com/story/news/politics/2015/04/01/rfra-boycotts-bans-growing-backlash/70810178/&quot;&gt;Withholding all business&lt;/a&gt; from a state hurts the state &lt;em&gt;and&lt;/em&gt; its inhabitants, including those within the LGBT community that live and work there. Lumping all of the LGBT community into one &lt;a href=&quot;https://twitter.com/bryanjfischer/status/582952288253247488&quot;&gt;indistinguishable mass&lt;/a&gt; strips individuals of their humanity, rationalizing and justifying unequal treatment. The end result is that subsets of the same species are driven further and further apart; interactions and communications become harder to maintain. I’ve written about how effective it was for dictators to maintain power by promoting &lt;a href=&quot;/smau-background-tunisia#divide-and-conquer&quot;&gt;divisions&lt;/a&gt; among their citizens. Why should we think that divisions don’t weaken us as a nation?&lt;/p&gt;
 
-&lt;div&gt;&lt;a href=&quot;/smau-analyses-libya&quot; class=&quot;btn&quot;&gt;Next Up: Analyses of Social Media&#39;s Role in Libya&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;a href=&quot;/smau-analyses-libya&quot; class=&quot;btn&quot;&gt;Next Up: Analyses of Social Media's Role in Libya&lt;/a&gt;&lt;/div&gt;
 
 &lt;h2 id=&quot;references&quot;&gt;References&lt;/h2&gt;
 
@@ -2034,9 +2070,7 @@ Social media has been presented as a potent weapon against authoritarian regimes
   &lt;li&gt;&lt;span id=&quot;hussain&quot;&gt;Hussain, M. (2014). Digital Infrastructure Politics and Internet Freedom Stakeholders After the Arab Spring. &lt;i&gt;Journal o FInternational Affairs&lt;/i&gt;, &lt;i&gt;68&lt;/i&gt;(1), 37–56.&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-    
-
-<div class="page__footer-follow">
+    <div class="page__footer-follow">
   <ul class="social-icons">
     
       <li><strong>Follow:</strong></li>
@@ -2051,7 +2085,7 @@ Social media has been presented as a potent weapon against authoritarian regimes
       <li><a href="http://github.com/elcgray"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
     
     
-    <li><a href="/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    <li><a href="http://elisabethgray.me/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
   </ul>
 </div>
 
@@ -2062,13 +2096,13 @@ Social media has been presented as a potent weapon against authoritarian regimes
 
 <entry>
   <title type="html"><![CDATA[Social Media and the Arab Uprisings: Social Media in Tunisia]]></title>
-  <link rel="alternate" type="text/html" href="/smau-analyses-tunisia/" />
-  <id>/smau-analyses-tunisia</id>
+  <link rel="alternate" type="text/html" href="http://elisabethgray.me/smau-analyses-tunisia/" />
+  <id>http://elisabethgray.me/smau-analyses-tunisia</id>
   <published>2015-04-05T00:00:00-05:00</published>
   <updated>2015-04-05T00:00:00-05:00</updated>
   <author>
     <name></name>
-    <uri></uri>
+    <uri>http://elisabethgray.me</uri>
     
   </author>
   <content type="html">
@@ -2109,7 +2143,7 @@ Social media has been presented as a potent weapon against authoritarian regimes
 &lt;p&gt;A common opinion is that social media changed the methods through which citizens could fight for democracy. In defense of this stance, Howard asserted that “the countries with the lowest levels of technology proliferation have also tended to have the weakest democratization movements” and went on to emphasize that “digital media has allowed people to unite around shared grievances and build local responses to them. They were not inspired by Facebook; they were inspired by the real tragedies &lt;em&gt;documented&lt;/em&gt; on Facebook” &lt;a href=&quot;#howard&quot;&gt;(Howard &amp;amp; Hussain, 2011, pp. 47-48)&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2 id=&quot;al-jazeera&quot;&gt;Al Jazeera&lt;/h2&gt;
-&lt;p&gt;Al Jazeera was the first major news organization on the scene, and their decision to air the Tunisian protests is believed to have played a critical role in the uprising’s success. Wadah Khanfar, head of Al Jazeera, spoke of the media company’s role in the movement just months after it occurred: “Al Jazeera took the voice from these people and we amplified [it]. We put it in every sitting room in the Arab world—and internationally, globally, through our English channel” &lt;a href=&quot;#khanfar&quot;&gt;(“A historic moment in the Arab world,” 2011)&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Al Jazeera was the first major news organization on the scene, and their decision to air the Tunisian protests is believed to have played a critical role in the uprising’s success. Wadah Khanfar, head of Al Jazeera, spoke of the media company’s role in the movement just months after it occurred: “Al Jazeera took the voice from these people and we amplified [it]. We put it in every sitting room in the Arab world—and internationally, globally, through our English channel” &lt;a href=&quot;#khanfar&quot;&gt;(2011)&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;The most significant of Al Jazeera English’s contributions was that it connected the English-speaking international community to Tunisian protestors, promoting interrelationships between established and new media channels. Additionally, the language used to describe events gave the movement validity as it shifted from a “protest” to “political unrest” or “uprising” and then to “revolution” on January 19th &lt;a href=&quot;#sarnelli&quot;&gt;(Sarnelli, 2013, pp. 164-172)&lt;/a&gt;.&lt;/p&gt;
 
@@ -2123,7 +2157,7 @@ Social media has been presented as a potent weapon against authoritarian regimes
 
 &lt;p&gt;The same can be said about the naiveté, the passion, and the power of our youth. They are versatile, they are bold, and they are more aware than we often give them credit for. This isn’t means for concern as long as we’re not &lt;a href=&quot;https://medium.com/message/ferguson-is-also-a-net-neutrality-issue-6d2f3db51eb0&quot;&gt;oppressing them&lt;/a&gt;.&lt;/p&gt;
 
-&lt;div&gt;&lt;a href=&quot;/smau-analyses-egypt&quot; class=&quot;btn&quot;&gt;Next Up: Analyses of Social Media&#39;s Role in Egypt&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;a href=&quot;/smau-analyses-egypt&quot; class=&quot;btn&quot;&gt;Next Up: Analyses of Social Media's Role in Egypt&lt;/a&gt;&lt;/div&gt;
 
 &lt;h2 id=&quot;references&quot;&gt;References&lt;/h2&gt;
 
@@ -2141,9 +2175,7 @@ Social media has been presented as a potent weapon against authoritarian regimes
   &lt;li&gt;&lt;span id=&quot;graziano&quot;&gt;Graziano, T. (2012). The Tunisian diaspora: Between ‘digital riots’ and Web activism. &lt;i&gt;Social Science Information&lt;/i&gt;, &lt;i&gt;51&lt;/i&gt;(4), 534–550. Retrieved from &amp;lt;10.1177/0539018412456773&amp;gt;&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-    
-
-<div class="page__footer-follow">
+    <div class="page__footer-follow">
   <ul class="social-icons">
     
       <li><strong>Follow:</strong></li>
@@ -2158,7 +2190,7 @@ Social media has been presented as a potent weapon against authoritarian regimes
       <li><a href="http://github.com/elcgray"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
     
     
-    <li><a href="/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    <li><a href="http://elisabethgray.me/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
   </ul>
 </div>
 
@@ -2169,13 +2201,13 @@ Social media has been presented as a potent weapon against authoritarian regimes
 
 <entry>
   <title type="html"><![CDATA[Social Media and the Arab Uprisings: Libya's Background]]></title>
-  <link rel="alternate" type="text/html" href="/smau-background-libya/" />
-  <id>/smau-background-libya</id>
+  <link rel="alternate" type="text/html" href="http://elisabethgray.me/smau-background-libya/" />
+  <id>http://elisabethgray.me/smau-background-libya</id>
   <published>2015-04-02T00:00:00-05:00</published>
   <updated>2015-04-02T00:00:00-05:00</updated>
   <author>
     <name></name>
-    <uri></uri>
+    <uri>http://elisabethgray.me</uri>
     
   </author>
   <content type="html">
@@ -2257,7 +2289,7 @@ Social media has been presented as a potent weapon against authoritarian regimes
 
 &lt;p&gt;It is also noteworthy that, of the three countries being reviewed for this project, Libya is the only one in which an outside entity intervened. What caused the international community to respond here and not in Egypt or Tunisia? It’s possible that Libya’s role as one of the world’s leading oil producers is a contributing factor. &lt;a href=&quot;http://www.eia.gov/countries/country-data.cfm?fips=LY&quot;&gt;70-80%&lt;/a&gt; is exported to European countries, and the United States also resumed imports of Libyan oil in 2004. European countries across the Mediterranean Sea also risked seeing increased volumes of refugees as a result of the conflict. What other factors do you think could have contributed to the UN and NATO’s decision? Leave your ideas in the comments.&lt;/p&gt;
 
-&lt;div&gt;&lt;a href=&quot;/smau-analyses-tunisia&quot; class=&quot;btn&quot;&gt;Next Up: Analyses of Social Media&#39;s Role in Tunisia&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;a href=&quot;/smau-analyses-tunisia&quot; class=&quot;btn&quot;&gt;Next Up: Analyses of Social Media's Role in Tunisia&lt;/a&gt;&lt;/div&gt;
 
 &lt;h2 id=&quot;references&quot;&gt;References&lt;/h2&gt;
 
@@ -2275,9 +2307,7 @@ Social media has been presented as a potent weapon against authoritarian regimes
   &lt;li&gt;&lt;span id=&quot;mcmurray&quot;&gt;McMurray, D., &amp;amp; Ufheil-Somers, A. (2013). &lt;i&gt;The Arab Revolts: Dispatches on Militant Democracy in the Middle East (Public Cultures of the Middle East and North Africa)&lt;/i&gt; (Kindle). Indiana University Press.&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-    
-
-<div class="page__footer-follow">
+    <div class="page__footer-follow">
   <ul class="social-icons">
     
       <li><strong>Follow:</strong></li>
@@ -2292,7 +2322,7 @@ Social media has been presented as a potent weapon against authoritarian regimes
       <li><a href="http://github.com/elcgray"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
     
     
-    <li><a href="/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    <li><a href="http://elisabethgray.me/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
   </ul>
 </div>
 
@@ -2303,13 +2333,13 @@ Social media has been presented as a potent weapon against authoritarian regimes
 
 <entry>
   <title type="html"><![CDATA[Social Media and the Arab Uprisings: Egypt's Background]]></title>
-  <link rel="alternate" type="text/html" href="/smau-background-egypt/" />
-  <id>/smau-background-egypt</id>
+  <link rel="alternate" type="text/html" href="http://elisabethgray.me/smau-background-egypt/" />
+  <id>http://elisabethgray.me/smau-background-egypt</id>
   <published>2015-03-29T00:00:00-05:00</published>
   <updated>2015-03-29T00:00:00-05:00</updated>
   <author>
     <name></name>
-    <uri></uri>
+    <uri>http://elisabethgray.me</uri>
     
   </author>
   <content type="html">
@@ -2359,7 +2389,7 @@ Social media has been presented as a potent weapon against authoritarian regimes
 &lt;p&gt;The impunity of Mubarak’s police force became well known over the course of his three decades in power. El Ghobashyi noted:&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;The coercive apparatus had become the chief administrative arm of the state, aggregating the functions of several agencies. Police not only dealt with crime and issued passports, drivers’ licenses, and birth and death certificates. They also resolved local conflicts over land and sectarian relations; fixed all national and sub-national elections; vetted graduate school candidates and academic appointments at every level; monitored shop floors and mediated worker-management conflicts; observed soccer games and Friday prayers; and maintained a network of local informants in poor neighborhoods, to ensure that dispossession was not converted into political organization &lt;a href=&quot;#elghobashyi&quot;&gt;(McMurray &amp;amp; Ufheil-Somers, 2013, p. 1676)&lt;/a&gt;.&lt;/p&gt;
+  &lt;p&gt;The coercive apparatus had become the chief administrative arm of the state, aggregating the functions of several agencies. Police not only dealt with crime and issued passports, drivers’ licenses, and birth and death certificates. They also resolved local conflicts over land and sectarian relations; fixed all national and sub-national elections; vetted graduate school candidates and academic appointments at every level; monitored shop floors and mediated worker-management conflicts; observed soccer games and Friday prayers; and maintained a network of local informants in poor neighborhoods, to ensure that dispossession was not converted into political organization &lt;a href=&quot;#elghobashyi&quot;&gt;(2013, p. 1676)&lt;/a&gt;.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;Anti-terrorism laws were used to justify attacks on Islamist groups like the Muslim Brotherhood. Reports of torture became so commonplace that the regime didn’t bother denying them. Egyptians were pushed to the brink in 2010 when word spread that police had dragged a young man, Khalid Sa’id, out of an Internet cafe and then beaten him to death. It was alleged to be petty drug arrest, but Sa’id had recently shared a video exposing police corruption.&lt;/p&gt;
@@ -2414,7 +2444,7 @@ By January 2011, organizers had seasoned tactics for combatting Mubarak’s secu
 
 &lt;p&gt;With each technological advancement, we become more interconnected. This makes it easier to witness and react to crimes against humanity throughout the world. It also means that it’s easier to become overwhelmed and desensitized, but if we aren’t brave enough to stand up to those who violate our rights as humans now, we’re setting future generations up for an even greater struggle. Dr. Martin Luther King Jr. said it best in his &lt;a href=&quot;http://www.africa.upenn.edu/Articles_Gen/Letter_Birmingham.html&quot;&gt;letter from Birmingham jail&lt;/a&gt;: “Injustice anywhere is a threat to justice everywhere. We are caught in an inescapable network of mutuality, tied in a single garment of destiny. Whatever affects one directly, affects all indirectly.”&lt;/p&gt;
 
-&lt;div&gt;&lt;a href=&quot;/smau-background-libya&quot; class=&quot;btn&quot;&gt;Next Up: Libya&#39;s Background&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;a href=&quot;/smau-background-libya&quot; class=&quot;btn&quot;&gt;Next Up: Libya's Background&lt;/a&gt;&lt;/div&gt;
 
 &lt;h2 id=&quot;references&quot;&gt;References&lt;/h2&gt;
 
@@ -2428,9 +2458,7 @@ By January 2011, organizers had seasoned tactics for combatting Mubarak’s secu
   &lt;li&gt;&lt;span id=&quot;dignity&quot;&gt;Alhassen, M., &amp;amp; Shihab-Eldin, A. (2012). &lt;i&gt;Demanding Dignity: Young Voices from the Front Lines of the Arab Revolutions (I SPEAK FOR MYSELF)&lt;/i&gt; (Kindle). White Cloud Press.&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-    
-
-<div class="page__footer-follow">
+    <div class="page__footer-follow">
   <ul class="social-icons">
     
       <li><strong>Follow:</strong></li>
@@ -2445,7 +2473,7 @@ By January 2011, organizers had seasoned tactics for combatting Mubarak’s secu
       <li><a href="http://github.com/elcgray"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
     
     
-    <li><a href="/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    <li><a href="http://elisabethgray.me/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
   </ul>
 </div>
 
@@ -2456,13 +2484,13 @@ By January 2011, organizers had seasoned tactics for combatting Mubarak’s secu
 
 <entry>
   <title type="html"><![CDATA[Social Media and the Arab Uprisings: Tunisia's Background]]></title>
-  <link rel="alternate" type="text/html" href="/smau-background-tunisia/" />
-  <id>/smau-background-tunisia</id>
+  <link rel="alternate" type="text/html" href="http://elisabethgray.me/smau-background-tunisia/" />
+  <id>http://elisabethgray.me/smau-background-tunisia</id>
   <published>2015-03-26T00:00:00-05:00</published>
   <updated>2015-03-26T00:00:00-05:00</updated>
   <author>
     <name></name>
-    <uri></uri>
+    <uri>http://elisabethgray.me</uri>
     
   </author>
   <content type="html">
@@ -2550,7 +2578,7 @@ By January 2011, organizers had seasoned tactics for combatting Mubarak’s secu
 &lt;h2 id=&quot;why-this-matters&quot;&gt;Why this matters&lt;/h2&gt;
 &lt;p&gt;Those who wish to oppress others do so by instilling fear—of terrorism, the “other”, or the regime itself—and by promoting division among the “rank and file.” Tunisia’s history provides us with a rich example of the power that finding common ground or a cause to unite behind can wield. We are increasingly interconnected through the use of technology (like social media) and should use it to learn from and support each other. Finally, “one-size-fits-all” development tactics are unlikely to succeed. Privatization and globalization of markets may help an economy legitimately thrive where inclusive institutions exist, but they’re likely to promote corruption and increase the gap between the rich and the poor if extractive institutions exist. Take a look at &lt;a href=&quot;http://whynationsfail.com/blog/2012/5/1/who-are-the-extractive-elites.html&quot;&gt;this blog post&lt;/a&gt; for more on that subject.&lt;/p&gt;
 
-&lt;div&gt;&lt;a href=&quot;/smau-background-egypt&quot; class=&quot;btn&quot;&gt;Next Up: Egypt&#39;s Background&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;a href=&quot;/smau-background-egypt&quot; class=&quot;btn&quot;&gt;Next Up: Egypt's Background&lt;/a&gt;&lt;/div&gt;
 
 &lt;h2 id=&quot;references&quot;&gt;References&lt;/h2&gt;
 
@@ -2567,9 +2595,7 @@ By January 2011, organizers had seasoned tactics for combatting Mubarak’s secu
   &lt;li&gt;&lt;span id=&quot;acemoglu&quot;&gt;Acemoglu, D., &amp;amp; Robinson, J. (2013). &lt;i&gt;Why Nations Fail: The Origins of Power, Prosperity, and Poverty&lt;/i&gt;. Crown Business.&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-    
-
-<div class="page__footer-follow">
+    <div class="page__footer-follow">
   <ul class="social-icons">
     
       <li><strong>Follow:</strong></li>
@@ -2584,7 +2610,7 @@ By January 2011, organizers had seasoned tactics for combatting Mubarak’s secu
       <li><a href="http://github.com/elcgray"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
     
     
-    <li><a href="/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    <li><a href="http://elisabethgray.me/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
   </ul>
 </div>
 
@@ -2595,13 +2621,13 @@ By January 2011, organizers had seasoned tactics for combatting Mubarak’s secu
 
 <entry>
   <title type="html"><![CDATA[Social Media and the Arab Uprisings: Introduction]]></title>
-  <link rel="alternate" type="text/html" href="/smau-introduction/" />
-  <id>/smau-introduction</id>
+  <link rel="alternate" type="text/html" href="http://elisabethgray.me/smau-introduction/" />
+  <id>http://elisabethgray.me/smau-introduction</id>
   <published>2015-03-22T00:00:00-05:00</published>
   <updated>2015-03-22T00:00:00-05:00</updated>
   <author>
     <name></name>
-    <uri></uri>
+    <uri>http://elisabethgray.me</uri>
     
   </author>
   <content type="html">
@@ -2647,7 +2673,7 @@ Ash-shab yurid isqat an-nizam&lt;br /&gt;
 
 &lt;p&gt;In an attempt to better align with the focus and intent of those participating in the movements in the Middle East and North Africa, future posts will primarily refer to the regional events of this project as the Arab uprisings.&lt;/p&gt;
 
-&lt;div&gt;&lt;a href=&quot;/smau-background-tunisia&quot; class=&quot;btn&quot;&gt;Next Up: Tunisia&#39;s Background&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;a href=&quot;/smau-background-tunisia&quot; class=&quot;btn&quot;&gt;Next Up: Tunisia's Background&lt;/a&gt;&lt;/div&gt;
 
 &lt;h2 id=&quot;references&quot;&gt;References&lt;/h2&gt;
 
@@ -2666,9 +2692,7 @@ Ash-shab yurid isqat an-nizam&lt;br /&gt;
   &lt;li&gt;&lt;span id=&quot;kirchner&quot;&gt;Kirchner, L. (2014). Media as Both Weapon and Defense in the Mexican Drug War. &lt;i&gt;Pacific Standard: The Science of Society&lt;/i&gt;. arab-uprisings. Retrieved from &lt;a href=&quot;http://www.psmag.com/navigation/health-and-behavior/media-weapon-defense-mexican-drug-war-76243/&quot;&gt;http://www.psmag.com/navigation/health-and-behavior/media-weapon-defense-mexican-drug-war-76243/&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-    
-
-<div class="page__footer-follow">
+    <div class="page__footer-follow">
   <ul class="social-icons">
     
       <li><strong>Follow:</strong></li>
@@ -2683,7 +2707,7 @@ Ash-shab yurid isqat an-nizam&lt;br /&gt;
       <li><a href="http://github.com/elcgray"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
     
     
-    <li><a href="/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    <li><a href="http://elisabethgray.me/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
   </ul>
 </div>
 
@@ -2702,9 +2726,7 @@ Ash-shab yurid isqat an-nizam&lt;br /&gt;
         <!-- start custom footer snippets -->
 
 <!-- end custom footer snippets -->
-        
-
-<div class="page__footer-follow">
+        <div class="page__footer-follow">
   <ul class="social-icons">
     
       <li><strong>Follow:</strong></li>
@@ -2719,7 +2741,7 @@ Ash-shab yurid isqat an-nizam&lt;br /&gt;
       <li><a href="http://github.com/elcgray"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
     
     
-    <li><a href="/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    <li><a href="http://elisabethgray.me/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
   </ul>
 </div>
 
@@ -2727,7 +2749,7 @@ Ash-shab yurid isqat an-nizam&lt;br /&gt;
       </footer>
     </div>
 
-    <script src="/assets/js/main.min.js"></script>
+    <script src="http://elisabethgray.me/assets/js/main.min.js"></script>
 
 
 
@@ -2751,4 +2773,3 @@ Ash-shab yurid isqat an-nizam&lt;br /&gt;
 
   </body>
 </html>
-
