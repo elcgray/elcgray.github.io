@@ -153,7 +153,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="" />
-<updated>2016-10-16T15:38:12-05:00</updated>
+<updated>2016-10-22T21:04:54-05:00</updated>
 <id>/</id>
 <author>
   <name></name>
@@ -166,27 +166,113 @@
   <title type="html"><![CDATA[The Balkans: Introduction]]></title>
   <link rel="alternate" type="text/html" href="/balkans/" />
   <id>/balkans</id>
-  <published>2016-10-15T00:00:00-05:00</published>
-  <updated>2016-10-15T00:00:00-05:00</updated>
+  <published>2016-10-22T00:00:00-05:00</published>
+  <updated>2016-10-22T00:00:00-05:00</updated>
   <author>
     <name></name>
     <uri></uri>
     
   </author>
   <content type="html">
-    &lt;p&gt;My wife, Rachel, and I traveled to the Balkans a few weeks ago. We intentionally chose Sarajevo as the starting point for our visit, which &lt;em&gt;may&lt;/em&gt; have had something to do with my obsession with the history of the city and surrounding region.&lt;/p&gt;
+    &lt;aside class=&quot;sidebar__right&quot;&gt;
+&lt;nav class=&quot;toc&quot;&gt;
+    &lt;header&gt;&lt;h4 class=&quot;nav__title&quot;&gt;&lt;i class=&quot;fa fa-file-text&quot;&gt;&lt;/i&gt; Table of Contents&lt;/h4&gt;&lt;/header&gt;
+&lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#introduction&quot; id=&quot;markdown-toc-introduction&quot;&gt;Introduction&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#crash-course-in-modern-south-balkan-history&quot; id=&quot;markdown-toc-crash-course-in-modern-south-balkan-history&quot;&gt;Crash Course in Modern South Balkan History&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#yugoslavia&quot; id=&quot;markdown-toc-yugoslavia&quot;&gt;Yugoslavia&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#world-war-ii&quot; id=&quot;markdown-toc-world-war-ii&quot;&gt;World War II&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#josip-broz-tito&quot; id=&quot;markdown-toc-josip-broz-tito&quot;&gt;Josip Broz Tito&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#ethnic-tension&quot; id=&quot;markdown-toc-ethnic-tension&quot;&gt;Ethnic tension&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#economic-downturn&quot; id=&quot;markdown-toc-economic-downturn&quot;&gt;Economic downturn&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#death-of-tito&quot; id=&quot;markdown-toc-death-of-tito&quot;&gt;Death of Tito&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#slobodan-miloevi&quot; id=&quot;markdown-toc-slobodan-miloevi&quot;&gt;Slobodan Milošević&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#the-breakup-of-yugoslavia&quot; id=&quot;markdown-toc-the-breakup-of-yugoslavia&quot;&gt;The breakup of Yugoslavia&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#yugoslav-wars&quot; id=&quot;markdown-toc-yugoslav-wars&quot;&gt;Yugoslav Wars&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#further-reading&quot; id=&quot;markdown-toc-further-reading&quot;&gt;Further Reading&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#coming-soon&quot; id=&quot;markdown-toc-coming-soon&quot;&gt;Coming Soon&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;The Bosnian war was happening when I was in middle-high school. It’s where and when my interest in media technology’s role in conflict—particularly in the definition of cultural/nationalist identities—began. In high school I wrote a paper expressing my naive distress about a world which had allowed genocide to occur yet again. Over the past 20 years I’ve continued to watch, read, and &lt;a href=&quot;/academics/never-again&quot;&gt;write&lt;/a&gt; about the Western Balkans.&lt;/p&gt;
+  &lt;/nav&gt;
+&lt;/aside&gt;
 
-&lt;p&gt;The breakup of Yugoslavia affords us an opportunity to look at our own cultural and nationalistic identities and imagine potential outcomes. Sarajevo is a beautiful and solemn monument to the volatility of peace. I see parallels between Bosnia-Herzegovina’s identity struggle and those within the US and UK today. In future posts I’ll provide background and examples to illustrate this position, but I’ll also share entertaining things about our trip.&lt;/p&gt;
+&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;My wife, Rachel, and I recently traveled to the Balkans. We intentionally chose Sarajevo as the starting point for our visit, which &lt;em&gt;may&lt;/em&gt; have had something to do with my obsession with the history of the city and surrounding region.&lt;/p&gt;
 
-&lt;h2 id=&quot;coming-soon&quot;&gt;Coming soon&lt;/h2&gt;
+&lt;p&gt;The Bosnian war was happening when I was in middle-high school. It’s where and when my interest in media technology’s role in conflict and the definition of cultural/nationalist identities began. In high school, I wrote a paper expressing my naive distress about a world which had allowed genocide to occur yet again. Over the past 20 years I’ve continued to watch, read, and &lt;a href=&quot;/academics/never-again&quot;&gt;write&lt;/a&gt; about the Balkans, Bosnia-Herzegovina in particular.&lt;/p&gt;
+
+&lt;p&gt;The breakup of Yugoslavia affords us an opportunity to look at our own cultural and nationalistic identities and imagine potential outcomes. Sarajevo is a beautiful and solemn monument to the volatility of peace and the complexity of identity. I’ll talk about this more in upcoming posts, but if that isn’t your particular cup of tea, stick around! I’ll also share entertaining things about our trip. But first, a brief foray into the history of the former Yugoslavia, which should help future references make a bit more sense.&lt;/p&gt;
+
+&lt;h1 id=&quot;crash-course-in-modern-south-balkan-history&quot;&gt;Crash Course in Modern South Balkan History&lt;/h1&gt;
+
+&lt;h2 id=&quot;yugoslavia&quot;&gt;Yugoslavia&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Yugoslavia&quot;&gt;Yugoslavia&lt;/a&gt;, or Jugoslavija, comes from the combination of the Croatian word ‘jug’ for ‘south’ and ‘slaveni’ to indicate a people of Slavic descent. It started out as a kingdom of former territories of Austria-Hungary and the Ottoman Empire, post-World War I. The Serbian royal family was the Yugoslav royal dynasty.&lt;/p&gt;
+
+&lt;h2 id=&quot;world-war-ii&quot;&gt;World War II&lt;/h2&gt;
+&lt;p&gt;During World War II, the country was occupied by Axis forces and divided up into parts: Croatia, Bosnia, Herzegovina, Serbia, and Slovenia. Nationalist factions developed within these subdivisions of the country, and two resistance forces arose in opposition to Axis occupation: the &lt;a href=&quot;https://en.wikipedia.org/wiki/Yugoslav_Partisans&quot;&gt;Yugoslav Partisans&lt;/a&gt;, led by &lt;a href=&quot;https://en.wikipedia.org/wiki/Josip_Broz_Tito&quot;&gt;Josip Broz Tito&lt;/a&gt;, and the &lt;a href=&quot;https://en.wikipedia.org/wiki/Chetniks&quot;&gt;Chetniks&lt;/a&gt; who were decidedly pro-Serbian and eventually turned against the Partisans. The Partisans succeeded in freeing Yugoslavia from Axis powers in 1945, abolished the Serbian royal family and government, and made Yugoslavia a communist state.&lt;/p&gt;
+
+&lt;h2 id=&quot;josip-broz-tito&quot;&gt;Josip Broz Tito&lt;/h2&gt;
+&lt;p&gt;Josip Broz Tito was the leader of the Partisans. His Socialist Federal Republic of Yugoslavia existed until 1990 and was comprised of six republics known today as Bosnia-Herzegovina, Croatia, Macedonia, Montenegro, Slovenia, and Serbia, plus the autonomous provinces of Vojvodina and Kosovo.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/a/a9/Former_Yugoslavia_Map.png&quot; alt=&quot;former-yugoslavia&quot; /&gt;&lt;/p&gt;
+&lt;figcaption align=&quot;right&quot;&gt;&lt;a href=&quot;https://upload.wikimedia.org/wikipedia/commons/a/a9/Former_Yugoslavia_Map.png&quot;&gt;sourced from Wikipedia&lt;/a&gt;&lt;/figcaption&gt;
+
+&lt;p&gt;&lt;br /&gt;
+The people we met on our trip spoke with varying degrees of enthusiasm about Tito’s leadership. Most admitted that they had never directly experienced Tito’s Yugoslavia because they were too young, but general sentiment toward him skewed positive. He was an authoritarian ruler, yes, but one that maintained peace and provided stability. Those who &lt;a href=&quot;https://en.wikipedia.org/wiki/Yugoslavia#Government&quot;&gt;criticized him&lt;/a&gt; weren’t guaranteed the same protections.&lt;/p&gt;
+
+&lt;p&gt;Locals put a lot of emphasis on the fact that Tito’s version of communism was different than that of Stalinist Russia. Tito did, in fact, break with Stalin in 1948, and Yugoslavia became an independent communist state. He aligned with &lt;a href=&quot;https://en.wikipedia.org/wiki/Non-Aligned_Movement&quot;&gt;other countries&lt;/a&gt; that wanted a system somewhere in between the capitalism of the West and communism of the East.&lt;/p&gt;
+
+&lt;h2 id=&quot;ethnic-tension&quot;&gt;Ethnic tension&lt;/h2&gt;
+&lt;p&gt;When Tito’s party took over leadership of Yugoslavia, nationalism was banned from being publicly promoted, but protestors voiced concerns that Yugoslavia was still a Serb hegemony. In 1974, Tito responded in part by reducing Serbian influence through the creation of autonomous regions: Kosovo and Vojvodina. The new regions appeased groups concerned with Serbs’ influence and consequently upset Serbs, whose political position was diminished. Autonomous regions were given the same voting capability as republics but differed from them in one major way: they could not separate from Yugoslavia, whereas republics technically had the right to secede (this detail is important later).&lt;/p&gt;
+
+&lt;h2 id=&quot;economic-downturn&quot;&gt;Economic downturn&lt;/h2&gt;
+&lt;p&gt;The price of oil dropped in the 1970s and triggered an economic crisis in Yugoslavia. Debt increased and demand for Yugoslavian products decreased. Unemployment rose. I suspect we’re all familiar with the kind of discomfort these economic changes can cause in a society.&lt;/p&gt;
+
+&lt;h2 id=&quot;death-of-tito&quot;&gt;Death of Tito&lt;/h2&gt;
+&lt;p&gt;Tito died in 1980, and an eight-member council of representatives—one for each republic and autonomous region—replaced him. Ethnic tensions rose again. Kosovo wanted to be recognized as a republic rather than an autonomous entity, and Serbs were becoming increasingly frustrated with their inability to pass legislation, despite being the largest ethnic group in Yugoslavia.&lt;/p&gt;
+
+&lt;h2 id=&quot;slobodan-miloevi&quot;&gt;Slobodan Milošević&lt;/h2&gt;
+&lt;p&gt;Milošević was the council member representing Serbia. He wanted to make Serbia great again by restoring its sovereignty. From 1986 to 1989, he successfully destabilized the governments of Montenegro, Vojvodina, and Kosovo and replaced existing leaders with his allies. This significantly reduced Vojvodina and Kosovo’s autonomy and secured four guaranteed votes in the council, including one for Serbia.&lt;/p&gt;
+
+&lt;p class=&quot;notice&quot;&gt;In 1987, an ambitious Serbian Communist party leader, Slobodan Milosevic…pointed his finger in the distance— at what Mother Tatiana had labeled out there— and, as legend now has it, pledged: “They’ll never do this to you again. Never again will anyone defeat you.”
+&lt;br /&gt;&lt;br /&gt;
+At that moment, as the crowd roared, the Serbian revolt against the Yugoslav federation began; it soon spread laterally to the other republics. One by one, Serbs gathered the courage to remove the fearful icon of Tito from their homes and shops, replacing it with a photo of the plump, baby-faced Milosevic. The only Eastern European Communist leader in the late 1980s who managed to save himself and his party from collapse did so by making a direct appeal to racial hatred.
+&lt;br /&gt;&lt;br /&gt;
+&lt;em&gt;Kaplan, Robert D. (2014-04-01). Balkan Ghosts: A Journey Through History (Kindle Locations 1281-1287). Picador. Kindle Edition.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;the-breakup-of-yugoslavia&quot;&gt;The breakup of Yugoslavia&lt;/h2&gt;
+&lt;p&gt;Ethnic Albanians in Kosovo organized strikes in 1989, and those turned into broader demonstrations demanding Kosovo be recognized as a republic. In early 1990, the &lt;a href=&quot;https://en.wikipedia.org/wiki/League_of_Communists_of_Yugoslavia&quot;&gt;League of Communists of Yugoslavia&lt;/a&gt; convened. Milošević and the Serbian delegates argued in favor of a “one person, one vote” policy which would benefit the Serb-majority within Yugoslavia. Slovenian and Croatian delegates pushed for greater power within the republics and were voted down. They then left the Congress; the Communist party of Yugoslavia was dissolved.&lt;/p&gt;
+
+&lt;h2 id=&quot;yugoslav-wars&quot;&gt;Yugoslav Wars&lt;/h2&gt;
+&lt;p class=&quot;notice&quot;&gt;Yugoslavia did not deteriorate suddenly, but gradually and methodically, step by step, through the 1980s, becoming poorer and meaner and more hate-filled by the year. That’s why every conversation I had was so sad. We were all shouting to the outside world about a coming catastrophe, but no one wanted to hear our awful secret. No one was interested.
+&lt;br /&gt;&lt;br /&gt;
+&lt;em&gt;Kaplan, Robert D. (2014-04-01). Balkan Ghosts: A Journey Through History (Kindle Locations 716-718). Picador. Kindle Edition.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Nationalistic stances took rise as Slovenia and Croatia continued to loosen their ties to the Federation. War broke out when the republics tried to replace Yugoslav civilian and military forces with secessionist ones.&lt;/p&gt;
+
+&lt;p&gt;In mid-1991, Slovenia and Croatia both declared independence from Yugoslavia. Slovenia’s war for independence lasted &lt;a href=&quot;https://en.wikipedia.org/wiki/Ten-Day_War&quot;&gt;ten days&lt;/a&gt;, whereas the &lt;a href=&quot;https://en.wikipedia.org/wiki/Croatian_War_of_Independence&quot;&gt;Croatian&lt;/a&gt; and &lt;a href=&quot;https://en.wikipedia.org/wiki/Bosnian_War&quot;&gt;Bosnian&lt;/a&gt; wars for independence took over four years. The differences in war durations are related (in part) to a higher number of ethnic Serbs living in Croatia and Bosnia-Herzegovina than in Slovenia. Serbs opposed the countries’ secessions from Yugoslavia and wanted Serb-majority areas of the countries to remain in a common state with Serbia. Serbs voted in November 1991 to form a Serbian republic within the borders of Bosnia-Herzegovina in order to do just that, and in January 1992 they announced a separate Republika Srpska. Just over a month later, Bosnia-Herzegovina declared its independence from Yugoslavia. Bosnian Serbs rejected the referendum and declared Republika Srpska’s independence from Bosnia-Herzegovina on April 5th; the Bosnian war officially started the following day.&lt;/p&gt;
+
+&lt;h1 id=&quot;further-reading&quot;&gt;Further Reading&lt;/h1&gt;
+&lt;p&gt;There’s a whole lot more to the story! A lot of specifics were skipped if they weren’t directly relevant to the account of our trip. If you want to learn more about the region, actors, or wars, I recommend taking a look at what Wikipedia has to offer. It’s relatively clear and concise and can send you spiraling blissfully down a rabbit hole of information if you dig into the citations. I’ve included links to some such pages in the text above.&lt;/p&gt;
+
+&lt;p&gt;I’m currently reading &lt;a href=&quot;http://amzn.to/2dyABZ5&quot;&gt;Black Lamb and Grey Falcon&lt;/a&gt;, and &lt;a href=&quot;http://amzn.to/2ehS4ci&quot;&gt;Imagined Communities: Reflections on the Origin and Spread of Nationalism&lt;/a&gt;. I’ve enjoyed what I’ve read thus far. I’ve also read and recommend checking out these books if you’re interested in going deeper into this subject:&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Bosnia: Sarajevo, Srebrenica, and the trip through Mostar on the way to Dubrovnik&lt;/li&gt;
-  &lt;li&gt;Croatia: Dubrovnik, Korčula, Split, Plitviče lakes, and Zagreb&lt;/li&gt;
-  &lt;li&gt;Slovenia: Ljubljana, Vintgar gorge, Lake Bled, and Hiša Franko&lt;/li&gt;
-  &lt;li&gt;Italy: Venice&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://amzn.to/2di1nWy&quot;&gt;The Sleepwalkers: How Europe Went to War in 1914&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://amzn.to/2dpzyMy&quot;&gt;Balkan Ghosts: A Journey Through History&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://amzn.to/2cBhfoK&quot;&gt;War Is a Force That Gives Us Meaning&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;coming-soon&quot;&gt;Coming Soon&lt;/h1&gt;
+&lt;p&gt;I’ll share photos and stories from:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Bosnia&lt;/strong&gt;: Sarajevo, Srebrenica, and the trip south through Mostar&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Croatia&lt;/strong&gt;: Dubrovnik, Korčula, Split, Plitviče lakes, and Zagreb&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Slovenia&lt;/strong&gt;: Ljubljana, Vintgar gorge, Lake Bled, and Hiša Franko&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Italy&lt;/strong&gt;: Venice&lt;/li&gt;
 &lt;/ul&gt;
 
     
