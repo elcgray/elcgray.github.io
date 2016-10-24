@@ -149,13 +149,286 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://elisabethgray.me/feed.xml" />
 <link rel="alternate" type="text/html" href="http://elisabethgray.me" />
-<updated>2016-10-23T15:01:24-05:00</updated>
+<updated>2016-10-24T13:56:02-05:00</updated>
 <id>http://elisabethgray.me/</id>
 <author>
   <name></name>
   <uri>http://elisabethgray.me/</uri>
   
 </author>
+
+
+<entry>
+  <title type="html"><![CDATA[The Balkans: Sarajevo]]></title>
+  <link rel="alternate" type="text/html" href="http://elisabethgray.me/bosnia-sarajevo/" />
+  <id>http://elisabethgray.me/bosnia-sarajevo</id>
+  <published>2016-10-24T00:00:00-05:00</published>
+  <updated>2016-10-24T00:00:00-05:00</updated>
+  <author>
+    <name></name>
+    <uri>http://elisabethgray.me</uri>
+    
+  </author>
+  <content type="html">
+    &lt;aside class=&quot;sidebar__right&quot;&gt;
+&lt;nav class=&quot;toc&quot;&gt;
+    &lt;header&gt;&lt;h4 class=&quot;nav__title&quot;&gt;&lt;i class=&quot;fa fa-file-text&quot;&gt;&lt;/i&gt; Table of Contents&lt;/h4&gt;&lt;/header&gt;
+&lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#welcome-to-sarajevo&quot; id=&quot;markdown-toc-welcome-to-sarajevo&quot;&gt;Welcome to Sarajevo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#siege&quot; id=&quot;markdown-toc-siege&quot;&gt;Siege&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#a-little-background&quot; id=&quot;markdown-toc-a-little-background&quot;&gt;A little background&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#old-city&quot; id=&quot;markdown-toc-old-city&quot;&gt;Old City&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#walking-tour&quot; id=&quot;markdown-toc-walking-tour&quot;&gt;Walking tour&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#coming-soon&quot; id=&quot;markdown-toc-coming-soon&quot;&gt;Coming Soon&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#further-reading&quot; id=&quot;markdown-toc-further-reading&quot;&gt;Further Reading&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+  &lt;/nav&gt;
+&lt;/aside&gt;
+
+&lt;h1 id=&quot;welcome-to-sarajevo&quot;&gt;Welcome to Sarajevo&lt;/h1&gt;
+&lt;p&gt;We landed in Sarajevo in the evening and took in a view of the surrounding mountains at dusk while waiting to go through customs. Cigarette smoke wafted in the air. Though travel forums suggested we could, neither of us were able to find a place in the airport to buy a local SIM card, so we went to the taxi stand, I gave the driver the address of our apartment, and we were off.&lt;/p&gt;
+
+&lt;p&gt;The drive from the airport to the old city where we were staying was about twenty minutes. Cars are restricted within the main portion of the old city, so the driver dropped us off as close to the heart of it as he could. He then admitted he didn’t know where the actual address of our apartment was, so we found a police officer, and he recruited the help of another person. They told us it was walkable but uphill and suggested we take another cab there, so we did. That was the right decision.&lt;/p&gt;
+
+&lt;p class=&quot;notice&quot;&gt;&lt;strong&gt;Pro Tip&lt;/strong&gt;: &lt;br /&gt;Print a map of directions to your apartment prior to traveling to a place you know you’ll be without phone/data service. Flat-landers, check the topographic view of the area to better understand what you’re getting into.&lt;/p&gt;
+
+&lt;p&gt;I rang the bell for the wrong apartment, woke a friendly-sounding British person, and then shone my light on the panel only to discover a faint “Airbnb” written beside the buzzer right below the one I rang. Once settled, we rejoiced at Rachel’s brilliant plan to save the mini-bottles of wine handed out on our flight for this very moment: our adventure in the Balkans had begun.&lt;/p&gt;
+
+&lt;figure class=&quot;third &quot;&gt;
+  
+    
+      &lt;a href=&quot;http://elisabethgray.me//images/sarajevo/sarajevo-apt.jpg&quot; title=&quot;Living room in our Airbnb&quot;&gt;
+        &lt;img src=&quot;http://elisabethgray.me//images/sarajevo/sarajevo-apt.jpg&quot; alt=&quot;sarajevo-apt&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://elisabethgray.me//images/sarajevo/sarajevo-apt-2.jpg&quot; title=&quot;Hallway window&quot;&gt;
+        &lt;img src=&quot;http://elisabethgray.me//images/sarajevo/sarajevo-apt-2.jpg&quot; alt=&quot;sarajevo-apt-2&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://elisabethgray.me//images/sarajevo/ulica-dzinina.jpg&quot; title=&quot;Ulica Džinina, our home street in Sarajevo&quot;&gt;
+        &lt;img src=&quot;http://elisabethgray.me//images/sarajevo/ulica-dzinina.jpg&quot; alt=&quot;ulica-dzinina&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+  
+&lt;/figure&gt;
+
+&lt;p&gt;We sat on our porch every morning and evening to listen to sounds of the city like this:&lt;/p&gt;
+
+&lt;div class=&quot;audio&quot;&gt;&lt;iframe width=&quot;800&quot; height=&quot;30&quot; src=&quot;//archive.org/embed/call-to-prayer&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; webkitallowfullscreen=&quot;true&quot; mozallowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;figcaption&gt;Calls to prayer in Sarajevo&lt;/figcaption&gt;
+&lt;p&gt;&lt;br /&gt;
+We only had four days in Sarajevo, and one was to be spent in Srebrenica, so we dove right in the next day.&lt;/p&gt;
+
+&lt;h1 id=&quot;siege&quot;&gt;Siege&lt;/h1&gt;
+&lt;p class=&quot;notice&quot;&gt;A difficult ethnic history will not, by itself, necessarily cause the loss of hundreds of thousands of lives in conditions resembling the Holocaust. For that calamity, one needs additional factors: Western confusion and inaction which, in turn, create a power vacuum. Without these other elements, the horrors of the 1990s might not have occurred.
+&lt;br /&gt;&lt;br /&gt;
+&lt;em&gt;Kaplan, Robert D. (2014-04-01). Balkan Ghosts: A Journey Through History (Kindle Locations 86-88). Picador. Kindle Edition.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;We went on a tour of several places within and around the city to learn about the siege by Serbian forces, which started in 1992.&lt;/p&gt;
+
+&lt;p&gt;You don’t have to use much imagination to feel the loss Sarajevo has experienced. Row after row of tombstones fill hillsides and are wedged in between homes and in parks. Some tombs are from the time of the Ottoman Empire; most dates fall between 1992 and 1996.&lt;/p&gt;
+
+&lt;figure class=&quot;third &quot;&gt;
+  
+    
+      &lt;a href=&quot;http://elisabethgray.me//images/sarajevo/sarajevo-city-cemetery.jpg&quot; title=&quot;The city cemetery has a mix of religions and ethnicities: Muslim, Orthodox, Catholic, and Jewish.&quot;&gt;
+        &lt;img src=&quot;http://elisabethgray.me//images/sarajevo/sarajevo-city-cemetery.jpg&quot; alt=&quot;sarajevo-city-cemetery&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://elisabethgray.me//images/sarajevo/sarajevo-war-cemetery.jpg&quot; title=&quot;War hero cemetery with Sarajevo's twin towers in the background. You can tell what religion the person was by the color of the tombstone. White is Muslim, and black and grey are Orthodox and Catholic. Those buried here were all Muslim.&quot;&gt;
+        &lt;img src=&quot;http://elisabethgray.me//images/sarajevo/sarajevo-war-cemetery.jpg&quot; alt=&quot;sarajevo-war-cemetery&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://elisabethgray.me//images/sarajevo/ottoman-cemetery.jpg&quot; title=&quot;Ottoman cemetery&quot;&gt;
+        &lt;img src=&quot;http://elisabethgray.me/images/sarajevo/ottoman-cemetery.jpg&quot; alt=&quot;ottoman-cemetery&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://elisabethgray.me//images/sarajevo/sarajevo-tunel-spasa.jpg&quot; title=&quot;This home was the endpoint of Tunel Spasa, the Tunnel of Hope, dug during the war to move people and goods out of range of snipers. It goes under the airport, which was UN-controlled at the time.&quot;&gt;
+        &lt;img src=&quot;http://elisabethgray.me//images/sarajevo/sarajevo-tunel-spasa.jpg&quot; alt=&quot;sarajevo-tunel-spasa&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://elisabethgray.me//images/sarajevo/war-generator.jpg&quot; title=&quot;Generator made from a Fiat engine&quot;&gt;
+        &lt;img src=&quot;http://elisabethgray.me//images/sarajevo/war-generator.jpg&quot; alt=&quot;war-generator&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://elisabethgray.me//images/sarajevo/sarajevo-rose.jpg&quot; title=&quot;Sarajevo roses such as this one can be found throughout the city. Red cement was used to fill in mortar damage and indicates that four or more people were killed by the blast.&quot;&gt;
+        &lt;img src=&quot;http://elisabethgray.me//images/sarajevo/sarajevo-rose.jpg&quot; alt=&quot;sarajevo-rose&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+  
+&lt;/figure&gt;
+
+&lt;p&gt;Loss is an obvious part of the city and the people’s identity; so are defiance and resilience. The &lt;a href=&quot;https://en.wikipedia.org/wiki/Siege_of_Sarajevo&quot;&gt;siege of Sarajevo&lt;/a&gt; lasted nearly four years. On average, nearly 330 bombs were dropped per day in an effort to break the morale of those within the city. Snipers were spread out around the 70 kilometer siege perimeter, and supply lines into the city were cut or constrained. In response, Sarajevans used guerilla warfare to combat their opponents, and the &lt;a href=&quot;https://en.wikipedia.org/wiki/Sarajevo_Tunnel&quot;&gt;Tunel Spasa&lt;/a&gt; was built to transport people and goods in and out of the city.&lt;/p&gt;
+
+&lt;p class=&quot;center&quot;&gt;&lt;img src=&quot;/images/sarajevo/sarajevo-cemetery-pano.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;We passed the war cemetery every time we went out; every day the sunrise and sunset were breathtaking. Enjoying something beautiful while simultaneously feeling sad about such a significant loss is complicated. &lt;/figcaption&gt;
+
+&lt;h2 id=&quot;a-little-background&quot;&gt;A little background&lt;/h2&gt;
+&lt;p&gt;In this region, one’s ethnicity determines their expected religious affiliation. Bosniaks are Muslim, Croats are Catholic, and Serbs are Orthodox. Today, each major ethnic group in the country is represented by a democratically elected president, legislative, judicial, and local officials. This was the structure defined by the &lt;a href=&quot;https://en.wikipedia.org/wiki/Dayton_Agreement&quot;&gt;Dayton Accords&lt;/a&gt;. The Dayton Agreement was established as the transitional constitution for Bosnia-Herzegovina (BiH); it is still in place today, as a new constitution has not been agreed upon.&lt;/p&gt;
+
+&lt;p&gt;Our guide noted that the presidents of BiH must agree unanimously in order to enact new laws or create a new constitution. This makes it nearly impossible for anything to get done. Much of the population’s focus is therefore on local efforts. He emphasized that people make things happen and that they had given up on government.&lt;/p&gt;
+
+&lt;p&gt;Nothing seemed overtly tense during our time in Sarajevo. Both of our guides’ perspectives were that Bosniaks, Croats, and Serbs lived together quite well prior to the war and that nationalism is what broke them apart. They used the proximity of old Catholic, Jewish, Muslim, and Orthodox places of worship as an historic example of peaceful coexistence.&lt;/p&gt;
+
+&lt;h1 id=&quot;old-city&quot;&gt;Old City&lt;/h1&gt;
+&lt;p&gt;We liked exploring the old city early in the day when it wasn’t as busy, but the energy of the area when the streets are filled with shop owners, cafe-goers, pigeon-feeders, and people-watchers was warm and electric.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Listen&lt;/strong&gt;:&lt;/p&gt;
+&lt;div class=&quot;audio&quot;&gt;&lt;iframe width=&quot;800&quot; height=&quot;30&quot; src=&quot;//archive.org/embed/come-on-down-barhana&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; webkitallowfullscreen=&quot;true&quot; mozallowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;figcaption&gt;Music playing at Barhana cafe at lunchtime&lt;/figcaption&gt;
+
+&lt;figure class=&quot;third &quot;&gt;
+  
+    
+      &lt;a href=&quot;http://elisabethgray.me//images/sarajevo/old-sarajevo.jpg&quot; title=&quot;Old Sarajevo: Baghdad Cafe, Hacienda Cantina Mexicana, and a minaret in the background&quot;&gt;
+        &lt;img src=&quot;http://elisabethgray.me//images/sarajevo/old-sarajevo.jpg&quot; alt=&quot;old-sarajevo&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://elisabethgray.me//images/sarajevo/old-sarajevo-2.jpg&quot; title=&quot;Sebilj in Baščaršija square&quot;&gt;
+        &lt;img src=&quot;http://elisabethgray.me//images/sarajevo/old-sarajevo-2.jpg&quot; alt=&quot;old-sarajevo-2&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://elisabethgray.me//images/sarajevo/old-sarajevo-3.jpg&quot; title=&quot;Side street in old Sarajevo&quot;&gt;
+        &lt;img src=&quot;http://elisabethgray.me//images/sarajevo/old-sarajevo-3.jpg&quot; alt=&quot;old-sarajevo-3&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://elisabethgray.me//images/sarajevo/sarajevo-restaurant.jpg&quot; title=&quot;Dinner at Dveri&quot;&gt;
+        &lt;img src=&quot;http://elisabethgray.me//images/sarajevo/sarajevo-restaurant.jpg&quot; alt=&quot;sarajevo-restaurant&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://elisabethgray.me//images/sarajevo/sarajevo-sunset.jpg&quot; title=&quot;&quot;&gt;
+        &lt;img src=&quot;http://elisabethgray.me//images/sarajevo/sarajevo-sunset.jpg&quot; alt=&quot;sarajevo-sunset&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://elisabethgray.me//images/sarajevo/mosque.jpg&quot; title=&quot;Baščaršijska džamija mosque&quot;&gt;
+        &lt;img src=&quot;http://elisabethgray.me//images/sarajevo/mosque.jpg&quot; alt=&quot;mosque&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+  
+&lt;/figure&gt;
+
+&lt;p&gt;We saw a broad range of liberal and conservative religious folks, all intermingling within the old city. Sarajevo itself feels more secular. From the people we spoke to, it seems that, much like in the US, many people associate with a religion (primarily based on culture/ethnicity) and observe religious holidays but are otherwise neutral.&lt;/p&gt;
+
+&lt;h1 id=&quot;walking-tour&quot;&gt;Walking tour&lt;/h1&gt;
+&lt;p&gt;The city’s full of interesting little details, so we explored and found indications of the area’s Austro-Hungarian, Ottoman, Capitalist, and Communist influences. A little bit of something for everyone, really. Check out the details in each photo for more information.&lt;/p&gt;
+
+&lt;figure class=&quot;third &quot;&gt;
+  
+    
+      &lt;a href=&quot;http://elisabethgray.me//images/sarajevo/sarajevo-tram.jpg&quot; title=&quot;Sarajevo trams seem to run quite frequently&quot;&gt;
+        &lt;img src=&quot;http://elisabethgray.me//images/sarajevo/sarajevo-tram.jpg&quot; alt=&quot;sarajevo-tram&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://elisabethgray.me//images/sarajevo/sarajevo-buildings.jpg&quot; title=&quot;Remnants of Austro-Hungarian influence and the toll of war&quot;&gt;
+        &lt;img src=&quot;http://elisabethgray.me//images/sarajevo/sarajevo-buildings.jpg&quot; alt=&quot;sarajevo-buildings&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://elisabethgray.me//images/sarajevo/princip.jpg&quot; title=&quot;The bridge in the background is where Gavrilo Princip shot and killed Archduke Frank Ferdinand and triggered World War I.&quot;&gt;
+        &lt;img src=&quot;http://elisabethgray.me//images/sarajevo/princip.jpg&quot; alt=&quot;princip&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://elisabethgray.me//images/sarajevo/goldfish-bar-3.jpg&quot; title=&quot;Zlatna ribica (Goldfish) bar: the inside is a lot like what I imagine the inside of my brain looks like.&quot;&gt;
+        &lt;img src=&quot;http://elisabethgray.me//images/sarajevo/goldfish-bar-3.jpg&quot; alt=&quot;goldfish-bar-3&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://elisabethgray.me//images/sarajevo/meeting-of-cultures.jpg&quot; title=&quot;The dividing line between old city and new, Muslim and Christian&quot;&gt;
+        &lt;img src=&quot;http://elisabethgray.me//images/sarajevo/meeting-of-cultures.jpg&quot; alt=&quot;meeting-of-cultures&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://elisabethgray.me//images/sarajevo/men-playing-chess.jpg&quot; title=&quot;Men playing chess in the park&quot;&gt;
+        &lt;img src=&quot;http://elisabethgray.me//images/sarajevo/men-playing-chess.jpg&quot; alt=&quot;men-playing-chess&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+  
+&lt;/figure&gt;
+
+&lt;p&gt;After all that walking, imagine sitting down in a bar filled with artifacts from different places and times, ordering a drink, and listening to this:&lt;/p&gt;
+&lt;div class=&quot;audio&quot;&gt;&lt;iframe width=&quot;800&quot; height=&quot;30&quot; src=&quot;//archive.org/embed/goldfish-bar-sarajevo&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; webkitallowfullscreen=&quot;true&quot; mozallowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;figcaption&gt;Music playing at Zlatna ribica (goldfish) bar&lt;/figcaption&gt;
+&lt;p&gt;&lt;br /&gt;
+It was the perfect ending to our day and time in Sarajevo.&lt;/p&gt;
+
+&lt;h1 id=&quot;coming-soon&quot;&gt;Coming Soon&lt;/h1&gt;
+&lt;p&gt;Photos and stories from our day trip to Srebrenica.&lt;/p&gt;
+
+&lt;h1 id=&quot;further-reading&quot;&gt;Further Reading&lt;/h1&gt;
+&lt;p&gt;For a little bit different take on Bosnia, Sarajevo, and the war, check out Joe Sacco’s graphic novels.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://amzn.to/2dezxyF&quot;&gt;The Fixer: A Story from Sarajevo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://amzn.to/2cBgPil&quot;&gt;War’s End: Profiles from Bosnia, 1995-1996&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Additional reading on Bosnia and politics:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.balkaninsight.com/en/blog/bosnia-voting-for-the-devil-you-know-1&quot;&gt;Bosnia - Voting for the Devil You Know&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jessiehronesova.wordpress.com/2016/01/20/bosnias-eu-application-political-ruse-or-misguided-optimism/&quot;&gt;Opinion: Bosnia’s EU Application&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jessiehronesova.wordpress.com/2016/01/14/eu-and-western-balkans/&quot;&gt;Opinion: EU and Western Balkans&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.balkaninsight.com/en/article/disputes-delay-publication-of-bosnia-census-11-04-2015&quot;&gt;Disputes Delay Publication of Bosnia Census&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+    <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+      <li><strong>Follow:</strong></li>
+    
+    
+      <li><a href="https://twitter.com/elcgray"><i class="fa fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
+    
+    
+      <li><a href="https://facebook.com/elcgray"><i class="fa fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>
+    
+    
+      <li><a href="http://github.com/elcgray"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+    
+    
+    <li><a href="http://elisabethgray.me/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+  </ul>
+</div>
+
+<div class="page__footer-copyright">&copy; 2016 Elisabeth C Gray. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+  </content>
+</entry>
 
 
 <entry>
@@ -265,7 +538,7 @@ At that moment, as the crowd roared, the Serbian revolt against the Yugoslav fed
 &lt;p&gt;I’ll share photos and stories from:&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Bosnia&lt;/strong&gt;: Sarajevo, Srebrenica, and the trip south through Mostar&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Bosnia&lt;/strong&gt;: &lt;a href=&quot;/bosnia-sarajevo&quot;&gt;Sarajevo&lt;/a&gt;, Srebrenica, and the trip south through Mostar&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Croatia&lt;/strong&gt;: Dubrovnik, Korčula, Split, Plitviče lakes, and Zagreb&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Slovenia&lt;/strong&gt;: Ljubljana, Vintgar gorge, Lake Bled, and Hiša Franko&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Italy&lt;/strong&gt;: Venice&lt;/li&gt;
