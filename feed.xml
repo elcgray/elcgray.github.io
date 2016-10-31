@@ -149,7 +149,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://elisabethgray.me/feed.xml" />
 <link rel="alternate" type="text/html" href="http://elisabethgray.me" />
-<updated>2016-10-30T21:55:46-05:00</updated>
+<updated>2016-10-30T22:02:01-05:00</updated>
 <id>http://elisabethgray.me/</id>
 <author>
   <name></name>
@@ -170,7 +170,24 @@
     
   </author>
   <content type="html">
-    &lt;h1 id=&quot;into-republika-srpska&quot;&gt;Into Republika Srpska&lt;/h1&gt;
+    &lt;aside class=&quot;sidebar__right&quot;&gt;
+&lt;nav class=&quot;toc&quot;&gt;
+    &lt;header&gt;&lt;h4 class=&quot;nav__title&quot;&gt;&lt;i class=&quot;fa fa-file-text&quot;&gt;&lt;/i&gt; Table of Contents&lt;/h4&gt;&lt;/header&gt;
+&lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#into-republika-srpska&quot; id=&quot;markdown-toc-into-republika-srpska&quot;&gt;Into Republika Srpska&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#referendum-day&quot; id=&quot;markdown-toc-referendum-day&quot;&gt;Referendum day&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#srebrenica&quot; id=&quot;markdown-toc-srebrenica&quot;&gt;Srebrenica&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#return-trip&quot; id=&quot;markdown-toc-return-trip&quot;&gt;Return Trip&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#coming-soon&quot; id=&quot;markdown-toc-coming-soon&quot;&gt;Coming Soon&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#reading-list&quot; id=&quot;markdown-toc-reading-list&quot;&gt;Reading List&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+  &lt;/nav&gt;
+&lt;/aside&gt;
+
+&lt;h1 id=&quot;into-republika-srpska&quot;&gt;Into Republika Srpska&lt;/h1&gt;
 &lt;p&gt;Bosnia has two autonomous entities: the Federation of Bosnia and Herzegovina (BiH) and Republika Srpska (RS). Sarajevo is within the Federation of BiH, and Srebrenica is in Republika Srpska. There are no border crossings between these regions, so the best way to tell which you’re in is by looking at the road signs; the Federation of BiH uses the Latin alphabet, and Republika Srpska uses Cyrillic. Republika Srpska is predominantly Serb, and the Federation of Bosnia and Herzegovina is mostly Bosniak to the north, Croat to the south.&lt;/p&gt;
 
 &lt;p&gt;On September 25th, the tour group consisted of Rachel and me, so our guide drove us two-and-a-half hours northeast to the &lt;a href=&quot;https://en.wikipedia.org/wiki/Srebrenica_Genocide_Memorial&quot;&gt;Srebrenica Genocide Memorial&lt;/a&gt;. We passed from the Federation region into Republika Srpska without ceremony.&lt;/p&gt;
@@ -541,7 +558,7 @@ We only had four days in Sarajevo, and one was to be spent in Srebrenica, so we 
 It was the perfect ending to our day and time in Sarajevo.&lt;/p&gt;
 
 &lt;h1 id=&quot;coming-soon&quot;&gt;Coming Soon&lt;/h1&gt;
-&lt;p&gt;Photos and stories from our day trip to Srebrenica.&lt;/p&gt;
+&lt;p&gt;Photos and stories from our day trip to &lt;a href=&quot;/bosnia-srebrenica&quot;&gt;Srebrenica&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h1 id=&quot;further-reading&quot;&gt;Further Reading&lt;/h1&gt;
 &lt;p&gt;For a little bit different take on Bosnia, Sarajevo, and the war, check out Joe Sacco’s graphic novels.&lt;/p&gt;
