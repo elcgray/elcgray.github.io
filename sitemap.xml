@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://elisabethgray.me/bosnia-srebrenica/</loc>
+<lastmod>2016-10-30T00:00:00-05:00</lastmod>
+</url>
+<url>
 <loc>http://elisabethgray.me/bosnia-sarajevo/</loc>
 <lastmod>2016-10-24T00:00:00-05:00</lastmod>
 </url>
@@ -81,6 +85,18 @@
 <loc>http://elisabethgray.me/posts/</loc>
 </url>
 <url>
+<loc>http://elisabethgray.me/page2/</loc>
+</url>
+<url>
+<loc>http://elisabethgray.me/page3/</loc>
+</url>
+<url>
+<loc>http://elisabethgray.me/page4/</loc>
+</url>
+<url>
+<loc>http://elisabethgray.me/page5/</loc>
+</url>
+<url>
 <loc>http://elisabethgray.me/academics/arab-uprisings/</loc>
 </url>
 <url>
@@ -97,6 +113,6 @@
 </url>
 <url>
 <loc>http://elisabethgray.me/images/cv.pdf</loc>
-<lastmod>2016-10-25T15:11:49-05:00</lastmod>
+<lastmod>2016-10-23T11:13:28-05:00</lastmod>
 </url>
 </urlset>
